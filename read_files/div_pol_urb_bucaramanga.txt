@@ -1,20 +1,31 @@
-Comuna 1 Norte:
-Barrios: El Rosal, Colorados, Café Madrid, Las Hamacas, Altos del Kennedy, Kennedy, Balcones del Kennedy, Las Olas, Villa Rosa (sectores I, II y III), Omagá (sectores I y II), Minuto de Dios, Tejar Norte (sectores I y II), Miramar, Miradores del Kennedy, El Pablón (Villa Lina, La Torre, Villa Patricia, Sector Don Juan, Pablón Alto y Bajo).
-Asentamientos: Barrio Nuevo, Divino Niño, 13 de Junio, Altos del Progreso, María Paz.
-Urbanizaciones: Colseguros Norte, Rosa Alta.
-
-Comuna 2 Nororiental:
-Barrios: Los Angeles, Villa Helena I y II, José María Córdoba, Esperanza I, II y III, Lizcano I y II, Regadero Norte, San Cristóbal, La Juventud, Transición I, II, III, IV y V, La Independencia, Villa Mercedes, Bosque Norte.
-Asentamientos: Mesetas del Santuario, Villa María, Mirador, Primaveral, Olitas, Olas II.
-
-Comuna  3 San Francisco:
-Barrios: Norte Bajo, San Rafael, El Cinal, Chapinero, Comuneros, La Universidad, Mutualidad, Modelo, San Francisco, Alarcón.
-Asentamientos: Puerto Rico.
-Otros: UIS
-
-Comuna  4 Occidental:
-Barrios: Gaitán, Granadas, Nariño, Girardot, La Feria, Nápoles, Pío Xll, 23 de Junio, Santander, Don Bosco, 12 de Octubre, La Gloria.
-Asentamientos: Camilo Torres, Zarabanda, Granjas de Palonegro Norte, Granjas de Palonegro Sur, Navas.
+{'zona':
+        {'Comuna 1 Norte':
+            {'Barrios':
+                            [El Rosal, Colorados, Café Madrid, Las Hamacas, Altos del Kennedy, Kennedy, Balcones del Kennedy, Las Olas, Villa Rosa (sectores I, II y III), Omagá (sectores I y II), Minuto de Dios, Tejar Norte (sectores I y II), Miramar, Miradores del Kennedy, El Pablón (Villa Lina, La Torre, Villa Patricia, Sector Don Juan, Pablón Alto y Bajo)],
+            'Asentamientos':
+                            [Barrio Nuevo, Divino Niño, 13 de Junio, Altos del Progreso, María Paz],
+            'Urbanizaciones': 
+                            [Colseguros Norte, Rosa Alta]
+            },
+        'Comuna 2 Nororiental':
+            {'Barrios':
+                        [Los Angeles, Villa Helena I y II, José María Córdoba, Esperanza I, II y III, Lizcano I y II, Regadero Norte, San Cristóbal, La Juventud, Transición I, II, III, IV y V, La Independencia, Villa Mercedes, Bosque Norte],
+            'Asentamientos':
+                        [Mesetas del Santuario, Villa María, Mirador, Primaveral, Olitas, Olas II]
+            },    
+        'Comuna  3 San Francisco':
+            {'Barrios': 
+                        [Norte Bajo, San Rafael, El Cinal, Chapinero, Comuneros, La Universidad, Mutualidad, Modelo, San Francisco, Alarcón],
+            'Asentamientos':
+                        [Puerto Rico],
+            'Otros': 
+                        [UIS]
+            },
+        {'Comuna  4 Occidental':
+            {'Barrios':
+                        [Gaitán, Granadas, Nariño, Girardot, La Feria, Nápoles, Pío Xll, 23 de Junio, Santander, Don Bosco, 12 de Octubre, La Gloria],
+            {'Asentamientos':
+                        [Camilo Torres, Zarabanda, Granjas de Palonegro Norte, Granjas de Palonegro Sur, Navas],
 Otros: Zona Industrial (Río de Oro).
 
 Comuna  5 García Rovira
