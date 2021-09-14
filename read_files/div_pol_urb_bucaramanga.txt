@@ -79,3 +79,34 @@ Otros: UDES.
 Comuna  17 Mutis
 Barrios: Mutis, Balconcitos, Monterredondo, Héroes, Estoraques I y II, Prados del Mutis.
 Urbanizaciones: Prados del Mutis.
+
+1.- Norte - (Norte - Centro) - 7500101
+2.- Nororiental - 
+3.- San Francisco - Oriente - 7500103
+14.- Morrorico - Morrorico - 75001
+4.- Occidental - Occidental - 7500104
+5.- García Rovira - García Rovira - 7500105
+6.- La Concordia - La Concordia - 7500106
+7.- La Ciudadela - La Ciudadela - 7500107
+8.- Sur Occidente - (Occidente - Sur) - 7500102
+9.- La Pedregosa - La Pedregosa - 7500109
+10.- Provenza - Provenza - 7500110
+11.- Sur - Sur - 7500111
+12.- Cabecera del llano - Cabecera del Llano - 7500112
+13.- Oriental - Centro Oriental - 7500113
+15.- Centro - Centro - 7500115
+16.- Lagos del Cacique - Lagos del Cacique - 7500116
+17.- Mutis - Mutis - 7500117
+
+Sur Oriental - 7500108
+
+
+
+
+
+
+
+
+
+
+
