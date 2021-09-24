@@ -1,28 +1,3 @@
-
-
-
-Buscar en Fincaraiz
-
-
-
-
-Fincaraiz
-
-
-
-
-
-
-
-
-
-Erwin Monguí
-
-
-
-Erwin Monguí
-
-
 Erwin Monguí  18:25
 --BEGIN TRANSACTION
 

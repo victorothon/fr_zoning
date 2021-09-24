@@ -1,0 +1,1132 @@
+lupap_codes
+Departamento;Municipio;código ciudad
+Bogotá, d.c.;Bogotá, d.c.;bogota
+Amazonas;El Encanto;ama_el_encanto
+Amazonas;La Chorrera;ama_la_chorrera
+Amazonas;La Pedrera;ama_la_pedrera
+Amazonas;La Victoria;ama_la_victoria
+Amazonas;Leticia;leticia
+Amazonas;Mirití - Paraná;ama_miriti_parana
+Amazonas;Puerto Alegría;ama_puerto_alegria
+Amazonas;Puerto Arica;ama_puerto_arica
+Amazonas;Puerto Nariño;ama_puerto_narino
+Amazonas;Puerto Santander;ama_santander
+Amazonas;Tarapacá;ama_tarapaca
+Antioquia;Medellín;medellin
+Antioquia;Abejorral;ant_abejorral
+Antioquia;Abriaquí;ant_abriaqui
+Antioquia;Alejandría;ant_alejandria
+Antioquia;Amagá;ant_amaga
+Antioquia;Amalfi;ant_amalfi
+Antioquia;Andes;ant_andes
+Antioquia;Angelópolis;ant_angelopolis
+Antioquia;Angostura;ant_angostura
+Antioquia;Anorí;ant_anori
+Antioquia;Anzá;ant_anza
+Antioquia;Apartadó;ant_apartado
+Antioquia;Arboletes;ant_arboletes
+Antioquia;Argelia;ant_argelia
+Antioquia;Armenia;ant_armenia
+Antioquia;Barbosa;ant_barbosa
+Antioquia;Bello;ant_bello
+Antioquia;Belmira;ant_belmira
+Antioquia;Betania;ant_betania
+Antioquia;Betulia;ant_betulia
+Antioquia;Briceño;ant_briceno
+Antioquia;Buriticá;ant_buritica
+Antioquia;Cáceres;ant_caceres
+Antioquia;Caicedo;ant_caicedo
+Antioquia;Caldas;ant_caldas
+Antioquia;Campamento;ant_campamento
+Antioquia;Cañasgordas;ant_canasgordas
+Antioquia;Caracolí;ant_caracoli
+Antioquia;Caramanta;ant_caramanta
+Antioquia;Carepa;ant_carepa
+Antioquia;Carmen De Viboral;ant_carmen_de_viboral
+Antioquia;Carolina;ant_carolina
+Antioquia;Caucasia;ant_caucasia
+Antioquia;Chigorodó;ant_chigorodo
+Antioquia;Cisneros;ant_cisneros
+Antioquia;Ciudad Bolívar;ant_ciudad_bolivar
+Antioquia;Cocorná;ant_cocorna
+Antioquia;Concepción;ant_concepcion
+Antioquia;Concordia;ant_concordia
+Antioquia;Copacabana;ant_copacabana
+Antioquia;Dabeiba;ant_dabeiba
+Antioquia;Donmatías;ant_don_matias
+Antioquia;Ebéjico;ant_ebejico
+Antioquia;El Bagre;ant_el_bagre
+Antioquia;Entrerrios;ant_entrerrios
+Antioquia;Envigado;ant_envigado
+Antioquia;Fredonia;ant_fredonia
+Antioquia;Frontino;ant_frontino
+Antioquia;Giraldo;ant_giraldo
+Antioquia;Girardota;ant_girardota
+Antioquia;Gómez Plata;ant_gomez_plata
+Antioquia;Granada;ant_granada
+Antioquia;Guadalupe;ant_guadalupe
+Antioquia;Guarne;ant_guarne
+Antioquia;Guatapé;ant_guatape
+Antioquia;Heliconia;ant_heliconia
+Antioquia;Hispania;ant_hispania
+Antioquia;Itagüí;ant_itagui
+Antioquia;Ituango;ant_ituango
+Antioquia;Jardín;ant_jardin
+Antioquia;Jericó;ant_jerico
+Antioquia;La Ceja;ant_la_ceja
+Antioquia;La Estrella;ant_la_estrella
+Antioquia;La Pintada;ant_la_pintada
+Antioquia;La Union;ant_la_union
+Antioquia;Liborina;ant_liborina
+Antioquia;Maceo;ant_maceo
+Antioquia;Marinilla;ant_marinilla
+Antioquia;Montebello;ant_montebello
+Antioquia;Murindó;ant_murindo
+Antioquia;Mutatá;ant_mutata
+Antioquia;Nariño;ant_narino
+Antioquia;Nechí;ant_nechi
+Antioquia;Necoclí;ant_necocli
+Antioquia;Olaya;ant_olaya
+Antioquia;Peñol;ant_penol
+Antioquia;Peque;ant_peque
+Antioquia;Pueblorrico;ant_pueblorrico
+Antioquia;Puerto Berrío;ant_puerto_berrio
+Antioquia;Puerto Nare;ant_puerto_nare
+Antioquia;Puerto Triunfo;ant_puerto_triunfo
+Antioquia;Remedios;ant_remedios
+Antioquia;Retiro;ant_retiro
+Antioquia;Rionegro;ant_rionegro
+Antioquia;Sabanalarga;ant_sabanalarga
+Antioquia;Sabaneta;ant_sabaneta
+Antioquia;Salgar;ant_salgar
+Antioquia;San Andrés;ant_san_andres
+Antioquia;San Carlos;ant_san_carlos
+Antioquia;San Francisco;ant_san_francisco
+Antioquia;San Jerónimo;ant_san_jeronimo
+Antioquia;San José De La Montaña;ant_san_jose_de_la_montana
+Antioquia;San Juan De Urabá;ant_san_juan_de_uraba
+Antioquia;San Luis;ant_san_luis
+Antioquia;San Pedro;ant_san_pedro
+Antioquia;San Pedro De Urabá;ant_san_pedro_de_uraba
+Antioquia;San Rafael;ant_san_rafael
+Antioquia;San Roque;ant_san_roque
+Antioquia;San Vicente;ant_san_vicente
+Antioquia;Santa Bárbara;ant_santa_barbara
+Antioquia;Santa Fe De Antioquia;ant_santa_fe_de_antioquia
+Antioquia;Santa Rosa De Osos;ant_santa_rosa_de_osos
+Antioquia;Santo Domingo;ant_santo_domingo
+Antioquia;Santuario;ant_santuario
+Antioquia;Segovia;ant_segovia
+Antioquia;Sonsón;ant_sonson
+Antioquia;Sopetrán;ant_sopetran
+Antioquia;Támesis;ant_tamesis
+Antioquia;Tarazá;ant_taraza
+Antioquia;Tarso;ant_tarso
+Antioquia;Titiribí;ant_titiribi
+Antioquia;Toledo;ant_toledo
+Antioquia;Turbo;ant_turbo
+Antioquia;Uramita;ant_uramita
+Antioquia;Urrao;ant_urrao
+Antioquia;Valdivia;ant_valdivia
+Antioquia;Valparaíso;ant_valparaiso
+Antioquia;Vegachí;ant_vegachi
+Antioquia;Venecia;ant_venecia
+Antioquia;Vigía Del Fuerte;ant_vigia_del_fuerte
+Antioquia;Yalí;ant_yali
+Antioquia;Yarumal;ant_yarumal
+Antioquia;Yolombó;ant_yolombo
+Antioquia;Yondó;ant_yondo
+Antioquia;Zaragoza;ant_zaragoza
+Arauca;Arauca;arauca
+Arauca;Arauquita;ara_arauquita
+Arauca;Cravo Norte;ara_cravo_norte
+Arauca;Fortul;ara_fortul
+Arauca;Puerto Rondón;ara_puerto_rondon
+Arauca;Saravena;ara_saravena
+Arauca;Tame;ara_tame
+Atlántico;Barranquilla;barranquilla
+Atlántico;Baranoa;atl_baranoa
+Atlántico;Campo De La Cruz;atl_campo_de_la_cruz
+Atlántico;Candelaria;atl_candelaria
+Atlántico;Galapa;atl_galapa
+Atlántico;Juan De Acosta;atl_juan_de_acosta
+Atlántico;Luruaco;atl_luruaco
+Atlántico;Malambo;atl_malambo
+Atlántico;Manatí;atl_manati
+Atlántico;Palmar De Varela;atl_palmar_de_varela
+Atlántico;Piojó;atl_piojo
+Atlántico;Polonuevo;atl_polonuevo
+Atlántico;Ponedera;atl_ponedera
+Atlántico;Puerto Colombia;atl_puerto_colombia
+Atlántico;Repelón;atl_repelon
+Atlántico;Sabanagrande;atl_sabanagrande
+Atlántico;Sabanalarga;atl_sabanalarga
+Atlántico;Santa Lucía;atl_santa_lucia
+Atlántico;Santo Tomás;atl_santo_tomas
+Atlántico;Soledad;atl_soledad
+Atlántico;Suan;atl_suan
+Atlántico;Tubará;atl_tubara
+Atlántico;Usiacurí;atl_usiacuri
+Bolivar;Achí;bol_achi
+Bolivar;Altos Del Rosario;bol_altos_del_rosario
+Bolivar;Arenal;bol_arenal
+Bolivar;Arjona;bol_arjona
+Bolivar;Arroyohondo;bol_arroyohondo
+Bolivar;Barranco De Loba;bol_barranco_de_loba
+Bolivar;Calamar;bol_calamar
+Bolivar;Cantagallo;bol_cantagallo
+Bolivar;Cartagena;cartagena
+Bolivar;Cicuco;bol_cicuco
+Bolivar;Clemencia;bol_clemencia
+Bolivar;Córdoba;bol_cordoba
+Bolivar;El Carmen De Bolívar;bol_el_carmen_de_bolivar
+Bolivar;El Guamo;bol_el_guamo
+Bolivar;El Peñón;bol_el_penon
+Bolivar;Hatillo De Loba;bol_hatillo_de_loba
+Bolivar;Jurisdicción De Hatillo De Loba;bol_jurisdiccion_hatillo_de_loba
+Bolivar;Magangué;bol_magangue
+Bolivar;Mahates;bol_mahates
+Bolivar;Margarita;bol_margarita
+Bolivar;Maria La Baja;bol_maria_la_baja
+Bolivar;Mompós;bol_mompos
+Bolivar;Montecristo;bol_montecristo
+Bolivar;Morales;bol_morales
+Bolivar;Norosi;bol_norosi
+Bolivar;Pinillos;bol_pinillos
+Bolivar;Regidor;bol_regidor
+Bolivar;Río Viejo;bol_rioviejo
+Bolivar;San Cristóbal;bol_san_cristobal
+Bolivar;San Estanislao;bol_san_estanislao
+Bolivar;San Fernando;bol_san_fernando
+Bolivar;San Jacinto;bol_san_jacinto
+Bolivar;San Jacinto Del Cauca;bol_san_jacinto_del_cauca
+Bolivar;San Juan Nepomuceno;bol_san_juan_nepomuceno
+Bolivar;San Martín De Loba;bol_san_martin_de_loba
+Bolivar;San Pablo;bol_san_pablo
+Bolivar;Santa Catalina;bol_santa_catalina
+Bolivar;Santa Rosa;bol_santa_rosa
+Bolivar;Santa Rosa Del Sur;bol_santa_rosa_del_sur
+Bolivar;Simití;bol_simiti
+Bolivar;Soplaviento;bol_soplaviento
+Bolivar;Talaigua Nuevo;bol_talaigua_nuevo
+Bolivar;Tiquisio;bol_tiquisio
+Bolivar;Turbaco;bol_turbaco
+Bolivar;Turbana;bol_turbana
+Bolivar;Villanueva;bol_villanueva
+Bolivar;Zambrano;bol_zambrano
+Boyacá;Almeida;boy_almeida
+Boyacá;Aquitania;boy_aquitania
+Boyacá;Arcabuco;boy_arcabuco
+Boyacá;Belén;boy_belen
+Boyacá;Berbeo;boy_berbeo
+Boyacá;Betéitiva;boy_beteitiva
+Boyacá;Boavita;boy_boavita
+Boyacá;Boyacá;boy_boyaca
+Boyacá;Briceño;boy_briceno
+Boyacá;Buenavista;boy_buenavista
+Boyacá;Busbanzá;boy_busbanza
+Boyacá;Caldas;boy_caldas
+Boyacá;Campohermoso;boy_campohermoso
+Boyacá;Cerinza;boy_cerinza
+Boyacá;Chinavita;boy_chinavita
+Boyacá;Chiquinquirá;boy_chiquinquira
+Boyacá;Chíquiza;boy_chiquiza
+Boyacá;Chiscas;boy_chiscas
+Boyacá;Chita;boy_chita
+Boyacá;Chitaraque;boy_chitaraque
+Boyacá;Chivatá;boy_chivata
+Boyacá;Chivor;boy_chivor
+Boyacá;Ciénega;boy_cienega
+Boyacá;Cómbita;boy_combita
+Boyacá;Coper;boy_coper
+Boyacá;Corrales;boy_corrales
+Boyacá;Covarachía;boy_covarachia
+Boyacá;Cubará;boy_cubara
+Boyacá;Cucaita;boy_cucaita
+Boyacá;Cuítiva;boy_cuitiva
+Boyacá;Duitama;boy_duitama
+Boyacá;El Cocuy;boy_el_cocuy
+Boyacá;El Espino;boy_el_espino
+Boyacá;Firavitoba;boy_firavitoba
+Boyacá;Floresta;boy_floresta
+Boyacá;Gachantivá;boy_gachantiva
+Boyacá;Gámeza;boy_gameza
+Boyacá;Garagoa;boy_garagoa
+Boyacá;Guacamayas;boy_guacamayas
+Boyacá;Guateque;boy_guateque
+Boyacá;Guayatá;boy_guayata
+Boyacá;Güicán;boy_guican
+Boyacá;Iza;boy_iza
+Boyacá;Jenesano;boy_jenesano
+Boyacá;Jericó;boy_jerico
+Boyacá;La Capilla;boy_la_capilla
+Boyacá;La Uvita;boy_la_uvita
+Boyacá;La Victoria;boy_la_victoria
+Boyacá;Labranzagrande;boy_labranzagrande
+Boyacá;Macanal;boy_macanal
+Boyacá;Maripí;boy_maripi
+Boyacá;Miraflores;boy_miraflores
+Boyacá;Mongua;boy_mongua
+Boyacá;Monguí;boy_mongui
+Boyacá;Moniquirá;boy_moniquira
+Boyacá;Motavita;boy_motavita
+Boyacá;Muzo;boy_muzo
+Boyacá;Nobsa;boy_nobsa
+Boyacá;Nuevo Colón;boy_nuevo_colon
+Boyacá;Oicatá;boy_oicata
+Boyacá;Otanche;boy_otanche
+Boyacá;Pachavita;boy_pachavita
+Boyacá;Páez;boy_paez
+Boyacá;Paipa;boy_paipa
+Boyacá;Pajarito;boy_pajarito
+Boyacá;Panqueba;boy_panqueba
+Boyacá;Pauna;boy_pauna
+Boyacá;Paya;boy_paya
+Boyacá;Paz De Rio;boy_paz_de_rio
+Boyacá;Pesca;boy_pesca
+Boyacá;Pisba;boy_pisva
+Boyacá;Puerto Boyacá;boy_puerto_boyaca
+Boyacá;Quípama;boy_quipama
+Boyacá;Ramiriquí;boy_ramiriqui
+Boyacá;Ráquira;boy_raquira
+Boyacá;Rondón;boy_rondon
+Boyacá;Saboyá;boy_saboya
+Boyacá;Sáchica;boy_sachica
+Boyacá;Samacá;boy_samaca
+Boyacá;San Eduardo;boy_san_eduardo
+Boyacá;San José De Pare;boy_san_jose_de_pare
+Boyacá;San Luis De Gaceno;boy_san_luis_de_gaceno
+Boyacá;San Mateo;boy_san_mateo
+Boyacá;San Miguel De Sema;boy_san_miguel_de_sema
+Boyacá;San Pablo De Borbur;boy_san_pablo_de_borbur
+Boyacá;Santa María;boy_santa_maria
+Boyacá;Santa Rosa De Viterbo;boy_santa_rosa_de_viterbo
+Boyacá;Santa Sofía;boy_santa_sofia
+Boyacá;Santana;boy_santana
+Boyacá;Sativanorte;boy_sativanorte
+Boyacá;Sativasur;boy_sativasur
+Boyacá;Siachoque;boy_siachoque
+Boyacá;Soatá;boy_soata
+Boyacá;Socha;boy_socha
+Boyacá;Socotá;boy_socota
+Boyacá;Sogamoso;boy_sogamoso
+Boyacá;Somondoco;boy_somondoco
+Boyacá;Sora;boy_sora
+Boyacá;Soracá;boy_soraca
+Boyacá;Sotaquirá;boy_sotaquira
+Boyacá;Susacón;boy_susacon
+Boyacá;Sutamarchán;boy_sutamarchan
+Boyacá;Sutatenza;boy_sutatenza
+Boyacá;Tasco;boy_tasco
+Boyacá;Tenza;boy_tenza
+Boyacá;Tibaná;boy_tibana
+Boyacá;Tibasosa;boy_tibasosa
+Boyacá;Tinjacá;boy_tinjaca
+Boyacá;Tipacoque;boy_tipacoque
+Boyacá;Toca;boy_toca
+Boyacá;Togüí;boy_togui
+Boyacá;Tópaga;boy_topaga
+Boyacá;Tota;boy_tota
+Boyacá;Tunja;tunja
+Boyacá;Tununguá;boy_tunungua
+Boyacá;Turmequé;boy_turmeque
+Boyacá;Tuta;boy_tuta
+Boyacá;Tutazá;boy_tutaza
+Boyacá;Úmbita;boy_umbita
+Boyacá;Ventaquemada;boy_ventaquemada
+Boyacá;Villa De Leyva;boy_villa_de_leyva
+Boyacá;Viracachá;boy_viracacha
+Boyacá;Zetaquira;boy_zetaquira
+Caldas;Aguadas;cal_aguadas
+Caldas;Anserma;cal_anserma
+Caldas;Aranzazu;cal_aranzazu
+Caldas;Belalcázar;cal_belalcazar
+Caldas;Chinchiná;cal_chinchina
+Caldas;Filadelfia;cal_filadelfia
+Caldas;La Dorada;cal_la_dorada
+Caldas;La Merced;cal_la_merced
+Caldas;Manizales;manizales
+Caldas;Manzanares;cal_manzanares
+Caldas;Marmato;cal_marmato
+Caldas;Marquetalia;cal_marquetalia
+Caldas;Marulanda;cal_marulanda
+Caldas;Neira;cal_neira
+Caldas;Norcasia;cal_norcasia
+Caldas;Pácora;cal_pacora
+Caldas;Palestina;cal_palestina
+Caldas;Pensilvania;cal_pensilvania
+Caldas;Riosucio;cal_riosucio
+Caldas;Risaralda;cal_risaralda
+Caldas;Salamina;cal_salamina
+Caldas;Samaná;cal_samana
+Caldas;San José;cal_san_jose
+Caldas;Supía;cal_supia
+Caldas;Victoria;cal_victoria
+Caldas;Villamaría;cal_villamaria
+Caldas;Viterbo;cal_viterbo
+Caquetá;Albania;caq_albania
+Caquetá;Belén De Los Andaquíes;caq_belen_de_los_andaquies
+Caquetá;Cartagena Del Chairá;caq_cartagena_del_chaira
+Caquetá;Curillo;caq_curillo
+Caquetá;El Doncello;caq_el_doncello
+Caquetá;El Paujil;caq_el_paujil
+Caquetá;Florencia;florencia
+Caquetá;La Montañita;caq_montanita
+Caquetá;Milán;caq_milan
+Caquetá;Morelia;caq_morelia
+Caquetá;Puerto Rico;caq_puerto_rico
+Caquetá;San José Del Fragua;caq_san_jose_del_fragua
+Caquetá;San Vicente Del Caguán;caq_san_vicente_del_caguan
+Caquetá;Solano;caq_solano
+Caquetá;Solita;caq_solita
+Caquetá;Valparaíso;caq_valparaiso
+Casanare;Aguazul;cas_aguazul
+Casanare;Chámeza;cas_chameza
+Casanare;Hato Corozal;cas_hato_corozal
+Casanare;La Salina;cas_la_salina
+Casanare;Maní;cas_mani
+Casanare;Monterrey;cas_monterrey
+Casanare;Nunchía;cas_nunchia
+Casanare;Orocué;cas_orocue
+Casanare;Paz De Ariporo;cas_paz_de_ariporo
+Casanare;Pore;cas_pore
+Casanare;Recetor;cas_recetor
+Casanare;Sabanalarga;cas_sabanalarga
+Casanare;Sácama;cas_sacama
+Casanare;San Luis De Palenque;cas_san_luis_de_palenque
+Casanare;Támara;cas_tamara
+Casanare;Tauramena;cas_tauramena
+Casanare;Trinidad;cas_trinidad
+Casanare;Villanueva;cas_villanueva
+Casanare;Yopal;yopal
+Cauca;Almaguer;cau_almaguer
+Cauca;Argelia;cau_argelia
+Cauca;Balboa;cau_balboa
+Cauca;Bolívar;cau_bolivar
+Cauca;Buenos Aires;cau_buenos_aires
+Cauca;Cajibío;cau_cajibio
+Cauca;Caldono;cau_caldono
+Cauca;Caloto;cau_caloto
+Cauca;Corinto;cau_corinto
+Cauca;El Tambo;cau_el_tambo
+Cauca;Florencia;cau_florencia
+Cauca;Guachené;cau_guachene
+Cauca;Guapi;cau_guapi
+Cauca;Inzá;cau_inza
+Cauca;Jambaló;cau_jambalo
+Cauca;La Sierra;cau_la_sierra
+Cauca;La Vega;cau_la_vega
+Cauca;López de Micay;cau_lopez
+Cauca;Mercaderes;cau_mercaderes
+Cauca;Miranda;cau_miranda
+Cauca;Morales;cau_morales
+Cauca;Padilla;cau_padilla
+Cauca;Páez;cau_paez
+Cauca;Patía;cau_patia
+Cauca;Piamonte;cau_piamonte
+Cauca;Piendamó;cau_piendamo
+Cauca;Popayán;popayan
+Cauca;Puerto Tejada;cau_puerto_tejada
+Cauca;Puracé;cau_purace
+Cauca;Rosas;cau_rosas
+Cauca;San Sebastián;cau_san_sebastian
+Cauca;Santa Rosa;cau_santa_rosa
+Cauca;Santander De Quilichao;cau_santander_de_quilichao
+Cauca;Silvia;cau_silvia
+Cauca;Sotará;cau_sotara
+Cauca;Suárez;cau_suarez
+Cauca;Sucre;cau_sucre
+Cauca;Timbío;cau_timbio
+Cauca;Timbiquí;cau_timbiqui
+Cauca;Toribío;cau_toribio
+Cauca;Totoró;cau_totoro
+Cauca;Villa Rica;cau_villa_rica
+Cesar;Aguachica;ces_aguachica
+Cesar;Agustín Codazzi;ces_agustin_codazzi
+Cesar;Astrea;ces_astrea
+Cesar;Becerril;ces_becerril
+Cesar;Bosconia;ces_bosconia
+Cesar;Chimichagua;ces_chimichagua
+Cesar;Chiriguaná;ces_chiriguana
+Cesar;Curumaní;ces_curumani
+Cesar;El Copey;ces_el_copey
+Cesar;El Paso;ces_el_paso
+Cesar;Gamarra;ces_gamarra
+Cesar;González;ces_gonzalez
+Cesar;La Gloria;ces_la_gloria
+Cesar;La Jagua De Ibirico;ces_la_jagua_de_ibirico
+Cesar;La Paz;ces_la_paz
+Cesar;Manaure Balcón Del Cesar;ces_manaure_balcon_del_cesar
+Cesar;Pailitas;ces_pailitas
+Cesar;Pelaya;ces_pelaya
+Cesar;Pueblo Bello;ces_pueblo_bello
+Cesar;Río De Oro;ces_rio_de_oro
+Cesar;San Alberto;ces_san_alberto
+Cesar;San Diego;ces_san_diego
+Cesar;San Martín;ces_san_martin
+Cesar;Tamalameque;ces_tamalameque
+Cesar;Valledupar;valledupar
+Chocó;Acandí;cho_acandi
+Chocó;Alto Baudó;cho_alto_baudo
+Chocó;Atrato;cho_atrato
+Chocó;Bagadó;cho_bagado
+Chocó;Bahía Solano;cho_bahia_solano
+Chocó;Bajo Baudó;cho_bajo_baudo
+Chocó;Bojayá;cho_bojaya
+Chocó;Carmen Del Darién;cho_carmen_del_darien
+Chocó;Certegui;cho_certegui
+Chocó;Condoto;cho_condoto
+Chocó;El Cantón Del San Pablo;cho_el_canton_del_san_pablo
+Chocó;El Carmen de Atrato;cho_el_carmen
+Chocó;El Litoral Del San Juan;cho_el_litoral_del_san_juan
+Chocó;Istmina;cho_istmina
+Chocó;Juradó;cho_jurado
+Chocó;Lloró;cho_lloro
+Chocó;Medio Atrato;cho_medio_atrato
+Chocó;Medio Baudó;cho_medio_baudo
+Chocó;Medio San Juan;cho_medio_san_juan
+Chocó;Nóvita;cho_novita
+Chocó;Nuquí;cho_nuqui
+Chocó;Quibdó;quibdo
+Chocó;Río Iró;cho_rio_iro
+Chocó;Río Quito;cho_rio_quito
+Chocó;Riosucio;cho_riosucio
+Chocó;San José Del Palmar;cho_san_jose_del_palmar
+Chocó;Sipí;cho_sipi
+Chocó;Tadó;cho_tado
+Chocó;Unguía;cho_unguia
+Chocó;Unión Panamericana;cho_union_panamericana
+Córdoba;Ayapel;cor_ayapel
+Córdoba;Buenavista;cor_buenavista
+Córdoba;Canalete;cor_canalete
+Córdoba;Cereté;cor_cerete
+Córdoba;Chimá;cor_chima
+Córdoba;Chinú;cor_chinu
+Córdoba;Ciénaga De Oro;cor_cienaga_de_oro
+Córdoba;Cotorra;cor_cotorra
+Córdoba;La Apartada;cor_la_apartada
+Córdoba;Lorica;cor_lorica
+Córdoba;Los Córdobas;cor_los_cordobas
+Córdoba;Momil;cor_momil
+Córdoba;Moñitos;cor_monitos
+Córdoba;Montelíbano;cor_montelibano
+Córdoba;Montería;monteria
+Córdoba;Planeta Rica;cor_planeta_rica
+Córdoba;Pueblo Nuevo;cor_pueblo_nuevo
+Córdoba;Puerto Escondido;cor_puerto_escondido
+Córdoba;Puerto Libertador;cor_puerto_libertador
+Córdoba;Purísima;cor_purisima
+Córdoba;Sahagún;cor_sahagun
+Córdoba;San Andrés De Sotavento;cor_san_andres_de_sotavento
+Córdoba;San Antero;cor_san_antero
+Córdoba;San Bernardo Del Viento;cor_san_bernardo_del_viento
+Córdoba;San Carlos;cor_san_carlos
+Córdoba;San José De Uré;cor_san_jose_de_ure
+Córdoba;San Pelayo;cor_san_pelayo
+Córdoba;Tierralta;cor_tierralta
+Córdoba;Tuchín;cor_tuchin
+Córdoba;Valencia;cor_valencia
+Cundinamarca;Agua De Dios;cun_agua_de_dios
+Cundinamarca;Albán;cun_alban
+Cundinamarca;Anapoima;cun_anapoima
+Cundinamarca;Anolaima;cun_anolaima
+Cundinamarca;Apulo;cun_apulo
+Cundinamarca;Arbeláez;cun_arbelaez
+Cundinamarca;Beltrán;cun_beltran
+Cundinamarca;Bituima;cun_bituima
+Cundinamarca;Bojacá;cun_bojaca
+Cundinamarca;Cabrera;cun_cabrera
+Cundinamarca;Cachipay;cun_cachipay
+Cundinamarca;Cajicá;cun_cajica
+Cundinamarca;Caparrapí;cun_caparrapi
+Cundinamarca;Cáqueza;cun_caqueza
+Cundinamarca;Carmen De Carupa;cun_carmen_de_carupa
+Cundinamarca;Chaguaní;cun_chaguani
+Cundinamarca;Chía;chia
+Cundinamarca;Chipaque;cun_chipaque
+Cundinamarca;Choachí;cun_choachi
+Cundinamarca;Chocontá;cun_choconta
+Cundinamarca;Cogua;cun_cogua
+Cundinamarca;Cota;cota
+Cundinamarca;Cucunubá;cun_cucunuba
+Cundinamarca;El Colegio;cun_el_colegio
+Cundinamarca;El Peñón;cun_el_penon
+Cundinamarca;El Rosal;cun_el_rosal
+Cundinamarca;Facatativá;cun_facatativa
+Cundinamarca;Fómeque;cun_fomeque
+Cundinamarca;Fosca;cun_fosca
+Cundinamarca;Funza;funza
+Cundinamarca;Fúquene;cun_fuquene
+Cundinamarca;Fusagasugá;cun_fusagasuga
+Cundinamarca;Gachalá;cun_gachala
+Cundinamarca;Gachancipá;cun_gachancipa
+Cundinamarca;Gachetá;cun_gacheta
+Cundinamarca;Gama;cun_gama
+Cundinamarca;Girardot;cun_girardot
+Cundinamarca;Granada;cun_granada
+Cundinamarca;Guachetá;cun_guacheta
+Cundinamarca;Guaduas;cun_guaduas
+Cundinamarca;Guasca;cun_guasca
+Cundinamarca;Guataquí;cun_guataqui
+Cundinamarca;Guatavita;cun_guatavita
+Cundinamarca;Guayabal De Síquima;cun_guayabal_de_siquima
+Cundinamarca;Guayabetal;cun_guayabetal
+Cundinamarca;Gutiérrez;cun_gutierrez
+Cundinamarca;Jerusalén;cun_jerusalen
+Cundinamarca;Junín;cun_junin
+Cundinamarca;Jurisdicción De Ubalá;cun_jurisdiccion_de_ubala
+Cundinamarca;La Calera;cun_la_calera
+Cundinamarca;La Mesa;cun_la_mesa
+Cundinamarca;La Palma;cun_la_palma
+Cundinamarca;La Peña;cun_la_pena
+Cundinamarca;La Vega;cun_la_vega
+Cundinamarca;Lenguazaque;cun_lenguazaque
+Cundinamarca;Machetá;cun_macheta
+Cundinamarca;Madrid;cun_madrid
+Cundinamarca;Manta;cun_manta
+Cundinamarca;Medina;cun_medina
+Cundinamarca;Mosquera;cun_mosquera
+Cundinamarca;Nariño;cun_narino
+Cundinamarca;Nemocón;cun_nemocon
+Cundinamarca;Nilo;cun_nilo
+Cundinamarca;Nimaima;cun_nimaima
+Cundinamarca;Nocaima;cun_nocaima
+Cundinamarca;Pacho;cun_pacho
+Cundinamarca;Paime;cun_paime
+Cundinamarca;Pandi;cun_pandi
+Cundinamarca;Paratebueno;cun_paratebueno
+Cundinamarca;Pasca;cun_pasca
+Cundinamarca;Puerto Salgar;cun_puerto_salgar
+Cundinamarca;Pulí;cun_puli
+Cundinamarca;Quebradanegra;cun_quebradanegra
+Cundinamarca;Quetame;cun_quetame
+Cundinamarca;Quipile;cun_quipile
+Cundinamarca;Ricaurte;cun_ricaurte
+Cundinamarca;San Antonio Del Tequendama;cun_san_antonio_del_tequendama
+Cundinamarca;San Bernardo;cun_san_bernardo
+Cundinamarca;San Cayetano;cun_san_cayetano
+Cundinamarca;San Francisco;cun_san_francisco
+Cundinamarca;San Juan De Rioseco;cun_san_juan_de_rioseco
+Cundinamarca;Sasaima;cun_sasaima
+Cundinamarca;Sesquilé;cun_sesquile
+Cundinamarca;Sibaté;cun_sibate
+Cundinamarca;Silvania;cun_silvania
+Cundinamarca;Simijaca;cun_simijaca
+Cundinamarca;Soacha;cun_soacha
+Cundinamarca;Sopó;cun_sopo
+Cundinamarca;Subachoque;cun_subachoque
+Cundinamarca;Suesca;cun_suesca
+Cundinamarca;Supatá;cun_supata
+Cundinamarca;Susa;cun_susa
+Cundinamarca;Sutatausa;cun_sutatausa
+Cundinamarca;Tabio;cun_tabio
+Cundinamarca;Tausa;cun_tausa
+Cundinamarca;Tena;cun_tena
+Cundinamarca;Tenjo;cun_tenjo
+Cundinamarca;Tibacuy;cun_tibacuy
+Cundinamarca;Tibirita;cun_tibirita
+Cundinamarca;Tocaima;cun_tocaima
+Cundinamarca;Tocancipá;cun_tocancipa
+Cundinamarca;Topaipí;cun_topaipi
+Cundinamarca;Ubalá;cun_ubala
+Cundinamarca;Ubaque;cun_ubaque
+Cundinamarca;Ubaté;cun_ubate
+Cundinamarca;Une;cun_une
+Cundinamarca;Útica;cun_utica
+Cundinamarca;Venecia;cun_venecia
+Cundinamarca;Vergara;cun_vergara
+Cundinamarca;Vianí;cun_viani
+Cundinamarca;Villagómez;cun_villagomez
+Cundinamarca;Villapinzón;cun_villapinzon
+Cundinamarca;Villeta;cun_villeta
+Cundinamarca;Viotá;cun_viota
+Cundinamarca;Yacopí;cun_yacopi
+Cundinamarca;Zipacón;cun_zipacon
+Cundinamarca;Zipaquirá;zipaquira
+Guainía;Barrancominas;gua_barranco_mina
+Guainía;Cacahual;gua_cacahual
+Guainía;Inirida;inirida
+Guainía;La Guadalupe;gua_la_guadalupe
+Guainía;Mapiripana;gua_mapiripana
+Guainía;Morichal;gua_morichal
+Guainía;Paná Paná;gua_pana_pana
+Guainía;Puerto Colombia;gua_puerto_colombia
+Guainía;San Felipe;gua_san_felipe
+Guaviare;Calamar;guv_calamar
+Guaviare;El Retorno;guv_el_retorno
+Guaviare;Miraflores;guv_miraflores
+Guaviare;San José Del Guaviare;san_jose_del_guaviare
+Huila;Acevedo;hui_acevedo
+Huila;Agrado;hui_agrado
+Huila;Aipe;hui_aipe
+Huila;Algeciras;hui_algeciras
+Huila;Altamira;hui_altamira
+Huila;Baraya;hui_baraya
+Huila;Campoalegre;hui_campoalegre
+Huila;Colombia;hui_colombia
+Huila;Elías;hui_elias
+Huila;Garzón;hui_garzon
+Huila;Gigante;hui_gigante
+Huila;Guadalupe;hui_guadalupe
+Huila;Hobo;hui_hobo
+Huila;Íquira;hui_iquira
+Huila;Isnos;hui_isnos
+Huila;La Argentina;hui_la_argentina
+Huila;La Plata;hui_la_plata
+Huila;Nátaga;hui_nataga
+Huila;Neiva;neiva
+Huila;Oporapa;hui_oporapa
+Huila;Paicol;hui_paicol
+Huila;Palermo;hui_palermo
+Huila;Palestina;hui_palestina
+Huila;Pital;hui_pital
+Huila;Pitalito;hui_pitalito
+Huila;Rivera;hui_rivera
+Huila;Saladoblanco;hui_saladoblanco
+Huila;San Agustín;hui_san_agustin
+Huila;Santa María;hui_santa_maria
+Huila;Suaza;hui_suaza
+Huila;Tarqui;hui_tarqui
+Huila;Tello;hui_tello
+Huila;Teruel;hui_teruel
+Huila;Tesalia;hui_tesalia
+Huila;Timaná;hui_timana
+Huila;Villavieja;hui_villavieja
+Huila;Yaguará;hui_yaguara
+La Guajira;Albania;lag_albania
+La Guajira;Barrancas;lag_barrancas
+La Guajira;Dibulla;lag_dibulla
+La Guajira;Distracción;lag_distraccion
+La Guajira;El Molino;lag_el_molino
+La Guajira;Fonseca;lag_fonseca
+La Guajira;Hatonuevo;lag_hato_nuevo
+La Guajira;La Jagua Del Pilar;lag_la_jagua_del_pilar
+La Guajira;Maicao;lag_maicao
+La Guajira;Manaure;lag_manaure
+La Guajira;Riohacha;riohacha
+La Guajira;San Juan Del Cesar;lag_san_juan_del_cesar
+La Guajira;Uribia;lag_uribia
+La Guajira;Urumita;lag_urumita
+La Guajira;Villanueva;lag_villanueva
+Magdalena;Algarrobo;mag_algarrobo
+Magdalena;Aracataca;mag_aracataca
+Magdalena;Ariguaní;mag_ariguani
+Magdalena;Bonda - Santa Marta;sta_marta_bonda
+Magdalena;Cerro De San Antonio;mag_cerro_de_san_antonio
+Magdalena;Chivolo;mag_chivolo
+Magdalena;Ciénaga;mag_cienaga
+Magdalena;Concordia;mag_concordia
+Magdalena;El Banco;mag_el_banco
+Magdalena;El Piñón;mag_el_pinon
+Magdalena;El Retén;mag_el_reten
+Magdalena;Fundación;mag_fundacion
+Magdalena;Gaira - Santa Marta;sta_marta_gaira
+Magdalena;Guamal;mag_guamal
+Magdalena;Nueva Granada;mag_nueva_granada
+Magdalena;Pedraza;mag_pedraza
+Magdalena;Pijiño Del Carmen;mag_pijino_del_carmen
+Magdalena;Pivijay;mag_pivijay
+Magdalena;Plato;mag_plato
+Magdalena;Puebloviejo;mag_puebloviejo
+Magdalena;Remolino;mag_remolino
+Magdalena;Sabanas De San Ángel;mag_san_angel
+Magdalena;Salamina;mag_salamina
+Magdalena;San Sebastián De Buenavista;mag_san_sebastian_de_buenavista
+Magdalena;San Zenón;mag_san_zenon
+Magdalena;Santa Ana;mag_santa_ana
+Magdalena;Santa Barbara De Pinto;mag_santa_barbara_de_pinto
+Magdalena;Santa Marta;sta_marta
+Magdalena;Sitionuevo;mag_sitionuevo
+Magdalena;Tenerife;mag_tenerife
+Magdalena;Zapayán;mag_zapayan
+Magdalena;Zona Bananera;mag_zona_bananera
+Meta;Acacías;met_acacias
+Meta;Barranca De Upía;met_barranca_de_upia
+Meta;Cabuyaro;met_cabuyaro
+Meta;Castilla La Nueva;met_castilla_la_nueva
+Meta;Cubarral;met_cubarral
+Meta;Cumaral;met_cumaral
+Meta;El Calvario;met_el_calvario
+Meta;El Castillo;met_el_castillo
+Meta;El Dorado;met_el_dorado
+Meta;Fuente De Oro;met_fuente_de_oro
+Meta;Granada;met_granada
+Meta;Guamal;met_guamal
+Meta;La Macarena;met_la_macarena
+Meta;Lejanías;met_lejanias
+Meta;Mapiripán;met_mapiripan
+Meta;Mesetas;met_mesetas
+Meta;Puerto Concordia;met_puerto_concordia
+Meta;Puerto Gaitán;met_puerto_gaitan
+Meta;Puerto Lleras;met_puerto_lleras
+Meta;Puerto López;met_puerto_lopez
+Meta;Puerto Rico;met_puerto_rico
+Meta;Restrepo;met_restrepo
+Meta;San Carlos De Guaroa;met_san_carlos_de_guaroa
+Meta;San Juan De Arama;met_san_juan_de_arama
+Meta;San Juanito;met_san_juanito
+Meta;San Martín;met_san_martin
+Meta;Uribe;met_uribe
+Meta;Villavicencio;villavicencio
+Meta;Vistahermosa;met_vistahermosa
+Nariño;Albán;nar_alban
+Nariño;Aldana;nar_aldana
+Nariño;Ancuya;nar_ancuya
+Nariño;Arboleda;nar_arboleda
+Nariño;Barbacoas;nar_barbacoas
+Nariño;Belén;nar_belen
+Nariño;Buesaco;nar_buesaco
+Nariño;Chachagüí;nar_chachagi
+Nariño;Colón;nar_colon
+Nariño;Consacá;nar_consaca
+Nariño;Contadero;nar_contadero
+Nariño;Córdoba;nar_cordoba
+Nariño;Cuaspud;nar_cuaspud
+Nariño;Cumbal;nar_cumbal
+Nariño;Cumbitara;nar_cumbitara
+Nariño;El Charco;nar_el_charco
+Nariño;El Peñol;nar_el_penol
+Nariño;El Rosario;nar_el_rosario
+Nariño;El Tablón;nar_el_tablon
+Nariño;El Tambo;nar_el_tambo
+Nariño;Francisco Pizarro;nar_francisco_pizarro
+Nariño;Funes;nar_funes
+Nariño;Guachucal;nar_guachucal
+Nariño;Guaitarilla;nar_guaitarilla
+Nariño;Gualmatán;nar_gualmatan
+Nariño;Iles;nar_iles
+Nariño;Imués;nar_imues
+Nariño;Ipiales;nar_ipiales
+Nariño;La Cruz;nar_la_cruz
+Nariño;La Florida;nar_la_florida
+Nariño;La Llanada;nar_la_llanada
+Nariño;La Tola;nar_la_tola
+Nariño;La Unión;nar_la_union
+Nariño;Leiva;nar_leiva
+Nariño;Linares;nar_linares
+Nariño;Los Andes;nar_los_andes
+Nariño;Magüí;nar_magui
+Nariño;Mallama;nar_mallama
+Nariño;Mosquera;nar_mosquera
+Nariño;Nariño;nar_narino
+Nariño;Olaya Herrera;nar_olaya_herrera
+Nariño;Ospina;nar_ospina
+Nariño;Pasto;pasto
+Nariño;Policarpa;nar_policarpa
+Nariño;Potosí;nar_potosi
+Nariño;Providencia;nar_providencia
+Nariño;Puerres;nar_puerres
+Nariño;Pupiales;nar_pupiales
+Nariño;Ricaurte;nar_ricaurte
+Nariño;Roberto Payán;nar_roberto_payan
+Nariño;Samaniego;nar_samaniego
+Nariño;San Bernardo;nar_san_bernardo
+Nariño;San Lorenzo;nar_san_lorenzo
+Nariño;San Pablo;nar_san_pablo
+Nariño;San Pedro De Cartago;nar_san_pedro_de_cartago
+Nariño;Sandoná;nar_sandona
+Nariño;Santa Bárbara;nar_santa_barbara
+Nariño;SantaCruz;nar_santa_cruz
+Nariño;Sapuyes;nar_sapuyes
+Nariño;Taminango;nar_taminango
+Nariño;Tangua;nar_tangua
+Nariño;Tumaco;nar_tumaco_1
+Nariño;Tumaco;nar_tumaco
+Nariño;Túquerres;nar_tuquerres
+Nariño;Yacuanquer;nar_yacuanquer
+Norte De Santander;Ábrego;nsa_abrego
+Norte De Santander;Arboledas;nsa_arboledas
+Norte De Santander;Bochalema;nsa_bochalema
+Norte De Santander;Bucarasica;nsa_bucarasica
+Norte De Santander;Cáchira;nsa_cachira
+Norte De Santander;Cácota;nsa_cacota
+Norte De Santander;Chinácota;nsa_chinacota
+Norte De Santander;Chitagá;nsa_chitaga
+Norte De Santander;Convención;nsa_convencion
+Norte De Santander;Cúcuta;cucuta
+Norte De Santander;Cucutilla;nsa_cucutilla
+Norte De Santander;Durania;nsa_durania
+Norte De Santander;El Carmen;nsa_el_carmen
+Norte De Santander;El Tarra;nsa_el_tarra
+Norte De Santander;El Zulia;nsa_el_zulia
+Norte De Santander;Gramalote;nsa_gramalote
+Norte De Santander;Hacarí;nsa_hacari
+Norte De Santander;Herrán;nsa_herran
+Norte De Santander;Jurisdicción De Ocaña;nsa_jurisdiccion_de_ocana
+Norte De Santander;La Esperanza;nsa_la_esperanza
+Norte De Santander;La Playa;nsa_la_playa
+Norte De Santander;Labateca;nsa_labateca
+Norte De Santander;Los Patios;nsa_los_patios
+Norte De Santander;Lourdes;nsa_lourdes
+Norte De Santander;Mutiscua;nsa_mutiscua
+Norte De Santander;Ocaña;nsa_ocana
+Norte De Santander;Pamplona;nsa_pamplona
+Norte De Santander;Pamplonita;nsa_pamplonita
+Norte De Santander;Puerto Santander;nsa_puerto_santander
+Norte De Santander;Ragonvalia;nsa_ragonvalia
+Norte De Santander;Salazar;nsa_salazar
+Norte De Santander;San Calixto;nsa_san_calixto
+Norte De Santander;San Cayetano;nsa_san_cayetano
+Norte De Santander;Santiago;nsa_santiago
+Norte De Santander;Sardinata;nsa_sardinata
+Norte De Santander;Silos;nsa_silos
+Norte De Santander;Teorama;nsa_teorama
+Norte De Santander;Tibú;nsa_tibu
+Norte De Santander;Toledo;nsa_toledo
+Norte De Santander;Villa Caro;nsa_villa_caro
+Norte De Santander;Villa Del Rosario;nsa_villa_del_rosario
+Putumayo;Colón;put_colon
+Putumayo;Mocoa;mocoa
+Putumayo;Orito;put_orito
+Putumayo;Puerto Asís;put_puerto_asis
+Putumayo;Puerto Caicedo;put_puerto_caicedo
+Putumayo;Puerto Guzmán;put_puerto_guzman
+Putumayo;Puerto Leguízamo;put_puerto_leguizamo
+Putumayo;San Francisco;put_san_francisco
+Putumayo;San Miguel;put_san_miguel
+Putumayo;Santiago;put_santiago
+Putumayo;Sibundoy;put_sibundoy
+Putumayo;Valle Del Guamuez;put_valle_del_guamuez
+Putumayo;Villagarzón;put_villagarzon
+Quindío;Armenia;armenia
+Quindío;Buenavista;qui_buenavista
+Quindío;Calarcá;qui_calarca
+Quindío;Circasia;qui_circasia
+Quindío;Córdoba;qui_cordoba
+Quindío;Filandia;qui_filandia
+Quindío;Génova;qui_genova
+Quindío;La Tebaida;qui_la_tebaida
+Quindío;Montenegro;qui_montenegro
+Quindío;Pijao;qui_pijao
+Quindío;Quimbaya;qui_quimbaya
+Quindío;Salento;qui_salento
+Risaralda;Apía;ris_apia
+Risaralda;Balboa;ris_balboa
+Risaralda;Belén De Umbría;ris_belen_de_umbria
+Risaralda;Dosquebradas;ris_dosquebradas
+Risaralda;Guática;ris_guatica
+Risaralda;La Celia;ris_la_celia
+Risaralda;La Virginia;ris_la_virginia
+Risaralda;Marsella;ris_marsella
+Risaralda;Mistrató;ris_mistrato
+Risaralda;Pereira;pereira
+Risaralda;Pueblo Rico;ris_pueblo_rico
+Risaralda;Quinchía;ris_quinchia
+Risaralda;Santa Rosa De Cabal;ris_santa_rosa_de_cabal
+Risaralda;Santuario;ris_santuario
+Archipiélago de san andrés, providencia y santa catalina;Providencia Y Santa Catalina (Santa Isabel);sap_providencia
+Archipiélago de san andrés, providencia y santa catalina;San Andrés;san_andres
+Archipiélago de san andrés, providencia y santa catalina;Santa Catalina;sap_santa_catalina
+Santander;Bucaramanga;bucaramanga
+Santander;Aguada;san_aguada
+Santander;Albania;san_albania
+Santander;Aratoca;san_aratoca
+Santander;Barbosa;san_barbosa
+Santander;Barichara;san_barichara
+Santander;Barrancabermeja;barrancabermeja
+Santander;Betulia;san_betulia
+Santander;Bolívar;san_bolivar
+Santander;Cabrera;san_cabrera
+Santander;California;san_california
+Santander;Capitanejo;san_capitanejo
+Santander;Carcasí;san_carcasi
+Santander;Cepitá;san_cepita
+Santander;Cerrito;san_cerrito
+Santander;Charalá;san_charala
+Santander;Charta;san_charta
+Santander;Chima;san_chima
+Santander;Chipatá;san_chipata
+Santander;Cimitarra;san_cimitarra
+Santander;Concepción;san_concepcion
+Santander;Confines;san_confines
+Santander;Contratación;san_contratacion
+Santander;Coromoro;san_coromoro
+Santander;Curití;san_curiti
+Santander;El Carmen de Chucurí;san_el_carmen_de_chucuri
+Santander;El Guacamayo;san_el_guacamayo
+Santander;El Peñón;san_el_penon
+Santander;El Playón;san_el_playon
+Santander;Encino;san_encino
+Santander;Enciso;san_enciso
+Santander;Florián;san_florian
+Santander;Floridablanca;san_floridablanca
+Santander;Galán;san_galan
+Santander;Gámbita;san_gambita
+Santander;Girón;san_giron
+Santander;Guaca;san_guaca
+Santander;Guadalupe;san_guadalupe
+Santander;Guapotá;san_guapota
+Santander;Guavatá;san_guavata
+Santander;Güepsa;san_guepsa
+Santander;Hato;san_hato
+Santander;Jesús María;san_jesus_maria
+Santander;Jordán;san_jordan
+Santander;La Belleza;san_la_belleza
+Santander;La Paz;san_la_paz
+Santander;Landázuri;san_landazuri
+Santander;Lebrija;san_lebrija
+Santander;Los Santos;san_los_santos
+Santander;Macaravita;san_macaravita
+Santander;Málaga;san_malaga
+Santander;Matanza;san_matanza
+Santander;Mogotes;san_mogotes
+Santander;Molagavita;san_molagavita
+Santander;Ocamonte;san_ocamonte
+Santander;Oiba;san_oiba
+Santander;Onzaga;san_onzaga
+Santander;Palmar;san_palmar
+Santander;Palmas Del Socorro;san_palmas_del_socorro
+Santander;Páramo;san_paramo
+Santander;Piedecuesta;san_piedecuesta
+Santander;Pinchote;san_pinchote
+Santander;Puente Nacional;san_puente_nacional
+Santander;Puerto Parra;san_puerto_parra
+Santander;Puerto Wilches;san_puerto_wilches
+Santander;Rionegro;san_rionegro
+Santander;Sabana De Torres;san_sabana_de_torres
+Santander;San Andrés;san_san_andres
+Santander;San Benito;san_san_benito
+Santander;San Gil;san_san_gil
+Santander;San Joaquín;san_san_joaquin
+Santander;San José De Miranda;san_san_jose_de_miranda
+Santander;San Miguel;san_san_miguel
+Santander;San Vicente De Chucurí;san_san_vicente_de_chucuri
+Santander;Santa Bárbara;san_santa_barbara
+Santander;Santa Helena Del Opón;san_santa_helena_del_opon
+Santander;Simacota;san_simacota
+Santander;Socorro;san_socorro
+Santander;Suaita;san_suaita
+Santander;Sucre;san_sucre
+Santander;Suratá;san_surata
+Santander;Tona;san_tona
+Santander;Valle De San José;san_valle_de_san_jose
+Santander;Vélez;san_velez
+Santander;Vetas;san_vetas
+Santander;Villanueva;san_villanueva
+Santander;Zapatoca;san_zapatoca
+Sucre;Buenavista;suc_buenavista
+Sucre;Caimito;suc_caimito
+Sucre;Chalán;suc_chalan
+Sucre;Colosó;suc_coloso
+Sucre;Corozal;suc_corozal_1
+Sucre;Corozal;suc_corozal
+Sucre;Coveñas;suc_covenas
+Sucre;El Roble;suc_el_roble
+Sucre;Galeras;suc_galeras
+Sucre;Guaranda;suc_guaranda
+Sucre;La Unión;suc_la_union
+Sucre;Los Palmitos;suc_los_palmitos
+Sucre;Majagual;suc_majagual
+Sucre;Morroa;suc_morroa
+Sucre;Ovejas;suc_ovejas
+Sucre;Palmito;suc_palmito
+Sucre;Sampués;suc_sampues
+Sucre;San Benito Abad;suc_san_benito_abad
+Sucre;San Juan De Betulia;suc_san_juan_de_betulia
+Sucre;San Marcos;suc_san_marcos
+Sucre;San Onofre;suc_san_onofre
+Sucre;San Pedro;suc_san_pedro
+Sucre;Sincé;suc_since
+Sucre;Sincelejo;sincelejo
+Sucre;Sucre;suc_sucre
+Sucre;Tolú;suc_tolu
+Sucre;San josé de toluviejo;suc_toluviejo
+Tolima;Alpujarra;tol_alpujarra
+Tolima;Alvarado;tol_alvarado
+Tolima;Ambalema;tol_ambalema
+Tolima;Anzoátegui;tol_anzoategui
+Tolima;Armero;tol_armero
+Tolima;Ataco;tol_ataco
+Tolima;Cajamarca;tol_cajamarca
+Tolima;Carmen De Apicalá;tol_carmen_de_apicala
+Tolima;Casabianca;tol_casabianca
+Tolima;Chaparral;tol_chaparral
+Tolima;Coello;tol_coello
+Tolima;Coyaima;tol_coyaima
+Tolima;Cunday;tol_cunday
+Tolima;Dolores;tol_dolores
+Tolima;Espinal;tol_espinal
+Tolima;Falan;tol_falan
+Tolima;Flandes;tol_flandes
+Tolima;Fresno;tol_fresno
+Tolima;Guamo;tol_guamo
+Tolima;Herveo;tol_herveo
+Tolima;Honda;tol_honda
+Tolima;Ibagué;ibague
+Tolima;Icononzo;tol_icononzo
+Tolima;Lérida;tol_lerida
+Tolima;Líbano;tol_libano
+Tolima;Mariquita;tol_mariquita
+Tolima;Melgar;tol_melgar
+Tolima;Murillo;tol_murillo
+Tolima;Natagaima;tol_natagaima
+Tolima;Ortega;tol_ortega
+Tolima;Palocabildo;tol_palocabildo
+Tolima;Piedras;tol_piedras
+Tolima;Planadas;tol_planadas
+Tolima;Prado;tol_prado
+Tolima;Purificación;tol_purificacion
+Tolima;Rioblanco;tol_rioblanco
+Tolima;Roncesvalles;tol_roncesvalles
+Tolima;Rovira;tol_rovira
+Tolima;Saldaña;tol_saldana
+Tolima;San Antonio;tol_san_antonio
+Tolima;San Luis;tol_san_luis
+Tolima;Santa Isabel;tol_santa_isabel
+Tolima;Suárez;tol_suarez
+Tolima;Valle De San Juan;tol_valle_de_san_juan
+Tolima;Venadillo;tol_venadillo
+Tolima;Villahermosa;tol_villahermosa
+Tolima;Villarrica;tol_villarrica
+Valle del Cauca;Cali;cali
+Valle del Cauca;Alcalá;vac_alcala
+Valle del Cauca;Andalucía;vac_andalucia
+Valle del Cauca;Ansermanuevo;vac_ansermanuevo
+Valle del Cauca;Argelia;vac_argelia
+Valle del Cauca;Bolívar;vac_bolivar
+Valle del Cauca;Buenaventura;vac_buenaventura
+Valle del Cauca;Buga;vac_buga
+Valle del Cauca;Bugalagrande;vac_bugalagrande
+Valle del Cauca;Caicedonia;vac_caicedonia
+Valle del Cauca;Calima;vac_calima
+Valle del Cauca;Candelaria;vac_candelaria
+Valle del Cauca;Cartago;vac_cartago
+Valle del Cauca;Dagua;vac_dagua
+Valle del Cauca;El Aguila;vac_el_aguila
+Valle del Cauca;El Cairo;vac_el_cairo
+Valle del Cauca;El Cerrito;vac_el_cerrito
+Valle del Cauca;El Dovio;vac_el_dovio
+Valle del Cauca;Florida;vac_florida
+Valle del Cauca;Ginebra;vac_ginebra
+Valle del Cauca;Guacarí;vac_guacari
+Valle del Cauca;Jamundí;vac_jamundi
+Valle del Cauca;La Cumbre;vac_la_cumbre
+Valle del Cauca;La Unión;vac_la_union
+Valle del Cauca;La Victoria;vac_la_victoria
+Valle del Cauca;Obando;vac_obando
+Valle del Cauca;Palmira;vac_palmira
+Valle del Cauca;Pradera;vac_pradera
+Valle del Cauca;Restrepo;vac_restrepo
+Valle del Cauca;Riofrío;vac_riofrio
+Valle del Cauca;Roldanillo;vac_roldanillo
+Valle del Cauca;San Pedro;vac_san_pedro
+Valle del Cauca;Sevilla;vac_sevilla
+Valle del Cauca;Toro;vac_toro
+Valle del Cauca;Trujillo;vac_trujillo
+Valle del Cauca;Tuluá;vac_tulua
+Valle del Cauca;Ulloa;vac_ulloa
+Valle del Cauca;Versalles;vac_versalles
+Valle del Cauca;Vijes;vac_vijes
+Valle del Cauca;Yotoco;vac_yotoco
+Valle del Cauca;Yumbo;vac_yumbo
+Valle del Cauca;Zarzal;vac_zarzal
+Vaupés;Carurú;vau_caruru
+Vaupés;Mitú;mitu
+Vaupés;Pacoa;vau_pacoa
+Vaupés;Papunahua;vau_papunaua
+Vaupés;Taraira;vau_taraira
+Vaupés;Yavaraté;vau_yavarate
+Vichada;Cumaribo;vid_cumaribo
+Vichada;La Primavera;vid_la_primavera
+Vichada;Puerto Carreño;puerto_carreno
+Vichada;Santa Rosalía;vid_santa_rosalia

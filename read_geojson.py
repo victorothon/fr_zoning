@@ -1,3 +1,9 @@
+###
+# 1.- Lectura de archivo .geojson
+# 2.- Cálculo de centroide del polígono del barrio
+# 3.- Impresión en pantalla de la información para alimentar archivo csv
+###
+
 import json
 from os import read
 

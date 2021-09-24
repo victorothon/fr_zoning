@@ -4,13 +4,13 @@
 SELECT A.PK_AdvertId
 FROM FC_COL_WRT..AdvertsRealstate AR
     INNER JOIN FC_COL_WRT..Adverts A ON AR.PK_AdvertId = A.PK_AdvertId
-WHERE FK_Location4Id = 7501052
+WHERE FK_Location4Id = 7501175
 ---------
 -- OV Ads
 ---------
 Select *
 FROM OVFR_COL..Ad AS A
-WHERE Fk_LocalizationLevel5Id = 7501052
+WHERE Fk_LocalizationLevel5Id = 7501175
 
 -------------------
 -- Activate ads FC
@@ -24,7 +24,7 @@ INNER JOIN (
     SELECT A.PK_AdvertId as Id, 2 as [Status]
     FROM FC_COL_WRT..AdvertsRealstate AR
         INNER JOIN FC_COL_WRT..Adverts A ON AR.PK_AdvertId = A.PK_AdvertId
-    WHERE FK_Location4Id = 7501052
+    WHERE FK_Location4Id = 7501175
     ) AS TEMP 
     ON Destino.PK_AdvertId = TEMP.Id
 
@@ -38,14 +38,14 @@ BEGIN TRANSACTION
 UPDATE A
 SET A.Fk_StatusId = 2
 FROM OVFR_COL..Ad AS A
-WHERE Fk_LocalizationLevel5Id = 7501052
+WHERE Fk_LocalizationLevel5Id = 7501175
 
 COMMIT TRANSACTION
 
 --check
 SELECT A.Fk_StatusId,*
 FROM OVFR_COL..Ad AS A
-WHERE Fk_LocalizationLevel5Id = 7501052
+WHERE Fk_LocalizationLevel5Id = 7501175
 
 -------------------------------------
 -- OV - CROSS REF WITH INMO & PROJECT
@@ -56,13 +56,13 @@ BEGIN TRANSACTION
 SELECT A.Pk_Id, 1 AS AlertType
 FROM OVFR_COL..Inmo I
     INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = I.Pk_Id 
-WHERE A.Fk_LocalizationLevel5Id = 7501052
+WHERE A.Fk_LocalizationLevel5Id = 7501175
 
 --PROYECTOS
 SELECT A.Pk_Id, 2 AS AlertType
 FROM OVFR_COL..Project P
     INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = P.Pk_Id
-WHERE A.Fk_LocalizationLevel5Id = 7501052
+WHERE A.Fk_LocalizationLevel5Id = 7501175
     AND A.Fk_StatusId = 2
 
 --TIPOLOGÍAS DE PROYECTOS
@@ -70,7 +70,7 @@ SELECT A.Pk_Id, U.Pk_Id Fk_UnitTypeId, 2 as AlertType
 FROM OVFR_COL..Project P
     INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = P.Pk_Id
     LEFT JOIN OVFR_COL..UnitType U ON U.Fk_IdProject = P.Pk_Id 
-WHERE A.Fk_LocalizationLevel5Id = 7501052
+WHERE A.Fk_LocalizationLevel5Id = 7501175
     AND A.Fk_StatusId = 2
 
 --------------------------
@@ -96,7 +96,7 @@ FROM OVFR_COL..StackAd DESTINO
             SELECT A.Pk_Id AS Fk_AdId, 1 AS AlertType
             FROM OVFR_COL..Inmo I
                 INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = I.Pk_Id 
-            WHERE A.Fk_LocalizationLevel5Id = 7501052
+            WHERE A.Fk_LocalizationLevel5Id = 7501175
 ) AS TEMP ON TEMP.Fk_AdId = DESTINO.Fk_AdId 
             AND TEMP.AlertType = DESTINO.AlertType
 
@@ -113,7 +113,7 @@ FROM OVFR_COL..StackAd DESTINO
             SELECT A.Pk_Id AS Fk_AdId, 2 AS AlertType
             FROM OVFR_COL..Project P
                 INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = P.Pk_Id
-            WHERE A.Fk_LocalizationLevel5Id = 7501052
+            WHERE A.Fk_LocalizationLevel5Id = 7501175
                 AND A.Fk_StatusId = 2
 ) AS TEMP ON TEMP.Fk_AdId = DESTINO.Fk_AdId 
             AND TEMP.AlertType = DESTINO.AlertType
@@ -132,7 +132,7 @@ FROM OVFR_COL..StackAd DESTINO
             FROM OVFR_COL..Project P
                 INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = P.Pk_Id
                 LEFT JOIN OVFR_COL..UnitType U ON U.Fk_IdProject = P.Pk_Id 
-            WHERE A.Fk_LocalizationLevel5Id = 7501052
+            WHERE A.Fk_LocalizationLevel5Id = 7501175
                 AND A.Fk_StatusId = 2
 ) AS TEMP ON TEMP.Fk_AdId = DESTINO.Fk_AdId 
             AND TEMP.AlertType = DESTINO.AlertType
@@ -156,7 +156,7 @@ FROM (
     SELECT A.Pk_Id AS Pk_Id, 1 AS AlertType
         FROM OVFR_COL..Inmo I
             INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = I.Pk_Id 
-        WHERE A.Fk_LocalizationLevel5Id = 7501052
+        WHERE A.Fk_LocalizationLevel5Id = 7501175
     ) AS TEMP
 COMMIT TRANSACTION
 
@@ -175,7 +175,7 @@ FROM (
     SELECT A.Pk_Id AS Pk_Id, 2 AS AlertType
     FROM OVFR_COL..Project P
         INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = P.Pk_Id
-    WHERE A.Fk_LocalizationLevel5Id = 7501052
+    WHERE A.Fk_LocalizationLevel5Id = 7501175
         AND A.Fk_StatusId = 2
     ) AS TEMP
 
@@ -195,11 +195,13 @@ FROM (
     FROM OVFR_COL..Project P
         INNER JOIN OVFR_COL..Ad A ON A.Pk_Id = P.Pk_Id
         LEFT JOIN OVFR_COL..UnitType U ON U.Fk_IdProject = P.Pk_Id 
-    WHERE A.Fk_LocalizationLevel5Id = 7501052
+    WHERE A.Fk_LocalizationLevel5Id = 7501175
         AND A.Fk_StatusId = 2
     ) AS TEMP
 
-
+SELECT *
+FROM OVFR_COL..StackAd
+WHERE Fk_AdId = 33162
 
 
 --------------------------
@@ -222,10 +224,11 @@ FROM FC_COL_AUX..AdvertsStack Destino
         FROM FC_COL_AUX..AdvertsStack S
             INNER JOIN FC_COL_WRT..AdvertsRealstate R ON S.AdvertId = R.PK_AdvertId
             INNER JOIN FC_COL_WRT..Adverts A ON R.PK_AdvertId = A.PK_AdvertId
-        WHERE R.FK_Location4Id = 7501052
+        WHERE R.FK_Location4Id = 7501175
             AND A.[Status] = 2
         GROUP BY S.AdvertId
     ) AS TEMP ON TEMP.PK_AdvertsStackId = Destino.PK_AdvertsStackId
+COMMIT TRANSACTION
 
 -- Insert
 
@@ -240,6 +243,6 @@ SELECT  R.PK_AdvertId   AS  AdvertId,
 FROM FC_COL_AUX..AdvertsStack S
     RIGHT JOIN FC_COL_WRT..AdvertsRealstate R ON S.AdvertId = R.PK_AdvertId
     INNER JOIN FC_COL_WRT..Adverts A ON R.PK_AdvertId = A.PK_AdvertId
-WHERE FK_Location4Id = 7501052
+WHERE FK_Location4Id = 7501175
 AND S.AdvertId IS NULL
 AND A.[Status] = 2

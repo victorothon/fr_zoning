@@ -9,7 +9,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%elrosal%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%rosal%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -39,7 +39,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%cafemadrid%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%cafe%madrid%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -54,7 +54,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lashamacas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%hamacas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -69,7 +69,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%altosdelkennedy%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%altos%del%kennedy%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -99,7 +99,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%balconesdelkennedy%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%balcones%del%kennedy%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -114,7 +114,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lasolas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%olas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -129,7 +129,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villarosasectoresiiiyiii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%rosa%sectores%i%%ii%y%iii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -144,7 +144,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%omagasectoresiyii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%omaga%sectores%i%y%ii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -159,7 +159,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%minutodedios%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%minuto%de%dios%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -174,7 +174,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%tejarnortesectoresiyii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%tejar%norte%sectores%i%y%ii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -204,7 +204,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%miradoresdekennedy%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%miradores%de%kennedy%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -219,7 +219,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%elpablonvillalina%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%pablon%villa%lina%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -234,7 +234,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%latorre%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%torre%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -249,7 +249,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villapatricia%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%patricia%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -264,7 +264,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sectordonjuan%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sector%don%juan%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -279,7 +279,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%pablonaltoybajo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%pablon%alto%y%bajo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -294,7 +294,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%barrionuevo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%barrio%nuevo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -309,7 +309,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%divinonino%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%divino%nino%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -324,7 +324,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%13dejunio%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%13%de%junio%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -339,7 +339,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%altosdelprogreso%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%altos%del%progreso%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -354,7 +354,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mariapaz%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%maria%paz%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -369,7 +369,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%losangeles%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%angeles%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -384,7 +384,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villahelenaiyii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%helena%i%y%ii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -399,7 +399,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%josemariacordoba%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%jose%maria%cordoba%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -414,7 +414,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%esperanzaiiiyiii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%esperanza%i%%ii%y%iii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -429,7 +429,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lizcanoiyii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lizcano%i%y%ii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -444,7 +444,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%regaderonorte%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%regadero%norte%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -459,7 +459,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sancristobal%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%cristobal%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -474,7 +474,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sanrafael%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%rafael%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -504,7 +504,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%launiversidad%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%universidad%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -549,7 +549,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sanfrancisco%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%francisco%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -624,7 +624,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%chorrerasdedonjuan%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%chorreras%de%don%juan%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -669,7 +669,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%laceiba%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%ceiba%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -684,7 +684,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lasalle%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%salle%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -699,7 +699,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lavictoria%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%victoria%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -714,7 +714,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudadelarealdeminas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudadela%real%de%minas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -729,7 +729,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudadbolivar%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%bolivar%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -744,7 +744,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%losnaranjos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%naranjos%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -759,7 +759,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%diamantei%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%diamante%i%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -789,7 +789,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%diamanteii%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%diamante%ii%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -804,7 +804,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sanluis%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%luis%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -849,7 +849,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%toledoplata%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%toledo%plata%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -864,7 +864,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%jardinesdecoaviconsa%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%jardines%de%coaviconsa%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -879,7 +879,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%elporvenir%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%porvenir%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -894,7 +894,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lasdelicias%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%delicias%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -909,7 +909,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%viverosdeprovenza%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%viveros%de%provenza%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -939,7 +939,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nuevosotomayor%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nuevo%sotomayor%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -954,7 +954,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%antiguocampestre%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%antiguo%campestre%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -984,7 +984,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%puertadelsol%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%puerta%del%sol%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1014,7 +1014,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%loscedros%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%cedros%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1044,7 +1044,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lafloresta%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%floresta%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1059,7 +1059,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lospinos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%pinos%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1074,7 +1074,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%sanalonso%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%alonso%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1104,7 +1104,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%laaurora%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%aurora%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1119,7 +1119,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%elprado%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%prado%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1134,7 +1134,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mejoraspublicas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mejoras%publicas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1149,7 +1149,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%antoniasantos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%antonia%santos%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1209,7 +1209,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%garciarovira%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%garcia%rovira%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1224,7 +1224,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lagosdelcacique%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lagos%del%cacique%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
@@ -1239,7 +1239,7 @@ INNER JOIN (
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location2Id = 7500007
         AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%eltejar%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%tejar%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 

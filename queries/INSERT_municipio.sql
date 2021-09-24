@@ -1,15 +1,15 @@
--- 1.- búsqueda de código de padre departamento
--- LocationWASId = código de padre
-SELECT * FROM FC_COL_WRT..DLocations WHERE Location = 'Atlántico'
--- 2.- traer los municipios ordenados por PK_LocationId y chequear si está el municipio a agregar
+-- 1.- bï¿½squeda de cï¿½digo de padre departamento
+-- LocationWASId = cï¿½digo de padre
+SELECT * FROM FC_COL_WRT..DLocations WHERE Location = 'AtlÃ¡ntico'
+-- 2.- traer los municipios ordenados por PK_LocationId y chequear si estï¿½ el municipio a agregar
 SELECT * FROM FC_COL_WRT..DLocations WHERE ParentLevel = 57
--- 3.- CHECK 1: corroborar que el siguiente PK_LocationId no esté creado
+-- 3.- CHECK 1: corroborar que el siguiente PK_LocationId no estï¿½ creado
 SELECT * FROM FC_COL_WRT..DLocations WHERE PK_LocationId = 5700013
 -- 4.- CHECK 2: corroborar consecutivo de [Order]
 SELECT * FROM FC_COL_WRT..DLocations WHERE ParentLevel = 57 ORDER BY [Order]
 
 -- Realizar el mismo chequeo en la tabla de profesionales
-SELECT * FROM OVFR_COL..DLocalizationLevel2 WHERE Name = 'Atrántico'
+SELECT * FROM OVFR_COL..DLocalizationLevel2 WHERE Name = 'AtlÃ¡ntico'
 SELECT * FROM OVFR_COL..DLocalizationLevel3 WHERE Fk_LocalizationLevel2Id = 57
 SELECT * FROM OVFR_COL..DLocalizationLevel3 WHERE Pk_Id = 5700012
 
@@ -17,7 +17,7 @@ SELECT * FROM OVFR_COL..DLocalizationLevel3 WHERE Pk_Id = 5700012
 --INSERT INTO FC_COL_WRT..DLocations VALUES(5700013, "Juan de Acosta", "", 5700013, 57, 0, 0, 203, 2, 10.8291974, -75.0347039, null, null)
 --INSERT INTO OVFR_COL..DLocalizationLevel3 VALUES(5700013, 1, 57, "Juan de Acosta", -75.0347039, 10.8291974, 15, 203, 0, 2, null)
 
--- >> USIACURÍ
+-- >> USIACURï¿½
 --INSERT INTO FC_COL_WRT..DLocations VALUES(5700013, "Juan de Acosta", "", 5700013, 57, 0, 0, 203, 2, 10.8291974, -75.0347039, null, null)
 --INSERT INTO OVFR_COL..DLocalizationLevel3 VALUES(5700013, 1, 57, "Juan de Acosta", -75.0347039, 10.8291974, 15, 203, 0, 2, null)
 
