@@ -42,14 +42,16 @@ with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
 '------ {}.- OV_UPDATE BARRIO {} ------\n\n\
 UPDATE Destino\n\
 SET Fk_LocalizationLevel4Id = TEMP.zone, Fk_LocalizationLevel5Id = TEMP.Neighborhood\n\
-FROM OVFR_COL..Ad Destino\n\
+FROM OVFR_COL..Ad Destino (NOLOCK)\n\
 INNER JOIN (\n\
     SELECT PK_ID, {} as zone, {} Neighborhood\n\
     FROM OVFR_COL..Ad (NOLOCK)\n\
     WHERE Fk_LocalizationLevel3Id = 7500007\n\
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like \'%{}%\'\n\
-        AND Fk_StatusId = 2\n\
+        --AND Fk_StatusId = 2\n\
     ) AS Temp\n\
 ON Destino.PK_ID = Temp.PK_ID\n\n'\
                 .format(i, row[5], row[4], row[0], simplify(row[5])))
                 i += 1
+
+

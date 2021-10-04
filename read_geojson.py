@@ -10,7 +10,7 @@ from os import read
 def centroid(poly_lst):
     x = [p[0] for p in poly_lst]
     y = [p[1] for p in poly_lst]
-    center = (round(sum(x) / len(poly_lst),6), round(sum(y) / len(poly_lst),6))
+    center = '({:.6f},{:.6f})'.format(sum(x) / len(poly_lst), sum(y) / len(poly_lst))
     return center
 
 with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
@@ -24,10 +24,10 @@ with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
         barrio = location["properties"]["NOMBRE"]
         polygon = location["geometry"]["coordinates"][0][0]
 
-        if ciudad == "BUCARAMANGA":
+        if ciudad == "FLORIDABLANCA":
             #print(polygon)
             point = centroid(polygon)
-            print(str(barrio) + ";" + str(point))
+            print(str(barrio) + ";" + point)
         else:
             idx += 1
 

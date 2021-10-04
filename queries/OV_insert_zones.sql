@@ -1,5 +1,5 @@
 INSERT INTO
-	OVFR_COL..DLocalizationLevel4 (	Pk_Id,Fk_LocalizationLevel1Id,Fk_LocalizationLevel2Id,Fk_LocalizationLevel3Id,Fk_LocalizationLevel4Id,Name,X,Y,Z,SortingId,Fk_StatusId
+	OVFR_COL..DLocalizationLevel4 (	Pk_Id,Fk_LocalizationLevel1Id,Fk_LocalizationLevel2Id,Fk_LocalizationLevel3Id,Name,X,Y,Z,SortingId,Fk_StatusId
 	)
 VALUES
 	(7500101,1,75,7500007,'Norte - Centro',-73.106826,7.114524,15,120,2,NULL),

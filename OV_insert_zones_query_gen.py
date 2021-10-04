@@ -20,7 +20,7 @@ with open('read_files/OV_zones_with_nodes.csv','r') as in_file:
 
 	with open('queries/OV_insert_zones.sql','w') as output:
 		output.write('INSERT INTO\n' + '\t' + database + ' (')
-		output.write('\tPk_Id,Fk_LocalizationLevel1Id,Fk_LocalizationLevel2Id,Fk_LocalizationLevel3Id,Name,X,Y,Z,SortingId,Fk_StatusId,polygonVertex' + '\n\t)\n')
+		output.write('\tPk_Id,Fk_LocalizationLevel1Id,Fk_LocalizationLevel2Id,Fk_LocalizationLevel3Id,Name,X,Y,Z,SortingId,Fk_StatusId' + '\n\t)\n')
 		output.write('VALUES\n')
 		
 		for row in read_file:
