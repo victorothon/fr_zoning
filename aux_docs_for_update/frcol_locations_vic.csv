@@ -1,0 +1,102 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Norte - Centro,7500101,'',0,0,0,10,Colombia / Santander / Bucaramanga / Norte - Centro
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Occidente - Sur,7500102,'',0,0,0,10,Colombia / Santander / Bucaramanga / Occidente - Sur
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,'',0,0,0,10,Colombia / Santander / Bucaramanga / Oriente
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Occidental,7500104,'',0,0,0,10,Colombia / Santander / Bucaramanga / Occidental
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,García Rovira,7500105,'',0,0,0,10,Colombia / Santander / Bucaramanga / García Rovira
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,La Concordia,7500106,'',0,0,0,10,Colombia / Santander / Bucaramanga / La Concordia
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,La Ciudadela,7500107,'',0,0,0,10,Colombia / Santander / Bucaramanga / La Ciudadela
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Sur Oriental,7500108,'',0,0,0,10,Colombia / Santander / Bucaramanga / Sur Oriental
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,La Pedregosa,7500109,'',0,0,0,10,Colombia / Santander / Bucaramanga / La Pedregosa
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Provenza,7500110,'',0,0,0,10,Colombia / Santander / Bucaramanga / Provenza
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Sur,7500111,'',0,0,0,10,Colombia / Santander / Bucaramanga / Sur
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,'',0,0,0,10,Colombia / Santander / Bucaramanga / Cabecera del Llano
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,'',0,0,0,10,Colombia / Santander / Bucaramanga / Centro Oriental
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Morrorico,7500114,'',0,0,0,10,Colombia / Santander / Bucaramanga / Morrorico
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Centro,7500115,'',0,0,0,10,Colombia / Santander / Bucaramanga / Centro
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Lagos del Cacique,7500116,'',0,0,0,10,Colombia / Santander / Bucaramanga / Lagos del Cacique
+4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Mutis,7500117,'',0,0,0,10,Colombia / Santander / Bucaramanga / Mutis
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,'',0,0,0,10,Colombia / Santander / Floridablanca / Florida - Casco Antiguo
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,'',0,0,0,10,Colombia / Santander / Floridablanca / Cañaveral - Versalles
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Bucarica - Caracolí,7500303,'',0,0,0,10,Colombia / Santander / Floridablanca / Bucarica - Caracolí
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,'',0,0,0,10,Colombia / Santander / Floridablanca / Caldas - El Reposo
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,'',0,0,0,10,Colombia / Santander / Floridablanca / Bosque - Molinos
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Lagos - Bellavista,7500306,'',0,0,0,10,Colombia / Santander / Floridablanca / Lagos - Bellavista
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Villabel - Santa Ana,7500307,'',0,0,0,10,Colombia / Santander / Floridablanca / Villabel - Santa Ana
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,La Cumbre - El Carmen,7500308,'',0,0,0,10,Colombia / Santander / Floridablanca / La Cumbre - El Carmen
+4,Zone,Colombia,1,Santander,75,Floridablanca,7500001,Ruitoque Condominio,7500309,'',0,0,0,10,Colombia / Santander / Floridablanca / Ruitoque Condominio
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Norte-Centro,7500101,Cafe Madrid,7501003,-73.140815,7.161674,15,Colombia / Santander / Bucaramanga / Norte-Centro / Cafe Madrid
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Norte-Centro,7500101,Las Hamacas,7501004,-73.138078,7.158126,15,Colombia / Santander / Bucaramanga / Norte-Centro / Las Hamacas
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Norte-Centro,7500101,Kennedy,7501006,-73.134634,7.15167,15,Colombia / Santander / Bucaramanga / Norte-Centro / Kennedy
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,San Rafael,7501044,-73.135114,7.139485,15,Colombia / Santander / Bucaramanga / Oriente / San Rafael
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,Chapinero,7501046,-73.13191,7.13805,15,Colombia / Santander / Bucaramanga / Oriente / Chapinero
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,La Universidad,7501048,-73.125622,7.137132,15,Colombia / Santander / Bucaramanga / Oriente / La Universidad
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,Mutualidad,7501049,-73.124679,7.135274,15,Colombia / Santander / Bucaramanga / Oriente / Mutualidad
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,Modelo,7501050,-73.129297,7.134547,15,Colombia / Santander / Bucaramanga / Oriente / Modelo
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,San Francisco,7501051,-73.122265,7.130211,15,Colombia / Santander / Bucaramanga / Oriente / San Francisco
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,Alarcon,7501052,-73.121137,7.126466,15,Colombia / Santander / Bucaramanga / Oriente / Alarcon
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Occidental,7500104,Gaitan,7501055,-73.134064,7.13148,15,Colombia / Santander / Bucaramanga / Occidental / Gaitan
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Occidental,7500104,Granadas,7501056,-73.130069,7.123854,15,Colombia / Santander / Bucaramanga / Occidental / Granadas
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Occidental,7500104,Girardot,7501058,-73.134712,7.122318,15,Colombia / Santander / Bucaramanga / Occidental / Girardot
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,García Rovira,7500105,Chorreras de Don Juan,7501076,-73.130128,7.11063,15,Colombia / Santander / Bucaramanga / García Rovira / Chorreras de Don Juan
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,García Rovira,7500105,Campohermoso,7501077,-73.138814,7.104936,15,Colombia / Santander / Bucaramanga / García Rovira / Campohermoso
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Concordia,7500106,La Concordia,7501088,-73120703,7112674,15,Colombia / Santander / Bucaramanga / La Concordia / La Concordia
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Concordia,7500106,Ricaurte,7501092,-73.116086,7.107081,15,Colombia / Santander / Bucaramanga / La Concordia / Ricaurte
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Concordia,7500106,La Ceiba,7501093,-73.115005,7.105093,15,Colombia / Santander / Bucaramanga / La Concordia / La Ceiba
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Concordia,7500106,La Salle,7501094,-73.112034,7.101433,15,Colombia / Santander / Bucaramanga / La Concordia / La Salle
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Concordia,7500106,La Victoria,7501095,-73.116644,7.100617,15,Colombia / Santander / Bucaramanga / La Concordia / La Victoria
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Ciudadela,7500107,Ciudadela Real de Minas,7501096,-73.122782,7.104033,15,Colombia / Santander / Bucaramanga / La Ciudadela / Ciudadela Real de Minas
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Ciudadela,7500107,Ciudad Bolivar,7501098,-73.125697,7.097514,15,Colombia / Santander / Bucaramanga / La Ciudadela / Ciudad Bolivar
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Ciudadela,7500107,Los Naranjos,7501101,-73.125997,7.101867,15,Colombia / Santander / Bucaramanga / La Ciudadela / Los Naranjos
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Pedregosa,7500109,Diamante I,7501124,-73.116735,7.091622,15,Colombia / Santander / Bucaramanga / La Pedregosa / Diamante I
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,La Pedregosa,7500109,Asturias,7501126,-73.107507,7.089288,15,Colombia / Santander / Bucaramanga / La Pedregosa / Asturias
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Provenza,7500110,Diamante II,7501131,-73.117028,7.090985,15,Colombia / Santander / Bucaramanga / Provenza / Diamante II
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Provenza,7500110,San Luis,7501132,-73.118742,7.091622,15,Colombia / Santander / Bucaramanga / Provenza / San Luis
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Provenza,7500110,Provenza,7501133,-73.115215,7.082634,15,Colombia / Santander / Bucaramanga / Provenza / Provenza
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Provenza,7500110,Fontana,7501135,-73.121413,7.088054,15,Colombia / Santander / Bucaramanga / Provenza / Fontana
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Sur,7500111,Toledo Plata,7501141,-73.122269,7.07993,15,Colombia / Santander / Bucaramanga / Sur / Toledo Plata
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Sur,7500111,Jardines de Coaviconsa,7501148,-73.123739,7.0879,15,Colombia / Santander / Bucaramanga / Sur / Jardines de Coaviconsa
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Sur,7500111,El Porvenir,7501151,-73.131723,7.082126,15,Colombia / Santander / Bucaramanga / Sur / El Porvenir
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Sur,7500111,Las Delicias,7501152,-73.133969,7.169727,15,Colombia / Santander / Bucaramanga / Sur / Las Delicias
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Sur,7500111,Viveros de Provenza,7501205,-73.11801,7.080898,15,Colombia / Santander / Bucaramanga / Sur / Viveros de Provenza
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Cabecera del Llano,7501154,-73106735,7119319,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Cabecera del Llano
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Sotomayor,7501155,-73.113435,7.116171,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Sotomayor
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Nuevo Sotomayor,7501203,-73.117638,7.113286,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Nuevo Sotomayor
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Antiguo Campestre,7501156,-73.106826,7.114524,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Antiguo Campestre
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Bolarqui,7501157,-73.114022,7.111366,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Bolarqui
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Puerta del Sol,7501159,-73.112032,7.104678,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Puerta del Sol
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Conucos,7501160,-73.110865,7.105544,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Conucos
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Los Cedros,7501163,-73.103371,7.118576,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Los Cedros
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,Terrazas,7501164,-73.10518,7.112109,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / Terrazas
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Cabecera del Llano,7500112,La Floresta,7501165,-73.105575,7.106495,15,Colombia / Santander / Bucaramanga / Cabecera del Llano / La Floresta
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,Los Pinos,7501166,-73.109973,7.136124,15,Colombia / Santander / Bucaramanga / Centro Oriental / Los Pinos
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,San Alonso,7501167,-73.11723,7.132379,15,Colombia / Santander / Bucaramanga / Centro Oriental / San Alonso
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,Galan,7501168,-73.111979,7.129727,15,Colombia / Santander / Bucaramanga / Centro Oriental / Galan
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,La Aurora,7501169,-73.11857,7.127414,15,Colombia / Santander / Bucaramanga / Centro Oriental / La Aurora
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,El Prado,7501171,-73.110717,7.123567,15,Colombia / Santander / Bucaramanga / Centro Oriental / El Prado
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,Mejoras Publicas,7501172,-73.114638,7.123139,15,Colombia / Santander / Bucaramanga / Centro Oriental / Mejoras Publicas
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,Antonia Santos,7501173,-73.109143,7.127747,15,Colombia / Santander / Bucaramanga / Centro Oriental / Antonia Santos
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,Bolívar,7501174,-73.118091,7.118549,15,Colombia / Santander / Bucaramanga / Centro Oriental / Bolívar
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro Oriental,7500113,Alvarez,7501175,-73.109143,7.127747,15,Colombia / Santander / Bucaramanga / Centro Oriental / Alvarez
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro,7500115,Centro,7501186,-73.125493,7.120003,15,Colombia / Santander / Bucaramanga / Centro / Centro
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Centro,7500115,Garcia Rovira,7501187,-73.130641,7.119062,15,Colombia / Santander / Bucaramanga / Centro / Garcia Rovira
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Lagos del Cacique,7500116,Lagos del Cacique,7501188,-73.099694,7.10355,15,Colombia / Santander / Bucaramanga / Lagos del Cacique / Lagos del Cacique
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Lagos del Cacique,7500116,El Tejar,7501189,-73.105783,7.100815,15,Colombia / Santander / Bucaramanga / Lagos del Cacique / El Tejar
+5,Neighbourhood,Colombia,1,Santander,75,Bucaramanga,7500007,Lagos del Cacique,7500116,Universidad,7501204,-73.098191,7.099425,15,Colombia / Santander / Bucaramanga / Lagos del Cacique / Universidad
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Limoncito,7503004,-73.07888,7.064976,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Limoncito
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Los Andes,7503005,-73.07820,7.063517,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Los Andes
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Florida,7503007,-73.08731,7.061235,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Florida
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Paraguitas,7503008,-73.0871,7.065556,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Paraguitas
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Sena,7503009,-73.095643,7.06417,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Sena
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Cañaveral,7503011,-73.10782,7.068912,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Cañaveral
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bucarica - Caracolí,7500303,Bucarica,7503018,-73.08401,7.067858,15,Colombia / Santander / Floridablanca / Bucarica - Caracolí / Bucarica
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,Caldas,7503020,-73.10348,7.092127,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / Caldas
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,El Reposo,7503021,-73.09196,7.092353,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / El Reposo
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,Fatima,7503022,-73.10055,7.0956,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / Fatima
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,El Bosque,7503025,-73.10978,7.074064,15,Colombia / Santander / Floridablanca / Bosque - Molinos / El Bosque
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Molinos,7503026,-73.10728,7.078134,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Molinos
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Palomitas,7503027,-73.11326,7.0717555,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Palomitas
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Niza,7503028,-73.105052,7.084494,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Niza
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Lagos - Bellavista,7500306,Bellavista,7503030,-73.10579,7.094744,15,Colombia / Santander / Floridablanca / Lagos - Bellavista / Bellavista
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Lagos - Bellavista,7500306,Lagos,7503031,-73.10581,7.0750345,15,Colombia / Santander / Floridablanca / Lagos - Bellavista / Lagos
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Ruitoque Condominio,7500309,Ruitoque Condominio,7503037,-73.087704,7.027448,15,Colombia / Santander / Floridablanca / Ruitoque Condominio / Ruitoque Condominio

@@ -24,4 +24,4 @@ with open('read_files/OV_zones_with_nodes.csv','r') as in_file:
 		output.write('VALUES\n')
 		
 		for row in read_file:
-			output.write('\t(' + ','.join(row[:4]) + ',\'' + row[4] + '\',' +  ','.join(row[5:]) + '),\n')
+			output.write('\t(' + ','.join(row[:4]) + ',\'' + 'Zona ' + row[4] + '\',' +  ','.join(row[5:]) + '),\n')

@@ -1,0 +1,41 @@
+OV:
+Started executing query at Line 1
+(18 rows affected)
+(17 rows affected)
+(9 rows affected)
+(10 rows affected)
+(2 rows affected)
+(1479 rows affected)
+(75 rows affected)
+(27 rows affected)
+(6 rows affected)
+(6 rows affected)
+(85 rows affected)
+(18 rows affected)
+(16 rows affected)
+(25 rows affected)
+(51 rows affected)
+(106 rows affected)
+(44 rows affected)
+Total execution time: 00:00:53.141
+
+FC:
+Started executing query at Line 1
+(6 rows affected)
+(6 rows affected)
+(2 rows affected)
+(4 rows affected)
+(1 row affected)
+(756 rows affected)
+(40 rows affected)
+(11 rows affected)
+(3 rows affected)
+(2 rows affected)
+(41 rows affected)
+(6 rows affected)
+(3 rows affected)
+(15 rows affected)
+(18 rows affected)
+(34 rows affected)
+(40 rows affected)
+Total execution time: 00:00:24.888

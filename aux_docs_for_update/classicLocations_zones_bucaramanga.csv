@@ -1,0 +1,18 @@
+polymorphic_ctype,id,name,slug,fr_place_id,place_code,location_point,is_active,to_filter,created,updated,group,location
+249,,Zona Norte-Centro,colombia-santander-bucaramanga-7500101-zona-norte-centro,7500101,,SRID=4326;POINT(-73.138135 7.156373),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501003,7501004,7501006"
+249,,Zona Occidente-Sur,colombia-santander-bucaramanga-7500102-zona-occidente-sur,7500102,,SRID=4326;POINT(-73.128108 7.149964),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,7500007
+249,,Zona Oriente,colombia-santander-bucaramanga-7500103-zona-oriente,7500103,,SRID=4326;POINT(-73.120055 7.128506),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501044,7501046,7501048,7501049,7501050,7501051,7501052"
+249,,Zona Occidental,colombia-santander-bucaramanga-7500104-zona-occidental,7500104,,SRID=4326;POINT(-73.133662 7.117188),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501055,7501056,7501058"
+249,,Zona García Rovira,colombia-santander-bucaramanga-7500105-zona-garcia-rovira,7500105,,SRID=4326;POINT(-73.129351 7.107935),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501076,7501077"
+249,,Zona La Concordia,colombia-santander-bucaramanga-7500106-zona-la-concordia,7500106,,SRID=4326;POINT(-73.11392 7.11469),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501088,7501092,7501093,7501094,7501095"
+249,,Zona La Ciudadela,colombia-santander-bucaramanga-7500107-zona-la-ciudadela,7500107,,SRID=4326;POINT(-73.117056 7.109447),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501096,7501098,7501101"
+249,,Zona Sur Oriental,colombia-santander-bucaramanga-7500108-zona-sur-oriental,7500108,,SRID=4326;POINT(-73.115727 7.099893),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,7500007
+249,,Zona La Pedregosa,colombia-santander-bucaramanga-7500109-zona-la-pedregosa,7500109,,SRID=4326;POINT(-73.104978 7.090736),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501124,7501126"
+249,,Zona Provenza,colombia-santander-bucaramanga-7500110-zona-provenza,7500110,,SRID=4326;POINT(-73.101425 7.079429),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501131,7501132,7501133,7501135"
+249,,Zona Sur,colombia-santander-bucaramanga-7500111-zona-sur,7500111,,SRID=4326;POINT(-73.119937 7.08585),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501141,7501148,7501151,7501152,7501205"
+249,,Zona Cabecera del Llano,colombia-santander-bucaramanga-7500112-zona-cabecera-del-llano,7500112,,SRID=4326;POINT(-73.106826 7.114524),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501154,7501155,7501203,7501156,7501157,7501159,7501160,7501163,7501164,7501165"
+249,,Zona Centro Oriental,colombia-santander-bucaramanga-7500113-zona-centro-oriental,7500113,,SRID=4326;POINT(-73.111093 7.125512),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501166,7501167,7501168,7501169,7501171,7501172,7501173,7501174,7501175"
+249,,Zona Morrorico,colombia-santander-bucaramanga-7500114-zona-morrorico,7500114,,SRID=4326;POINT(-73.103058 7.132005),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,7500007
+249,,Zona Centro,colombia-santander-bucaramanga-7500115-zona-centro,7500115,,SRID=4326;POINT(-73.118476 7.122153),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501186,7501187"
+249,,Zona Lagos del Cacique,colombia-santander-bucaramanga-7500116-zona-lagos-del-cacique,7500116,,SRID=4326;POINT(-73.098191 7.099425),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,"7500007,7501188,7501189,7501204"
+249,,Zona Mutis,colombia-santander-bucaramanga-7500117-zona-mutis,7500117,,SRID=4326;POINT(-73.127467 7.100609),1,1,2021-10-6 17:14:47,2021-10-6 17:14:47,zonas,7500007
