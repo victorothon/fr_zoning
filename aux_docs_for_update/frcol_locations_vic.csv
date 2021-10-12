@@ -1,4 +1,8 @@
 LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+3,City,Colombia,1,Atlántico,57,Tubará,5700012,'',0,'',0,-74.977914,10.87504,10,Colombia / Atlántico / Tubará
+3,City,Colombia,1,Atlántico,57,Juan de Acosta,5700013,'',0,'',0,-75.034704,10.829197,10,Colombia / Atlántico / Juan de Acosta
+3,City,Colombia,1,Atlántico,57,Usiacurí,5700014,'',0,'',0,-74.977859,10.742379,10,Colombia / Atlántico / Usiacurí
+3,City,Colombia,1,Valle del Cauca,82,La Unión,8200026,'',0,'',0,-76.103445,4.535842,10,Colombia / Valle del Cauca / La Unión
 4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Norte - Centro,7500101,'',0,0,0,10,Colombia / Santander / Bucaramanga / Norte - Centro
 4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Occidente - Sur,7500102,'',0,0,0,10,Colombia / Santander / Bucaramanga / Occidente - Sur
 4,Zone,Colombia,1,Santander,75,Bucaramanga,7500007,Oriente,7500103,'',0,0,0,10,Colombia / Santander / Bucaramanga / Oriente

@@ -1,0 +1,293 @@
+Cod_Dept,Cod_Ciudad,Ciudad,NUM_OF_ADS
+54,5400003,Leticia,13
+54,5400002,Otros municipios,11
+55,5500006,Medellín,47936
+55,5500001,Envigado,11438
+55,5500016,Sabaneta,5559
+55,5500004,Rionegro,4449
+55,5500005,Bello,4445
+55,5500002,Itaguí,3214
+55,5500003,La Estrella,2774
+55,5500007,Otros Municipios,1513
+55,5500013,El Retiro,1347
+55,5500012,La Ceja,973
+55,5500018,Guarne,731
+55,5500008,Copacabana,505
+55,5500019,Santa Fé de Antioquia,392
+55,5500025,San Jerónimo,327
+55,5500011,Caldas,317
+55,8500164,Sopetran,306
+55,5500009,Girardota,296
+55,5500024,Marinilla,266
+55,5500026,El Carmen de Viboral,238
+55,5500010,Barbosa,144
+55,5500020,Llano Grande,122
+55,5500027,El Peñol,108
+55,5500022,San Antonio de Pereira,69
+55,5500023,Guatapé,69
+55,5500040,Santa Elena,56
+55,5500029,Santuario,50
+55,5500032,San Pedro de los Milagros,46
+55,5500021,San Antonio de Prado,42
+55,5500037,Fredonia,31
+55,5500035,Santa Rosa de Osos,27
+55,5500028,La Unión,21
+55,8500183,Amagá,18
+55,8500186,Venecia,18
+55,8500180,Santa Bárbara,15
+55,8500174,Jardín,14
+55,5500017,Caucasia,12
+55,5500041,San Luis,10
+55,5500030,San Cristobal,10
+55,5500031,San Felix,9
+55,8500176,La Pintada,9
+55,5500042,Angelópolis,6
+55,8500187,"Titiribí ",6
+55,5500034,Don Matias,5
+55,8500177,Montebello,5
+55,5500038,Puerto Triunfo,4
+55,8500184,Urrao,3
+55,8500181,Támesis,3
+55,5500033,Entrerrios,3
+55,8500185,Valparaíso,3
+55,8500165,Andes,2
+55,5500043,Betania,2
+55,8500179,Salgar,2
+55,8500173,Hispania,2
+55,8500178,Pueblorrico,2
+55,8500172,Concordia,2
+55,8500175,Jericó,1
+55,5500039,Doradal,1
+56,5600002,Arauca,7
+56,5600001,Otros municipios,7
+57,5700003,Barranquilla,25614
+57,5700002,Otros municipios,1125
+57,5700009,Puerto Colombia,941
+57,5700005,Soledad,477
+57,5700010,Galapa,53
+57,5700011,Malambo,32
+57,5700004,Sabanalarga,27
+57,5700013,Juan de Acosta,12
+57,5700007,Ponedera,2
+57,5700008,Candelaria,2
+57,5700012,Tubará,2
+57,5700006,Luruaco,1
+58,5800003,Cartagena,15484
+58,5800004,Turbaco,397
+58,5800002,Otros municipios,128
+58,5800007,Mompós,30
+58,5800006,Magangué,6
+58,5800005,El Carmen de Bolívar,2
+59,5900003,Tunja,1265
+59,5900002,Otros municipios,314
+59,5900004,Paipa,311
+59,5900005,Duitama,288
+59,5900006,Sogamoso,197
+59,5900010,Villa de Leyva,189
+59,5900007,Chiquinquirá,69
+59,5900008,Moniquirá,53
+59,5900009,Puerto Boyacá,22
+59,5900011,Jenesano,20
+60,6000006,Manizales,12749
+60,6000009,Villamaria,321
+60,6000008,Otros Municipios,275
+60,6000002,Chinchiná,101
+60,6000010,Viterbo,78
+60,6000005,La Dorada,40
+60,6000003,Neira,38
+60,6000012,Santagueda,33
+60,6000007,Anserma,19
+60,6000004,Salamina,16
+60,6000011,Supía,2
+61,6100003,Florencia,28
+61,6100002,Otros municipios,7
+62,6200003,Yopal,207
+62,6200002,Otros municipios,68
+62,8500198,Aguazul,17
+62,8500193,San Luis de Palenque,1
+63,6300003,Popayán,350
+63,6300005,Santander de Quilichao,69
+63,6300002,Otros municipios,25
+63,6300004,Puerto Tejada,19
+63,6300007,Piendamó,15
+63,6300009,Caloto,4
+63,6300008,Corinto,1
+64,6400003,Valledupar,756
+64,6400002,Otros municipios,40
+64,6400004,Aguachica,18
+64,6400005,La Jagua de Iberico,4
+65,6500003,Quibdó,43
+65,6500002,Otros municipios,12
+66,6600003,Montería,3236
+66,6600004,Cereté,203
+66,6600002,Otros municipios,74
+66,6600005,Lorica,25
+66,6600006,Planeta Rica,11
+66,6600007,Sahagún,5
+67,3630001,Bogotá,113509
+67,6700003,Chía,4076
+67,6700004,Soacha,2176
+67,6700009,Cajicá,2007
+67,6700016,Fusagasugá,1863
+67,6700002,Mosquera,1760
+67,6700011,Otros Municipios,1719
+67,6700001,Girardot,1255
+67,6700015,Cota,1253
+67,6700008,Funza,1178
+67,6700012,Madrid,1173
+67,6700017,La Calera,849
+67,6700021,Zipaquirá,784
+67,6700029,Ricaurte,738
+67,6700025,Tocancipá,585
+67,6700018,La Mesa,569
+67,6700022,Sopó,488
+67,6700014,Anapoima,474
+67,6700006,Facatativa,419
+67,6700027,Tenjo,327
+67,6700020,Villeta,315
+67,6700038,Silvania,298
+67,6700036,Tabio,234
+67,6700024,La Vega,224
+67,6700023,Tocaima,198
+67,6700037,Subachoque,180
+67,6700028,El Colegio,171
+67,6700030,Guasca,136
+67,6700031,Apulo,126
+67,6700032,Chocontá,103
+67,6700026,Gachancipá,98
+67,6700019,Ubate,86
+67,6700034,Anolaima,78
+67,6700035,Sesquilé,77
+67,8500104,Agua de Dios,77
+67,6700042,El Rosal,70
+67,6700033,Guatavita,66
+67,6700041,Cogua,54
+67,6700013,Bojacá,46
+67,8500189,Sasaima,42
+67,8500191,Tena,39
+67,6700039,Supatá,26
+67,6700043,Granada,19
+67,6700040,Puerto Salgar,8
+67,8500199,Tobia,6
+67,5500043,Betania,4
+68,6800003,Inírida,4
+68,6800002,Otros municipios,1
+69,6900004,San José del Guaviare,6
+69,6900003,Otros municipios,2
+70,7000003,Neiva,734
+70,7000002,Otros municipios,58
+70,7000005,Pitalito,43
+70,7000008,Palermo,26
+70,7000006,Garzón,18
+70,7000004,Campoalegre,10
+70,7000007,La Plata,4
+71,7100004,Riohacha,47
+71,7100003,Otros municipios,36
+71,7100005,San Juan del Cesar,4
+72,7200003,Santa Marta,4366
+72,7200002,Otros municipios,26
+72,7200004,Ciénaga,23
+72,7200007,Fundación,6
+72,7200006,Plato,2
+72,7200005,El Banco,1
+73,7300003,Villavicencio,2563
+73,7300006,Acacías,208
+73,7300002,Otros municipios,184
+73,7300004,Puerto López,141
+73,7300009,Restrepo,126
+73,7300005,Granada,53
+73,7300007,San Martín,34
+73,7300008,Puerto Gaitan,23
+73,8500188,Castilla La Nueva,8
+73,5500042,Angelópolis,1
+74,7400003,Pasto,1169
+74,7400002,Otros municipios,111
+74,7400004,Ipiales,36
+74,7400006,Tumaco,8
+75,7500007,Bucaramanga,11531
+75,7500001,Floridablanca,3096
+75,7500002,Piedecuesta,1451
+75,7500004,Girón,759
+75,7500011,Barrancabermeja,303
+75,7500006,San Gil,287
+75,7500008,Otros Municipios,224
+75,7500012,Los Santos,200
+75,7500003,Ruitoque,185
+75,7500014,Lebrija,88
+75,7500010,"Barichara ",75
+75,7500009,Barbosa,71
+75,7500005,Socorro,68
+75,7500013,Vélez,11
+76,7600002,Otros municipios,11
+76,7600003,Mocoa,7
+77,7700006,Armenia,3261
+77,7700004,Circasia,203
+77,7700007,Otros Municipios,158
+77,7700001,Calarcá,123
+77,7700008,La Tebaida,118
+77,7700002,Montenegro,115
+77,7700005,Salento,74
+77,7700003,Quimbaya,63
+77,7700009,El Camino,2
+78,7800004,Pereira,10319
+78,7800006,Dosquebradas,1808
+78,7800002,Santa Rosa de Cabal,420
+78,7800005,Otros Municipios,85
+78,7800007,La Virginia,35
+78,7800003,Marsella,11
+78,7800009,Apia,5
+78,7800008,Belén de Umbría,2
+79,7900001,San Andres y Providencia,68
+80,8000003,Sincelejo,68
+80,8000007,Coveñas,57
+80,8000006,Tolú,25
+80,8000002,Otros municipios,17
+80,8000004,Corozal,8
+80,8000005,San Marcos,1
+81,8100003,Ibagué,2658
+81,8100004,Melgar,533
+81,8100008,Carmen de Apicalá,422
+81,8100009,Flandes,355
+81,8100002,Otros municipios,210
+81,8100011,Mariquita,117
+81,8100006,Espinal,105
+81,8100010,Guamo,81
+81,8100007,Honda,44
+81,8100012,Purificación,31
+81,8100014,Armero,26
+81,8100013,Alvarado,20
+81,8100005,Chaparral,12
+82,8200006,Cali,25565
+82,8200003,Jamundí,2657
+82,8200002,Palmira,749
+82,8200001,Yumbo,657
+82,8200007,Otros Municipios,510
+82,8200017,Dagua,249
+82,8200004,Candelaria,186
+82,8200012,Darien,181
+82,8200005,Buga,133
+82,8200022,La Cumbre,128
+82,8200008,Cartago,119
+82,8200011,Rozo,119
+82,8200009,Tuluá,114
+82,8200010,Buenaventura,102
+82,8200024,Restrepo,54
+82,8200013,Ginebra,50
+82,8200019,El Cerrito,48
+82,8200014,Dapa,47
+82,8200016,El Carmen,45
+82,8200021,Guacarí,17
+82,8200018,Sevilla,15
+82,8200023,Vijes,13
+82,8200025,Palmaseca,10
+82,8200015,Tocota,8
+82,8200026,La Unión,7
+82,8200020,Zarzal,4
+84,8400002,Otros municipios,13
+84,8400003,Puerto Carreño,11
+85,8500004,Cúcuta,5215
+85,8500001,Otros municipios,409
+85,8500006,Villa del Rosario,67
+85,8500005,Los Patios,58
+85,8500002,Ocaña,17
+85,8500003,Pamplona,15

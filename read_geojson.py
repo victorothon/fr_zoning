@@ -7,7 +7,7 @@
 import json
 from os import read
 
-CIUDAD = 'GIRON'
+CIUDAD = 'BUCARAMANGA'
 
 def centroid(poly_lst):
     x = [p[0] for p in poly_lst]
@@ -21,15 +21,21 @@ with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
     locations = geo_dict["features"]
 
     idx = 0
+    Nei_idx = 1
     for location in locations:
         ciudad = location["properties"]["NOM_CPOB"]
         barrio = location["properties"]["NOMBRE"]
-        polygon = location["geometry"]["coordinates"][0][0]
+
+    #corrección por formato variante en archivo
+        if len(location["geometry"]["coordinates"][0]) > 3:
+            polygon = location["geometry"]["coordinates"][0]
+        else:
+            polygon = location["geometry"]["coordinates"][0][0]
 
         if ciudad == CIUDAD:
-            #print(polygon)
             point = centroid(polygon)
-            print(str(barrio) + ";" + point)
+            print(str(Nei_idx) + ";" + str(barrio) + ";" + point)
+            Nei_idx += 1
         else:
             idx += 1
 

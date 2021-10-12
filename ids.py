@@ -12,6 +12,7 @@ def simplify(text):
 with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
     read_file = csv.reader(in_file)
     next(read_file)
+
     with open('queries/ids.txt', 'a') as output:
         for row in read_file:
             if int(row[10]) == 2:

@@ -43,8 +43,8 @@ FROM FC_COL_WRT..AdvertsRealstate  Destino\n\
 INNER JOIN (\n\
     SELECT PK_AdvertId, {} as zone, {} Neighborhood\n\
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)\n\
-    WHERE FK_Location2Id = 7500001\n\
-        --AND FK_Location4Id = 0\n\
+    WHERE FK_Location2Id = 7500004\n\
+        AND FK_Location4Id = 0\n\
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like \'%{}%\'\n\
     ) AS TEMP\n\
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId\n\n'\
