@@ -1,9 +1,0 @@
-polymorphic_ctype,id,name,slug,fr_place_id,place_code,location_point,is_active,to_filter,created,updated,city
-251,,Centro,colombia-santander-giron-7504033-centro,7504033,,SRID=4326;POINT(-73.170957 7.068321),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,Chimita zona industrial ,colombia-santander-giron-7504038-chimita-zona-industrial-,7504038,,SRID=4326;POINT(-73.17063 7.096237),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,El Palenque,colombia-santander-giron-7504039-el-palenque,7504039,,SRID=4326;POINT(-73.17164 7.083710),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,La Esmeralda,colombia-santander-giron-7504040-la-esmeralda,7504040,,SRID=4326;POINT(-73.16568 7.086442),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,El Poblado,colombia-santander-giron-7504049-el-poblado,7504049,,SRID=4326;POINT(-73.16867 7.074219),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,Puerto Madero,colombia-santander-giron-7504079-puerto-madero,7504079,,SRID=4326;POINT(-73.161055 7.058518),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,Rincón de Girón,colombia-santander-giron-7504083-rincon-de-giron,7504083,,SRID=4326;POINT(-73.164818 7.071950),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004
-251,,San Jorge,colombia-santander-giron-7504087-san-jorge,7504087,,SRID=4326;POINT(-73.16380 7.064259),1,1,2021-10-8 16:47:52,2021-10-8 16:47:52,7500004

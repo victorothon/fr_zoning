@@ -46,12 +46,12 @@ FROM OVFR_COL..Ad Destino (NOLOCK)\n\
 INNER JOIN (\n\
     SELECT PK_ID, {} as zone, {} Neighborhood\n\
     FROM OVFR_COL..Ad (NOLOCK)\n\
-    WHERE Fk_LocalizationLevel3Id = {}\n\
+    WHERE   Fk_LocalizationLevel2Id = {}\n\
+        AND Fk_LocalizationLevel3Id = {}\n\
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like \'%{}%\'\n\
-        --AND Fk_StatusId = 2\n\
+        AND Fk_StatusId = 2\n\
     ) AS Temp\n\
 ON Destino.PK_ID = Temp.PK_ID\n\n'\
-                .format(i, row[5], row[4], row[0], row[3], simplify(row[5])))
+                .format(i, row[5], row[4], row[0], row[2], row[3], simplify(row[5])))
                 i += 1
-
 

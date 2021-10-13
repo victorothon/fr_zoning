@@ -7,7 +7,7 @@
 import json
 from os import read
 
-CIUDAD = 'BUCARAMANGA'
+CIUDAD = 'ITAGUI'
 
 def centroid(poly_lst):
     x = [p[0] for p in poly_lst]

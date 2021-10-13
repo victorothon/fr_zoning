@@ -9,7 +9,7 @@ TO_FILTER = 1
 CITY_CODE = 7500004
 COUNTRY = 'colombia'
 DEPARTMENT = 'santander'
-CITY = 'giron'
+CITY = 'floridablanca'
 GROUP = 'zonas'
 ZONE = 'Zona'
 
