@@ -9,7 +9,7 @@ TO_FILTER = 1
 CITY_CODE = 7500004
 COUNTRY = 'colombia'
 DEPARTMENT = 'santander'
-CITY = 'floridablanca'
+CITY = 'giron'
 
 
 def custom_replace(string):

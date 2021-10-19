@@ -7,7 +7,7 @@
 import json
 from os import read
 
-CIUDAD = 'ITAGUI'
+CIUDAD = 'JAMUNDI'
 
 def centroid(poly_lst):
     x = [p[0] for p in poly_lst]
@@ -34,10 +34,15 @@ with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
 
         if ciudad == CIUDAD:
             point = centroid(polygon)
-            print(str(Nei_idx) + ";" + str(barrio) + ";" + point)
+            info_string = str(Nei_idx) + ";" + CIUDAD + ";" + str(barrio) + ";" + point
+            print(info_string)
             Nei_idx += 1
+            with open("aux_docs_for_update/city_nodes.csv", "a") as out_file:
+              out_file.write(info_string + "\n")  
         else:
             idx += 1
+
+    
 
 
 
