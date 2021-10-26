@@ -6,10 +6,10 @@ ID = ''
 PLACE_CODE = ''
 IS_ACTIVE = 1
 TO_FILTER = 1
-CITY_CODE = 7500004
+CITY_CODE = 5700003
 COUNTRY = 'colombia'
-DEPARTMENT = 'santander'
-CITY = 'giron'
+DEPARTMENT = 'atlantico'
+CITY = 'barranquilla'
 
 
 def custom_replace(string):

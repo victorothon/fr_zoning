@@ -1,0 +1,10 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Arenales,7500401,'','',-73.168567,7.059882,15,Colombia / Santander / Girón / Arenales
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Bellavista,7500402,'','',-73.175602,7.075704,15,Colombia / Santander / Girón / Bellavista
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Carrizal,7500403,'','',-73.172332,7.078357,15,Colombia / Santander / Girón / Carrizal
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Casco Antiguo,7500404,'','',-73.170145,7.067311,15,Colombia / Santander / Girón / Casco Antiguo
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Chimita,7500405,'','',-73.167088,7.085710,15,Colombia / Santander / Girón / Chimita
+4,Zone,Colombia,1,Santander,75,Girón,7500004,El Poblado,7500406,'','',-73.169337,7.073329,15,Colombia / Santander / Girón / El Poblado
+4,Zone,Colombia,1,Santander,75,Girón,7500004,La Aldea,7500407,'','',-73.176803,7.067126,15,Colombia / Santander / Girón / La Aldea
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Mesetas,7500408,'','',-73.165440,7.056398,15,Colombia / Santander / Girón / Mesetas
+4,Zone,Colombia,1,Santander,75,Girón,7500004,Rincón de Girón,7500409,'','',-73.164298,7.071796,15,Colombia / Santander / Girón / Rincón de Girón

@@ -23,7 +23,9 @@ def simplify(text):
 	#except NameError:
 	#	pass
 	text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
-	return str(text).lower().replace(' ','%') 
+	return str(text)\
+                    .lower()\
+                    .replace(' ','%')
 
 with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
     read_file = csv.reader(in_file)

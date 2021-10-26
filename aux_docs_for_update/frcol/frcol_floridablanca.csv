@@ -1,0 +1,38 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Abadías,7503001,-73.082065,7.057378,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Abadías
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Altamira,7503002,-73.08241,7.063683,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Altamira
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,La Ronda,7503003,-73.08224,7.06347,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / La Ronda
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Limoncito,7503004,-73.07888,7.064976,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Limoncito
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Los Andes,7503005,-73.07820,7.063517,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Los Andes
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Casco Antiguo,7503006,-73.085706,7.063704,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Casco Antiguo
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Florida,7503007,-73.08731,7.061235,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Florida
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Paraguitas,7503008,-73.0871,7.065556,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Paraguitas
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Florida - Casco Antiguo,7500301,Sena,7503009,-73.095643,7.06417,15,Colombia / Santander / Floridablanca / Florida - Casco Antiguo / Sena
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Cañaveral Occidental,7503010,-73.10782,7.068912,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Cañaveral Occidental
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Cañaveral,7503011,-73.10782,7.068912,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Cañaveral
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Cañaveral Oriental,7503012,-73.10782,7.068912,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Cañaveral Oriental
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Versalles,7503013,-73.100314,7.062852,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Versalles
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Aranzoque,7503014,-73.086742,7.059595,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Aranzoque
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Buenos Aires,7503015,-73.08854,7.057255,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Buenos Aires
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,La Paz,7503016,-73.09711,7.059854,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / La Paz
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Cañaveral - Versalles,7500302,Campestre,7503017,-73.10224,7.062456,15,Colombia / Santander / Floridablanca / Cañaveral - Versalles / Campestre
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bucarica - Caracolí,7500303,Bucarica,7503018,-73.08401,7.067858,15,Colombia / Santander / Floridablanca / Bucarica - Caracolí / Bucarica
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bucarica - Caracolí,7500303,Caracolí,7503019,-73.08145,7.070091,15,Colombia / Santander / Floridablanca / Bucarica - Caracolí / Caracolí
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,Caldas,7503020,-73.10348,7.092127,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / Caldas
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,El Reposo,7503021,-73.09196,7.092353,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / El Reposo
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,Fatima,7503022,-73.10055,7.0956,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / Fatima
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,La Trinidad,7503023,-73.09468,7.095968,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / La Trinidad
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Caldas - El Reposo,7500304,Zapamanga,7503024,-73.10055,7.093675,15,Colombia / Santander / Floridablanca / Caldas - El Reposo / Zapamanga
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,El Bosque,7503025,-73.10978,7.074064,15,Colombia / Santander / Floridablanca / Bosque - Molinos / El Bosque
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Molinos,7503026,-73.10728,7.078134,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Molinos
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Palomitas,7503027,-73.11326,7.0717555,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Palomitas
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Niza,7503028,-73.105052,7.084494,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Niza
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Bosque - Molinos,7500305,Trinitarios,7503029,-73.10868,7.084420,15,Colombia / Santander / Floridablanca / Bosque - Molinos / Trinitarios
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Lagos - Bellavista,7500306,Bellavista,7503030,-73.10579,7.094744,15,Colombia / Santander / Floridablanca / Lagos - Bellavista / Bellavista
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Lagos - Bellavista,7500306,Lagos,7503031,-73.10581,7.0750345,15,Colombia / Santander / Floridablanca / Lagos - Bellavista / Lagos
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Villabel - Santa Ana,7500307,Santa Ana,7503032,-73.099996,7.082044,15,Colombia / Santander / Floridablanca / Villabel - Santa Ana / Santa Ana
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Villabel - Santa Ana,7500307,Villabel,7503033,-73.10265,7.081014,15,Colombia / Santander / Floridablanca / Villabel - Santa Ana / Villabel
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,La Cumbre - El Carmen,7500308,El Carmen,7503034,-73.085372,7.0841,15,Colombia / Santander / Floridablanca / La Cumbre - El Carmen / El Carmen
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,La Cumbre - El Carmen,7500308,La Cumbre,7503035,-73.08861,7.075985,15,Colombia / Santander / Floridablanca / La Cumbre - El Carmen / La Cumbre
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,La Cumbre - El Carmen,7500308,La Hacienda,7503036,-73.093322,7.077529,15,Colombia / Santander / Floridablanca / La Cumbre - El Carmen / La Hacienda
+5,Neighbourhood,Colombia,1,Santander,75,Floridablanca,7500001,Ruitoque Condominio,7500309,Ruitoque Condominio,7503037,-73.087704,7.027448,15,Colombia / Santander / Floridablanca / Ruitoque Condominio / Ruitoque Condominio

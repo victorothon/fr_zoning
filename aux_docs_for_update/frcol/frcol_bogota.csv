@@ -1,0 +1,724 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Country Club,3630201,-74.0423583984375,4.710565685396272,15,Colombia / Cundinamarca / Bogota / Zona Norte / Country Club
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Cedritos,3630202,-74.03823852539062,4.724936386894007,15,Colombia / Cundinamarca / Bogota / Zona Norte / Cedritos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Cristobal,3630203,-74.02313232421875,4.737253893957665,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Cristobal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Barbara,3630204,-74.04579162597656,4.697563366183884,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Barbara
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Toberin,3630205,-74.03823852539062,4.747518315575645,15,Colombia / Cundinamarca / Bogota / Zona Norte / Toberin
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Usaquen,3630206,-74.02725219726562,4.696879026871425,15,Colombia / Cundinamarca / Bogota / Zona Norte / Usaquen
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Verbenal,3630207,-74.03411865234375,4.778994921541037,14,Colombia / Cundinamarca / Bogota / Zona Norte / Verbenal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Chico,3630208,-74.05265808105469,4.677717253825141,15,Colombia / Cundinamarca / Bogota / Zona Norte / Chico
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Cerros Orientales,3630209,-74.03274536132812,4.662661207034317,14,Colombia / Cundinamarca / Bogota / Zona Chapinero / Cerros Orientales
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Engativa,3630210,-74.11788940429688,4.717408913682986,16,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Engativa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Metropolis - Las Ferias,3630211,-74.08767700195312,4.685245155890604,14,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Metropolis - Las Ferias
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Floresta - Niza,3630212,-74.07325744628906,4.707828375218317,16,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Floresta - Niza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Colina y alrededores,3630213,-74.06158447265625,4.743412565235828,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Colina y alrededores
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Calle 170 y alrededores,3630214,-74.05197143554688,4.790627214921828,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Calle 170 y alrededores
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba,3630215,-74.09934997558594,4.7440968586550705,NULL,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El polo - Pasadena,3630216,-74.07257080078125,4.670189270830019,0,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El polo - Pasadena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Teusaquillo,3630217,-74.07188415527344,4.639392136749708,0,Colombia / Cundinamarca / Bogota / Zona Chapinero / Teusaquillo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Chapinero,3630218,-74.05746459960938,4.644867281246514,0,Colombia / Cundinamarca / Bogota / Zona Chapinero / Chapinero
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Fontibon,3630219,-74.15771484375,4.69071994285085,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Fontibon
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Modelia - Salitre,3630220,-74.12406921386719,4.664029951910404,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Modelia - Salitre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Patio Bonito,3630221,-74.17007446289062,4.638707740701244,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Patio Bonito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Castilla - Marsella,3630222,-74.13711547851562,4.639392136749708,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Castilla - Marsella
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Tintal,3630223,-74.15428161621094,4.656501822101171,0,Colombia / Cundinamarca / Bogota / Zona Occidente / El Tintal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Kennedy,3630224,-74.15359497070312,4.624335270608115,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Kennedy
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Puente Aranda,3630225,-74.10896301269531,4.625019680565743,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Puente Aranda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ciudad Montes,3630226,-74.11170959472656,4.60859365926745,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Ciudad Montes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Nicolas de Federman,3630227,-74.09111022949219,4.644867281246514,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Nicolas de Federman
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Alamos,3630228,-74.10964965820312,4.677717253825141,0,Colombia / Cundinamarca / Bogota / Zona Occidente / Alamos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Centro y zona colonial,3630229,-74.06982421875,4.595589456454679,0,Colombia / Cundinamarca / Bogota / Zona Centro / Centro y zona colonial
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Santa Isabel,3630230,-74.08699035644531,4.607909233466016,0,Colombia / Cundinamarca / Bogota / Zona Centro / Santa Isabel
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Centro Internacional,3630231,-74.06570434570312,4.620228796979006,0,Colombia / Cundinamarca / Bogota / Zona Centro / Centro Internacional
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Restrepo - Ciudad Jardín Sur,3630232,-74.102783203125,4.590113931622858,0,Colombia / Cundinamarca / Bogota / Zona Sur / Restrepo - Ciudad Jardín Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Central - Apogeo,3630233,-74.19548034667969,4.612015778387003,0,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Central - Apogeo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Occidental,3630234,-74.19479370117188,4.631179340411012,0,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudad Bolivar,3630235,-74.1522216796875,4.552468563785959,0,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudad Bolivar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Quiroga - Diana Turbay,3630236,-74.11514282226562,4.5702648023012,0,Colombia / Cundinamarca / Bogota / Zona Sur / Quiroga - Diana Turbay
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,20 de Julio - San Blas,3630237,-74.08836364746094,4.559313323087172,0,Colombia / Cundinamarca / Bogota / Zona Sur / 20 de Julio - San Blas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tunjuelito - Venecia,3630238,-74.13780212402344,4.57847830192729,0,Colombia / Cundinamarca / Bogota / Zona Sur / Tunjuelito - Venecia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Usme - Sumapaz,3630239,-74.11308288574219,4.50592247883857,0,Colombia / Cundinamarca / Bogota / Zona Sur / Usme - Sumapaz
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Timiza,3630240,-74.14260864257812,4.603118234410997,0,Colombia / Cundinamarca / Bogota / Zona Sur / Timiza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Acacias Usaquén,3632001,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Acacias Usaquén
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Alameda,3632002,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Alameda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Alta Blanca,3632003,-74.027902,4.733089,15,Colombia / Cundinamarca / Bogota / Zona Norte / Alta Blanca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Andalucia,3632004,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Andalucia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Antiguo Country,3632005,-74.058035,4.670098,15,Colombia / Cundinamarca / Bogota / Zona Norte / Antiguo Country
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Barrancas,3632006,-74.026102,4.737804,15,Colombia / Cundinamarca / Bogota / Zona Norte / Barrancas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bella Suiza,3632007,-74.030263,4.707277,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bella Suiza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bella Vista,3632008,-74.051272,4.657413,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bella Vista
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bello Horizonte,3632009,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bello Horizonte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Belmira,3632010,-74.029322,4.718291,15,Colombia / Cundinamarca / Bogota / Zona Norte / Belmira
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bosques De La Cañada,3632011,-74.026890,4.718762,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bosques De La Cañada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bosque de Pinos,3632012,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bosque de Pinos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bosque Medina,3632013,-74.026798,4.710133,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bosque Medina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Canaima,3632014,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Canaima
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Caobos Salazar,3632015,-74.037383,4.729695,15,Colombia / Cundinamarca / Bogota / Zona Norte / Caobos Salazar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Capri,3632016,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Capri
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Cedritos,3632017,-74.039433,4.724555,15,Colombia / Cundinamarca / Bogota / Zona Norte / Cedritos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Cedro Bolivar,3632018,-74.039098,4.731336,15,Colombia / Cundinamarca / Bogota / Zona Norte / Cedro Bolivar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Cedro Golf,3632019,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Cedro Golf
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Cedro Salazar,3632020,-74.028226,4.726392,15,Colombia / Cundinamarca / Bogota / Zona Norte / Cedro Salazar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Chicó,3632021,-74.053598,4.676518,15,Colombia / Cundinamarca / Bogota / Zona Norte / Chicó
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Chicó Alto,3632022,-74.044309,4.689807,15,Colombia / Cundinamarca / Bogota / Zona Norte / Chicó Alto
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Chicó Navarra,3632023,-74.054550,4.693463,15,Colombia / Cundinamarca / Bogota / Zona Norte / Chicó Navarra
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Chicó Norte,3632024,-74.046746,4.681373,15,Colombia / Cundinamarca / Bogota / Zona Norte / Chicó Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Chicó Reservado,3632025,-74.044493,4.678444,15,Colombia / Cundinamarca / Bogota / Zona Norte / Chicó Reservado
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Country,3632026,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Country
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Contador,3632027,-74.043347,4.716844,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Contador
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Codito,3632028,-74.026211,4.760306,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Codito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Nogal,3632029,-74.049330,4.662217,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Nogal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Redil,3632030,-74.025276,4.752974,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Redil
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Retiro,3632031,-74.044493,4.678444,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Retiro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Virrey,3632032,-74.057910,4.674207,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Virrey
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Estrella Norte,3632033,-74.045330,4.738304,15,Colombia / Cundinamarca / Bogota / Zona Norte / Estrella Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Horizontes Norte,3632034,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Horizontes Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,La Cabrera,3632035,-74.050584,4.668831,15,Colombia / Cundinamarca / Bogota / Zona Norte / La Cabrera
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,La Calleja,3632036,-74.050666,4.711842,15,Colombia / Cundinamarca / Bogota / Zona Norte / La Calleja
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,La Carolina,3632037,-74.041019,4.706873,15,Colombia / Cundinamarca / Bogota / Zona Norte / La Carolina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,La Uribe,3632038,-74.043603,4.752162,15,Colombia / Cundinamarca / Bogota / Zona Norte / La Uribe
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Las Margaritas,3632039,-74.047311,4.733120,15,Colombia / Cundinamarca / Bogota / Zona Norte / Las Margaritas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Las Orquideas,3632040,-74.040849,4.741687,15,Colombia / Cundinamarca / Bogota / Zona Norte / Las Orquideas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Liberia,3632041,-74.036705,4.734978,15,Colombia / Cundinamarca / Bogota / Zona Norte / Liberia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Lijacá,3632042,-74.029237,4.764813,15,Colombia / Cundinamarca / Bogota / Zona Norte / Lijacá
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Lisboa,3632043,-74.034148,4.715970,15,Colombia / Cundinamarca / Bogota / Zona Norte / Lisboa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Los Cedros,3632044,-74.032670,4.720024,15,Colombia / Cundinamarca / Bogota / Zona Norte / Los Cedros
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Los Cedros Oriental,3632045,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Los Cedros Oriental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Los Rosales,3632046,-74.049237,4.660928,15,Colombia / Cundinamarca / Bogota / Zona Norte / Los Rosales
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Maranta,3632047,-74.041490,4.763886,15,Colombia / Cundinamarca / Bogota / Zona Norte / Maranta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Molinos Norte,3632048,-74.041163,4.694099,15,Colombia / Cundinamarca / Bogota / Zona Norte / Molinos Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Montearroyo,3632049,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Montearroyo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Multicentro,3632050,-74.038678,4.702376,15,Colombia / Cundinamarca / Bogota / Zona Norte / Multicentro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Navarra,3632051,-74.054593,4.693378,15,Colombia / Cundinamarca / Bogota / Zona Norte / Navarra
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Nueva Autopista,3632052,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Nueva Autopista
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Nuevo Country,3632053,-74.040219,4.717578,15,Colombia / Cundinamarca / Bogota / Zona Norte / Nuevo Country
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Pradera Norte,3632054,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Pradera Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Recodo Del Country,3632055,-74.033746,4.710267,15,Colombia / Cundinamarca / Bogota / Zona Norte / Recodo Del Country
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Rincón del Chicó,3632057,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Rincón del Chicó
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Antonio,3632058,-74.033923,4.768123,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Antonio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Antonio Norte,3632059,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Antonio Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Cristobal Norte,3632060,-74.028943,4.739832,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Cristobal Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Patricio,3632061,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Patricio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Simón,3632062,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Simón
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Ana,3632063,-74.036407,4.685583,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Ana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Ana Occidental,3632064,-74.036223,4.689378,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Ana Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Ana Oriental,3632065,-74.030025,4.686728,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Ana Oriental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Bárbara,3632066,-74.049356,4.701816,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Bárbara
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Bárbara Alta,3632067,-74.031954,4.695186,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Bárbara Alta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Bárbara Central,3632068,-74.034677,4.700392,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Bárbara Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Bárbara Occidental,3632069,-74.048059,4.701910,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Bárbara Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Bárbara Oriental,3632070,-74.028731,4.701354,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Bárbara Oriental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Bibiana,3632071,-74.052495,4.690606,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Bibiana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Paula,3632072,-74.042629,4.693021,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Paula
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Teresa,3632073,-74.029653,4.743595,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Teresa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Sierras del Moral,3632074,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / Sierras del Moral
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Tibabita,3632075,-74.041033,4.769613,15,Colombia / Cundinamarca / Bogota / Zona Norte / Tibabita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Toberin,3632076,-74.039770,4.744341,15,Colombia / Cundinamarca / Bogota / Zona Norte / Toberin
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Usaquén,3632077,-74.030858,4.695167,15,Colombia / Cundinamarca / Bogota / Zona Norte / Usaquén
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Verbenal,3632078,-74.035991,4.765077,15,Colombia / Cundinamarca / Bogota / Zona Norte / Verbenal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Villa Magdala,3632079,-74.044707,4.738829,15,Colombia / Cundinamarca / Bogota / Zona Norte / Villa Magdala
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Villas De Aranjuez,3632080,-74.033355,4.747228,15,Colombia / Cundinamarca / Bogota / Zona Norte / Villas De Aranjuez
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Villas Del Mediterráneo,3632081,-74.032873,4.737920,15,Colombia / Cundinamarca / Bogota / Zona Norte / Villas Del Mediterráneo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Refugio,3632082,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Refugio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Lago,3632083,-74.0361785888672,4.72288344775557,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Lago
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Espartillal,3632084,-74.0670776367188,4.6366545485764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Espartillal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Alhambra,3632085,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Alhambra
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Almendros,3632086,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Almendros
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Altos de Chozica,3632087,-74.084500,4.735136,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Altos de Chozica
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Altos de Suba,3632088,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Altos de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Andes Norte,3632089,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Andes Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Antonio Granados,3632090,-74.092542,4.740878,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Antonio Granados
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Atabanza,3632091,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Atabanza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Aures,3632092,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Aures
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Bachue,3632093,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Bachue
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Bilbao,3632095,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Bilbao
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Bochica,3632096,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Bochica
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Bolivia,3632097,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Bolivia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Bosques de San Jorge,3632098,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Bosques de San Jorge
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Britalia,3632099,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Britalia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Britalia Norte,3632100,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Britalia Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Calatrava,3632101,-74.074909,4.716399,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Calatrava
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Campanella,3632102,-74.084674,4.751698,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Campanella
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Canódromo,3632103,-74.053658,4.710153,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Canódromo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Cantagallo,3632104,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Cantagallo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Cantalejo,3632105,-74.058827,4.744205,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Cantalejo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Casablanca,3632106,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Casablanca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Cerros de Niza,3632107,-74.077810,4.713611,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Cerros de Niza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Cerros de Suba,3632108,-74.072642,4.765574,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Cerros de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Ciudad Hunza,3632109,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Ciudad Hunza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Ciudad Jardin Norte,3632110,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Ciudad Jardin Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Ciudadela Cafam,3632111,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Ciudadela Cafam
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Ciudadela Colsubsidio,3632112,-74.118307,4.719374,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Ciudadela Colsubsidio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Colina Campestre,3632113,-74.071223,4.729532,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Colina Campestre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Colinas de Suba,3632114,-74.087505,4.739938,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Colinas de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Costa Azul,3632115,-74.097876,4.738358,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Costa Azul
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,DelMonte,3632116,-74.067445,4.758988,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / DelMonte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El Batán,3632117,-74.057513,4.704821,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El Batán
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El Cortijo,3632118,-74.121580,4.724181,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El Cortijo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El Plan,3632119,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El Plan
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El Poa,3632120,-74.095707,4.742748,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El Poa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El Refugio,3632121,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El Refugio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Entre Rios,3632122,-74.074526,4.681509,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Entre Rios
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Escuela de Carabineros,3632123,-74.068010,4.733278,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Escuela de Carabineros
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Estoril,3632124,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Estoril
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Gilmar,3632125,-74.062481,4.747038,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Gilmar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Granada Norte,3632126,-74.048288,4.748847,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Granada Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Gratamira,3632127,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Gratamira
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Guaymaral,3632128,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Guaymaral
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Iberia,3632129,-74.064183,4.717739,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Iberia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Ilarco,3632130,-74.069236,4.698317,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Ilarco
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Julio Flores,3632131,-74.077621,4.687208,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Julio Flores
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Campiña,3632132,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Campiña
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Castellana,3632133,-74.060945,4.683096,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Castellana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Conejera,3632134,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Conejera
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Española,3632135,-74.094973,4.702614,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Española
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Floresta,3632136,-74.074058,4.690762,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Floresta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Gaitana,3632137,-74.106912,4.741090,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Gaitana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Granja,3632138,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Granja
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Lomita,3632139,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Lomita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Serena,3632140,-74.092945,4.709355,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Serena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Lagos de Cordoba,3632141,-74.069400,4.705164,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Lagos de Cordoba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Lago de Suba,3632142,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Lago de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Las Flores,3632143,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Las Flores
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Las Mercedes,3632144,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Las Mercedes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Las Villas,3632145,-74.068064,4.715415,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Las Villas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Lisboa,3632146,-74.123220,4.741780,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Lisboa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Lombardia,3632147,-74.100919,4.747446,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Lombardia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Los Cerezos,3632148,-74.098197,4.709413,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Los Cerezos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Los Lagartos,3632149,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Los Lagartos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Los Naranjos,3632150,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Los Naranjos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Malibu,3632151,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Malibu
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Mazurén,3632152,-74.052205,4.736877,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Mazurén
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Minuto de Dios,3632153,-74.091044,4.698432,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Minuto de Dios
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Miraflores,3632154,-74.081395,4.739612,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Miraflores
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Mirandela,3632155,-74.045372,4.765529,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Mirandela
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Monaco,3632156,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Monaco
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Morato,3632157,-74.072705,4.697574,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Morato
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Niza,3632158,-74.075134,4.705992,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Niza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Niza Cordoba,3632159,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Niza Cordoba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Niza Norte,3632160,-74.074426,4.714525,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Niza Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Niza Sur,3632161,-74.0890502929688,4.72698931995266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Niza Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Nuevo Monterrey,3632162,-74.076007,4.696551,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Nuevo Monterrey
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Nueva Tibabuyes,3632163,-74.106543,4.735575,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Nueva Tibabuyes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Nueva Zelandia,3632164,-74.049147,4.761789,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Nueva Zelandia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Pasadena,3632165,-74.059710,4.692336,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Pasadena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Pinar de Suba,3632166,-74.086835,4.747919,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Pinar de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Polo Club,3632167,-74.063101,4.671148,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Polo Club
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Pontevedra,3632168,-74.079.315,4.701.263,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Pontevedra
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Potosí,3632169,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Potosí
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Portales Del Norte,3632170,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Portales Del Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Prado Pinzon,3632171,-74.055.077,4.726.599,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Prado Pinzon
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Prado Veraniego,3632172,-74.054.105,4.717.418,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Prado Veraniego
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Provenza,3632173,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Provenza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Puente Largo,3632174,-74.062.858,4.694.741,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Puente Largo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Puerta del Sol,3632175,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Puerta del Sol
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Quirigua,3632176,-74.102.325,4.709.345,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Quirigua
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,El Recreo de los Frailes,3632177,-74.060.328,4.705.218,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / El Recreo de los Frailes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Rincón de Santa Ines,3632178,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Rincón de Santa Ines
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Rionegro,3632179,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Rionegro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Sabana De Tibabuyes,3632180,-74.109.393,4.748.260,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Sabana De Tibabuyes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,San Carlos de Suba,3632181,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / San Carlos de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,San Cipriano,3632182,-74.053.786,4.749.118,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / San Cipriano
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,San José de Bavaria,3632183,-74.061.891,4.767.636,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / San José de Bavaria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,San Nicolas,3632184,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / San Nicolas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,San Pedro,3632185,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / San Pedro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Santa Cecilia,3632186,-74.127.659,4.739.508,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Santa Cecilia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Santa Helena,3632187,-74.052.686,4.729.529,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Santa Helena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Santa Rita,3632188,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Santa Rita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Santa Rosa,3632189,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Santa Rosa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Siberia,3632190,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Siberia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Sotavento,3632191,-74.063.130,4.745.520,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Sotavento
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Sotileza,3632192,-74.075.169,4.718.753,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Sotileza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Spring,3632193,-74.054.082,4.721.675,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Spring
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba,3632194,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Los Alcaparros de Suba,3632195,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Los Alcaparros de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba Centro,3632196,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba Centro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba Compartir,3632197,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba Compartir
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba la Campiña,3632198,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba la Campiña
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Rincón de Suba,3632199,-74.091.833,4.723.472,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Rincón de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba Salitre,3632200,-74.082.665,4.754.584,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba Salitre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba Urbano,3632201,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba Urbano
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Tierra Linda,3632202,-74.054.144,4.713.991,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Tierra Linda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Tibabuyes,3632203,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Tibabuyes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Toscana,3632204,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Toscana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Tuna Alta,3632205,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Tuna Alta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Tuna Baja,3632206,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Tuna Baja
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Turingia,3632207,-74.093.133,4.750.619,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Turingia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Vereda Suba Cerros,3632208,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Vereda Suba Cerros
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Victoria Norte,3632209,-74.050.311,4.731.027,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Victoria Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Villa Del Prado,3632210,-74.049.591,4.754.014,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Villa Del Prado
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Villa Elisa,3632211,-740.890.502.929.688,472.698.931.995.266,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Villa Elisa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Villa Maria,3632212,-74.101.478,4.740.927,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Villa Maria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Alcazares,3632213,-74.069.876,4.662.564,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Alcazares
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Alfonso López,3632214,-74.075.772,4.638.962,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Alfonso López
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Baquero,3632215,-74.068.636,4.652.333,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Baquero
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Barrios Unidos,3632216,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Barrios Unidos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Belalcazar,3632217,-74.077.892,4.639.403,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Belalcazar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Bosque Calderón,3632218,-74.060.731,4.641.529,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Bosque Calderón
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,El Campín,3632219,-74.076.932,4.644.469,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / El Campín
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Cataluña,3632220,-74.063.581,4.629.459,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Cataluña
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Chapinero,3632221,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Chapinero
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Chapinero Alto,3632222,-74.062.603,4.635.315,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Chapinero Alto
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Chapinero Central,3632223,-74.062.954,4.645.178,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Chapinero Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Chapinero Norte,3632224,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Chapinero Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Chapinero Occidental,3632225,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Chapinero Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Colombia,3632226,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Colombia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,El Castillo,3632227,-74.057.699,4.640.439,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / El Castillo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Emaus,3632228,-74.054.467,4.652.803,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Emaus
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Galerias,3632229,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Galerias
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Granada,3632230,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Granada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Juan XXIII,3632231,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Juan XXIII
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Esperanza,3632232,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Esperanza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Merced Norte,3632233,-74.073.353,4.664.690,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Merced Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Paz,3632234,-74.075.132,4.661.249,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Paz
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Porciuncula,3632235,-74.058.959,4.656.919,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Porciuncula
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Salle,3632236,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Salle
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Soledad,3632237,-74.075.649,4.629.216,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Soledad
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Lago Gaitan,3632238,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Lago Gaitan
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,María Cristina,3632239,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / María Cristina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Marly,3632240,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Marly
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Muequetá,3632241,-74.071.111,4.652.667,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Muequetá
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Palermo,3632242,-74.073.701,4.634.652,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Palermo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Pardo Rubio,3632243,-74.062.980,4.638.222,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Pardo Rubio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Quesada,3632244,-74.071.545,4.639.124,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Quesada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Quinta Camacho,3632245,-74.061.180,4.653.245,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Quinta Camacho
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Rafael Uribe,3632246,-74.069.788,4.657.276,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Rafael Uribe
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,San Felipe,3632247,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / San Felipe
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,San Luis,3632248,-74.069.493,4.647.182,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / San Luis
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Santa Sofía,3632249,-74.069.657,4.668.564,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Santa Sofía
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Santa Teresita,3632250,-74.073.070,4.658.573,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Santa Teresita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Siberia,3632251,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Siberia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Siete de Agosto,3632252,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Siete de Agosto
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Sucre,3632253,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Sucre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Teusaquillo,3632254,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Teusaquillo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,La Magdalena,3632255,-740.670.776.367.188,46.366.545.485.764,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / La Magdalena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Alamos,3632256,-74.119.690,4.697.784,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Alamos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Alamos Norte,3632257,-74.114.922,4.704.846,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Alamos Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Alsacia,3632258,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Alsacia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Américas Central,3632259,-74.127.077,4.622.294,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Américas Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Américas Occidental,3632260,-74.140.943,4.624.658,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Américas Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Bellavista Occidental,3632261,-74.092.099,4.679.745,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Bellavista Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Capellania,3632262,-74.132.583,4.669.926,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Capellania
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Carabelas,3632263,-74.115.618,4.604.535,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Carabelas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Carlos Lleras,3632264,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Carlos Lleras
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Castilla,3632265,-74.139.965,4.639.481,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Castilla
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ciudad Alsacia,3632266,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Ciudad Alsacia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ciudad Kennedy Central,3632267,-74.152.130,4.622.841,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Ciudad Kennedy Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ciudad Salitre,3632268,-74.112.267,4.652.170,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Ciudad Salitre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ciudad Tintal,3632269,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Ciudad Tintal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Cofradia,3632270,-74.133.149,4.678.924,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Cofradia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Cundinamarca,3632271,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Cundinamarca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Recodo,3632272,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / El Recodo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Recuerdo,3632273,-74.086.893,4.631.305,15,Colombia / Cundinamarca / Bogota / Zona Occidente / El Recuerdo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Tintal,3632274,-74.158.742,4.646.889,15,Colombia / Cundinamarca / Bogota / Zona Occidente / El Tintal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Favidi,3632276,-74.135.815,4.649.441,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Favidi
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Fontibón,3632277,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Fontibón
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Galán,3632278,-74.121.183,4.617.524,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Galán
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Gran America,3632279,-74.084.325,4.626.955,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Gran America
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Hayuelos,3632280,-74.128.812,4.663.794,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Hayuelos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Kennedy,3632281,-74.150.432,4.645.227,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Kennedy
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Kennedy Central,3632282,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Kennedy Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Esmeralda,3632283,-74.091.592,4.647.386,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Esmeralda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Felicidad,3632284,-74.129.484,4.655.631,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Felicidad
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Igualdad,3632285,-74.131.232,4.621.826,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Igualdad
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Pradera,3632286,-74.120.151,4.623.339,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Pradera
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Los Monjes,3632287,-74.116.250,4.678.055,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Los Monjes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Mandalay,3632288,-74.142.968,4.629.130,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Mandalay
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Marsella,3632289,-74.130.395,4.631.616,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Marsella
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Milenta,3632290,-74.125.199,4.613.033,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Milenta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Modelia,3632291,-74.118.506,4.667.317,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Modelia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Modelo,3632292,-74.081.392,4.667.848,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Modelo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Montevideo,3632293,-74.113.735,4.645.778,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Montevideo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Nicolás de Federman,3632294,-74.084.252,4.649.842,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Nicolás de Federman
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Normandía,3632295,-74.106.266,4.669.277,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Normandía
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Nueva Castilla,3632296,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Nueva Castilla
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Nueva Marsella,3632297,-74.130.514,4.627.316,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Nueva Marsella
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Pensilvania,3632298,-74.111.897,4.620.004,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Pensilvania
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Plaza de las Américas,3632299,-74.135.954,4.617.867,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Plaza de las Américas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Primavera Occidental,3632301,-74.108.072,4.614.803,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Primavera Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Puente Aranda,3632302,-74.108.679,4.624.966,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Puente Aranda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Quinta Paredes,3632303,-74.095.342,4.634.409,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Quinta Paredes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Rafael Nuñez,3632304,-74.088.213,4.642.090,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Rafael Nuñez
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Salazar Gómez,3632305,-74.117.334,4.631.370,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Salazar Gómez
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Salitre,3632306,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Salitre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Salitre Greco,3632307,-74.100.469,4.654.128,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Salitre Greco
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Salitre Nor - Occidental,3632308,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Salitre Nor - Occidental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Salitre Oriental,3632309,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Salitre Oriental
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Rafael,3632310,-74.115.712,4.624.255,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Rafael
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Santa Cecilia,3632311,-74.107.500,4.676.320,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Santa Cecilia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Santa Fe Del Tintal,3632312,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Santa Fe Del Tintal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Santa Matilde,3632313,-74.107.994,4.602.296,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Santa Matilde
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Techo,3632314,-74.147.400,4.625.633,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Techo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Tibana,3632315,-74.107.036,4.610.753,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Tibana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Tintal,3632316,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Tintal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Tintala,3632317,-74.139.331,4.652.074,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Tintala
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Urb. Castilla,3632318,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Urb. Castilla
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Valladolid,3632319,-74.144.927,4.644.904,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Valladolid
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Veraguas,3632320,-74.097.964,4.604.380,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Veraguas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Veraguas,3632321,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Veraguas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Vereda El Tintal,3632322,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Vereda El Tintal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Versalles,3632323,-74.145.007,4.684.458,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Versalles
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Alsacia,3632324,-74.135.544,4.644.883,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Alsacia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Claudia,3632325,-74.128.196,4.615.968,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Claudia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Luz,3632326,-74.107.749,4.680.973,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Luz
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villas de Granada,3632327,-74.123.081,4.717.045,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villas de Granada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villemar,3632328,-74.140.586,4.673.229,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villemar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Zona Franca,3632329,-74.154.398,4.672.639,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Zona Franca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,12 de Octubre,3632330,-74.075.248,4.667.689,15,Colombia / Cundinamarca / Bogota / Zona Occidente / 12 de Octubre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Bosque Popular,3632332,-74.098.208,4.670.078,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Bosque Popular
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Boyaca Real,3632333,-74.101.099,4.685.609,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Boyaca Real
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Bavaria,3632334,-74.127.336,4.639.991,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Bavaria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Belen Fontibón,3632335,-74.150.093,4.684.399,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Belen Fontibón
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Banderas,3632336,-74.147.715,4.632.981,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Banderas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Engativá,3632337,-74.112.492,4.682.100,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Engativá
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Dorado,3632338,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / El Dorado
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Estrada,3632339,-74.095.130,4.675.009,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Estrada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Vergel,3632340,-74.131.885,4.652.278,15,Colombia / Cundinamarca / Bogota / Zona Occidente / El Vergel
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Florencia,3632341,-74.102.913,4.702.397,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Florencia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Florida,3632342,-74.098.976,4.710.186,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Florida
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Gaitán,3632343,-74.066.564,4.664.944,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Gaitán
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Gorgonzola,3632344,-74.104.865,4.622.742,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Gorgonzola
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Garcés Navas,3632345,-74.118.190,4.713.697,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Garcés Navas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Hipotecho,3632346,-74.134.687,4.622.108,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Hipotecho
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Las Ferias,3632347,-74.084.839,4.685.481,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Las Ferias
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Cabaña,3632348,-74.142.035,4.680.208,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Cabaña
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Laguna,3632349,-74.150.507,4.670.371,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Laguna
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Clarita,3632350,-74.106.380,4.692.246,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Clarita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Metropolis,3632351,-74.083.173,4.679.899,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Metropolis
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Mallorca,3632352,-74.130.596,4.670.573,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Mallorca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ortezal,3632353,-74.095.708,4.628.125,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Ortezal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Pablo VI,3632354,-74.087.347,4.651.419,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Pablo VI
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Quirinal,3632355,-74.086.017,4.653.630,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Quirinal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Santa María del Lago,3632356,-74.094.092,4.691.998,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Santa María del Lago
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Fernando,3632357,-74.079.909,4.670.467,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Fernando
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Santa Helenita,3632358,-74.103.144,4.690.771,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Santa Helenita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Miguel,3632359,-74.078.826,4.661.748,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Miguel
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Santa Rosita,3632360,-74.109.838,4.703.492,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Santa Rosita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Simón Bolívar,3632361,-74.078.287,4.678.820,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Simón Bolívar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Pablo,3632362,-74.156.117,4.684.806,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Pablo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Tabora,3632363,-74.099.691,4.694.204,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Tabora
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Gladis,3632364,-74.134.059,4.704.166,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Gladis
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Zarzamora,3632365,-74.110.322,4.697.018,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Zarzamora
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Zona Industrial,3632366,-74.099.644,4.617.862,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Zona Industrial
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villas del Dorado,3632367,-74.127.914,4.700.306,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villas del Dorado
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Bonanza,3632368,-74.090.737,4.689.695,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Bonanza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Bosques de Mariana,3632369,-74.125.949,4.708.880,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Bosques de Mariana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Amalia,3632370,-74.122.164,4.710.900,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Amalia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Florida Blanca,3632371,-74.112.927,4.694.783,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Florida Blanca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Riviera,3632372,-74.131.053,4.710.269,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Riviera
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Ponderosa,3632373,-74.120.239,4.611.069,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Ponderosa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Rincón de los Ángeles,3632374,-74.143.389,4.634.155,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Rincón de los Ángeles
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Eusebio,3632375,-74.122.350,4.606.179,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Eusebio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Torremolinos,3632376,-74.124.787,4.609.178,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Torremolinos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Puente Grande,3632377,-74.163.933,4.693.490,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Puente Grande
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Barcelona,3632378,-741.233.825.683.594,465.855.495.640.821,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Barcelona
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Centro,3632379,-74.076.852,4.597.493,15,Colombia / Cundinamarca / Bogota / Zona Centro / Centro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Centro Internacional,3632380,-74.070.071,4.614.361,15,Colombia / Cundinamarca / Bogota / Zona Centro / Centro Internacional
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Eduardo Santos,3632381,-74.092.301,4.595.541,15,Colombia / Cundinamarca / Bogota / Zona Centro / Eduardo Santos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,El Progreso,3632382,-74.090.560,4.598.759,15,Colombia / Cundinamarca / Bogota / Zona Centro / El Progreso
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Candelaria,3632383,-74.072.324,4.595.311,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Candelaria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Capuchina,3632384,-74.076.643,4.605.171,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Capuchina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Catedral,3632385,-74.075.746,4.597.573,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Catedral
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Macarena,3632386,-74.066.470,4.611.162,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Macarena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Las Aguas,3632387,-74.066.605,4.600.857,15,Colombia / Cundinamarca / Bogota / Zona Centro / Las Aguas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Las Cruces,3632388,-74.078.834,4.588.465,15,Colombia / Cundinamarca / Bogota / Zona Centro / Las Cruces
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Las Nieves,3632389,-74.069.499,4.605.989,15,Colombia / Cundinamarca / Bogota / Zona Centro / Las Nieves
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Paloquemao,3632390,-74.088.967,4.614.957,15,Colombia / Cundinamarca / Bogota / Zona Centro / Paloquemao
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Parque Central Bavaria,3632391,-74.070.353,4.617.111,15,Colombia / Cundinamarca / Bogota / Zona Centro / Parque Central Bavaria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Ricaurte,3632392,-74.093.329,4.608.891,15,Colombia / Cundinamarca / Bogota / Zona Centro / Ricaurte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Samper Mendoza,3632393,-74.079.674,4.620.109,15,Colombia / Cundinamarca / Bogota / Zona Centro / Samper Mendoza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Bernardo,3632394,-74.084.590,4.593.286,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Bernardo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Diego,3632395,-74.070.079,4.614.818,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Diego
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Martin,3632396,-74.067.217,4.619.031,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Martin
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Victorino,3632397,-74.079.132,4.606.963,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Victorino
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Santa Isabel,3632398,-74.100.163,4.601.970,15,Colombia / Cundinamarca / Bogota / Zona Centro / Santa Isabel
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Santafé,3632399,-74.077.253,4.614.663,15,Colombia / Cundinamarca / Bogota / Zona Centro / Santafé
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Vera Cruz,3632400,-74.073.747,4.603.213,15,Colombia / Cundinamarca / Bogota / Zona Centro / Vera Cruz
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Veraguas,3632401,-74.097.664,4.604.060,15,Colombia / Cundinamarca / Bogota / Zona Centro / Veraguas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Germania,3632402,-74.066.518,4.604.309,15,Colombia / Cundinamarca / Bogota / Zona Centro / Germania
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Pepita,3632403,-74.089.490,4.604.825,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Pepita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Merced,3632404,-74.066.950,4.616.510,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Merced
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Favorita,3632405,-74.079.673,4.607.273,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Favorita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Lourdes,3632406,-74.072.805,4.589.054,15,Colombia / Cundinamarca / Bogota / Zona Centro / Lourdes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Sagrado Corazón,3632407,-74.069.027,4.620.305,15,Colombia / Cundinamarca / Bogota / Zona Centro / Sagrado Corazón
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Santa Inés,3632408,-74.079.482,4.601.028,15,Colombia / Cundinamarca / Bogota / Zona Centro / Santa Inés
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Usatama,3632409,-74.081.410,4.623.163,15,Colombia / Cundinamarca / Bogota / Zona Centro / Usatama
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Voto Nacional,3632410,-74.083.772,4.601.041,15,Colombia / Cundinamarca / Bogota / Zona Centro / Voto Nacional
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Colseguros,3632411,-740.773.773.193.359,460.654.037.988.643,15,Colombia / Cundinamarca / Bogota / Zona Centro / Colseguros
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Estanzuela,3632412,-74.087.211,4.600.531,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Estanzuela
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Sabana,3632413,-74.086.853,4.607.817,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Sabana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Bosque Izquierdo,3632414,-74.086.853,4.607.817,15,Colombia / Cundinamarca / Bogota / Zona Centro / Bosque Izquierdo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Girardot,3632415,-74.074.851,4.586.979,15,Colombia / Cundinamarca / Bogota / Zona Centro / Girardot
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Perseverancia,3632416,-74.065.698,4.615.226,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Perseverancia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,La Concordia,3632417,-74.071.085,4.599.055,15,Colombia / Cundinamarca / Bogota / Zona Centro / La Concordia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Santa Bárbara Centro,3632418,-74.080.733,4.591.727,15,Colombia / Cundinamarca / Bogota / Zona Centro / Santa Bárbara Centro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,20 De Julio,3632419,-74.098.258,4.567.470,15,Colombia / Cundinamarca / Bogota / Zona Sur / 20 De Julio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Alqueria,3632420,-74.133.824,4.600.341,15,Colombia / Cundinamarca / Bogota / Zona Sur / Alqueria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bello Horizonte,3632421,-74.092.410,4.560.109,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bello Horizonte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Boita,3632422,-74.153.418,4.603.410,15,Colombia / Cundinamarca / Bogota / Zona Sur / Boita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa,3632423,-74.193.404,4.621.063,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa El Recreo,3632424,-74.201.197,4.630.109,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa El Recreo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Laureles,3632425,-74.198.908,4.609.461,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Laureles
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Piamonte,3632426,-74.190.271,4.606.627,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Piamonte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Porvenir,3632427,-74.187.225,4.636.612,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Porvenir
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa San Diego,3632428,-74.211.595,4.611.170,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa San Diego
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bravo Paez,3632429,-74.120.298,4.586.247,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bravo Paez
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Calvo Sur,3632430,-74.083.607,4.584.799,15,Colombia / Cundinamarca / Bogota / Zona Sur / Calvo Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Candelaria La Nueva,3632431,-74.151.058,4.570.157,15,Colombia / Cundinamarca / Bogota / Zona Sur / Candelaria La Nueva
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Carimagua,3632432,-74.143.957,4.615.162,15,Colombia / Cundinamarca / Bogota / Zona Sur / Carimagua
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Carvajal,3632433,-74.138.552,4.614.599,15,Colombia / Cundinamarca / Bogota / Zona Sur / Carvajal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Centenario,3632434,-74.138.552,4.614.599,15,Colombia / Cundinamarca / Bogota / Zona Sur / Centenario
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudad Berna,3632435,-74.092.458,4.585.872,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudad Berna
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudad Jardín,3632436,-74.096.919,4.579.747,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudad Jardín
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudad Tunal,3632437,-74.135.455,4.576.785,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudad Tunal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Claret,3632438,-74.129.764,4.583.760,15,Colombia / Cundinamarca / Bogota / Zona Sur / Claret
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Country Sur,3632439,-74.101.416,4.571.475,15,Colombia / Cundinamarca / Bogota / Zona Sur / Country Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Diana Turbay,3632440,-74.109.703,4.548.268,15,Colombia / Cundinamarca / Bogota / Zona Sur / Diana Turbay
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Carmen,3632441,-74.135.404,4.580.967,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Carmen
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Porvenir,3632442,-74.188.185,4.642.804,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Porvenir
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Fatima,3632443,-74.139.256,4.585.910,15,Colombia / Cundinamarca / Bogota / Zona Sur / Fatima
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Floralia,3632444,-74.134.772,4.609.029,15,Colombia / Cundinamarca / Bogota / Zona Sur / Floralia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Galicia,3632445,-74.169.821,4.589.683,15,Colombia / Cundinamarca / Bogota / Zona Sur / Galicia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Gustavo Restrepo,3632446,-74.106.435,4.576.182,15,Colombia / Cundinamarca / Bogota / Zona Sur / Gustavo Restrepo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ingles,3632447,-74.133.365,4.600.705,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ingles
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ismael Perdomo,3632448,-74.169.647,4.584.672,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ismael Perdomo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Jose Antonio Galan,3632449,-74.178.628,4.605.095,15,Colombia / Cundinamarca / Bogota / Zona Sur / Jose Antonio Galan
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Juan Rey,3632450,-74.092.017,4.529.627,15,Colombia / Cundinamarca / Bogota / Zona Sur / Juan Rey
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Kennedy,3632451,-74.160.475,4.614.600,15,Colombia / Cundinamarca / Bogota / Zona Sur / Kennedy
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Estancia,3632452,-74.174.479,4.593.357,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Estancia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Fragua,3632453,-74.107.107,4.595.702,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Fragua
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Fraguita,3632454,-74.099.874,4.601.336,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Fraguita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Victoria,3632455,-74.091.364,4.549.959,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Victoria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Madelena,3632456,-74.157.657,4.591.564,15,Colombia / Cundinamarca / Bogota / Zona Sur / Madelena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Marruecos,3632457,-74.116.538,4.554.971,15,Colombia / Cundinamarca / Bogota / Zona Sur / Marruecos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Molinos,3632458,-74.118.422,4.557.442,15,Colombia / Cundinamarca / Bogota / Zona Sur / Molinos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Muzu,3632459,-74.131.646,4.597.040,15,Colombia / Cundinamarca / Bogota / Zona Sur / Muzu
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Nariño Sur,3632460,-74.087.138,4.581.908,15,Colombia / Cundinamarca / Bogota / Zona Sur / Nariño Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Nuevo Muzu,3632461,-74.147.419,4.586.883,15,Colombia / Cundinamarca / Bogota / Zona Sur / Nuevo Muzu
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Olaya,3632462,-74.107.976,4.583.360,15,Colombia / Cundinamarca / Bogota / Zona Sur / Olaya
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Los Pijaos,3632463,-74.103.247,4.570.155,15,Colombia / Cundinamarca / Bogota / Zona Sur / Los Pijaos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Quiroga,3632465,-74.110.122,4.581.505,15,Colombia / Cundinamarca / Bogota / Zona Sur / Quiroga
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Quiroga Central,3632466,-74.115.519,4.580.469,15,Colombia / Cundinamarca / Bogota / Zona Sur / Quiroga Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Restrepo,3632467,-74.103.016,4.588.065,15,Colombia / Cundinamarca / Bogota / Zona Sur / Restrepo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Roma,3632468,-74.174.110,4.612.885,15,Colombia / Cundinamarca / Bogota / Zona Sur / Roma
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Antonio,3632469,-74.094.022,4.589.162,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Antonio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Carlos,3632470,-74.131.027,4.567.283,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Carlos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Francisco - Ciudad Bolivar,3632471,-74.147.133,4.564.383,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Francisco - Ciudad Bolivar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Isidro - San Cristobal,3632472,-74.099.971,4.566.988,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Isidro - San Cristobal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Jorge Sur,3632473,-74.124.404,4.567.744,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Jorge Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San José,3632474,-74.102.943,4.578.673,15,Colombia / Cundinamarca / Bogota / Zona Sur / San José
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Mateo,3632475,-74.200.133,4.585.327,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Mateo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Vicente Ferrer- Tunjuelito,3632476,-74.142.399,4.579.189,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Vicente Ferrer- Tunjuelito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Vicente- San Cristobal,3632477,-74.088.959,4.555.201,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Vicente- San Cristobal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santa Librada,3632478,-74.114.670,4.514.389,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santa Librada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santa Lucía,3632479,-74.122.727,4.571.769,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santa Lucía
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santa Rita,3632480,-74.124.375,4.596.680,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santa Rita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santander,3632481,-74.111.189,4.592.443,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santander
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Sosiego,3632482,-74.091.770,4.576.416,15,Colombia / Cundinamarca / Bogota / Zona Sur / Sosiego
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Sosiego Sur,3632483,-74.098.744,4.576.180,15,Colombia / Cundinamarca / Bogota / Zona Sur / Sosiego Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Timiza,3632484,-74.154.047,4.615.082,15,Colombia / Cundinamarca / Bogota / Zona Sur / Timiza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Tunal,3632485,-74.128.703,4.574.853,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Tunal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tunjuelito,3632486,-74.132.123,4.582.612,15,Colombia / Cundinamarca / Bogota / Zona Sur / Tunjuelito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Usme,3632487,-74.104.560,4.523.162,15,Colombia / Cundinamarca / Bogota / Zona Sur / Usme
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Venecia,3632488,-74.138.106,4.592.702,15,Colombia / Cundinamarca / Bogota / Zona Sur / Venecia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa de los Alpes,3632489,-74.098.892,4.562.459,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa de los Alpes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa del Río,3632490,-74.158.637,4.600.679,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa del Río
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa Mayor,3632491,-74.123.078,4.592.375,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa Mayor
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Alcala,3632492,-74.124.600,4.603.995,15,Colombia / Cundinamarca / Bogota / Zona Sur / Alcala
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Argelia,3632493,-74.142.549,4.608.652,15,Colombia / Cundinamarca / Bogota / Zona Sur / Argelia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Alfonso López -Usme,3632494,-74.103.134,4.498.859,15,Colombia / Cundinamarca / Bogota / Zona Sur / Alfonso López -Usme
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudad Montes,3632495,-74.111.505,4.600.599,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudad Montes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Casa Blanca,3632496,-74.170.061,4.616.196,15,Colombia / Cundinamarca / Bogota / Zona Sur / Casa Blanca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Class,3632497,-74.179.318,4.615.351,15,Colombia / Cundinamarca / Bogota / Zona Sur / Class
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Pradera- Puente Aranda,3632498,-74.121.911,4.624.162,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Pradera- Puente Aranda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Las Margaritas,3632499,-74.176.590,4.632.585,15,Colombia / Cundinamarca / Bogota / Zona Sur / Las Margaritas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Las Delicias,3632500,-74.143.234,4.599.739,15,Colombia / Cundinamarca / Bogota / Zona Sur / Las Delicias
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,León XIII,3632501,-741.419.219.970.703,45.996.960.724.789,15,Colombia / Cundinamarca / Bogota / Zona Sur / León XIII
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ospina Perez,3632502,-74.129.248,4.599.472,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ospina Perez
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Patio Bonito,3632503,-74.163.271,4.638.696,15,Colombia / Cundinamarca / Bogota / Zona Sur / Patio Bonito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santa Catalina,3632504,-74.153.957,4.605.927,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santa Catalina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Andrés,3632505,-74.150.103,4.598.211,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Andrés
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Socorro,3632506,-741.419.219.970.703,45.996.960.724.789,15,Colombia / Cundinamarca / Bogota / Zona Sur / Socorro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Socorro,3632507,-74.126.483,4.564.041,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Socorro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tejar,3632508,-74.129.161,4.605.982,15,Colombia / Cundinamarca / Bogota / Zona Sur / Tejar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa Sonia,3632509,-741.419.219.970.703,45.996.960.724.789,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa Sonia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Arborizadora Alta,3632510,-74.155.561,4.571.882,15,Colombia / Cundinamarca / Bogota / Zona Sur / Arborizadora Alta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Arborizadora Baja,3632511,-74.150.023,4.574.041,15,Colombia / Cundinamarca / Bogota / Zona Sur / Arborizadora Baja
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosques de San Carlos,3632512,-74.108.078,4.571.909,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosques de San Carlos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudad Bolívar,3632513,-74.150.894,4.556.548,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudad Bolívar
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Caracas,3632514,-74.093.605,4.582.853,15,Colombia / Cundinamarca / Bogota / Zona Sur / Caracas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Guacamayas,3632515,-74.099.553,4.555.966,15,Colombia / Cundinamarca / Bogota / Zona Sur / Guacamayas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Luna Park,3632516,-74.096.304,4.590.636,15,Colombia / Cundinamarca / Bogota / Zona Sur / Luna Park
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Las Lomas,3632517,-74.104.643,4.563.648,15,Colombia / Cundinamarca / Bogota / Zona Sur / Las Lomas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Marco Fidel Suarez,3632518,-74.117.806,4.570.332,15,Colombia / Cundinamarca / Bogota / Zona Sur / Marco Fidel Suarez
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Palermo Sur,3632519,-74.107.891,4.539.410,15,Colombia / Cundinamarca / Bogota / Zona Sur / Palermo Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Quinta Ramos,3632520,-74.089.142,4.579.590,15,Colombia / Cundinamarca / Bogota / Zona Sur / Quinta Ramos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Rincón de Venecia,3632521,-74.147.822,4.590.165,15,Colombia / Cundinamarca / Bogota / Zona Sur / Rincón de Venecia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Cristóbal,3632522,-74.083.141,4.564.478,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Cristóbal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Jorge Central,3632523,-74.114.097,4.594.625,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Jorge Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Uval,3632524,-74.102.778,4.493.878,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Uval
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Yomasa,3632525,-74.110.339,4.507.962,15,Colombia / Cundinamarca / Bogota / Zona Sur / Yomasa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Las Acacías,3632526,-74.178.642,4.647.977,15,Colombia / Cundinamarca / Bogota / Zona Sur / Las Acacías
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Alquería La Fragua,3632527,-74.130.977,4.608.341,15,Colombia / Cundinamarca / Bogota / Zona Sur / Alquería La Fragua
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Altamira,3632528,-74.086.301,4.542.514,15,Colombia / Cundinamarca / Bogota / Zona Sur / Altamira
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Altos del Poblado,3632529,-74.088.453,4.546.734,15,Colombia / Cundinamarca / Bogota / Zona Sur / Altos del Poblado
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Balmoral,3632530,-74.162.748,4.592.710,15,Colombia / Cundinamarca / Bogota / Zona Sur / Balmoral
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Danubio Azul,3632531,-74.116.502,4.539.959,15,Colombia / Cundinamarca / Bogota / Zona Sur / Danubio Azul
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Colmena,3632532,-74.093.929,4.551.960,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Colmena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Nueva Gloria,3632533,-74.091.546,4.541.079,15,Colombia / Cundinamarca / Bogota / Zona Sur / Nueva Gloria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Gloria,3632534,-74.092.617,4.546.377,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Gloria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tintalito,3632535,-74.170.771,4.632.631,15,Colombia / Cundinamarca / Bogota / Zona Sur / Tintalito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa La Libertad,3632536,-74.192.148,4.623.809,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa La Libertad
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Betania,3632537,-74.179.635,4.628.162,15,Colombia / Cundinamarca / Bogota / Zona Sur / Betania
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa la Esperanza,3632538,-74.206.278,4.609.216,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa la Esperanza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Los Naranjos,3632539,-74.194.251,4.606.498,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Los Naranjos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa San Bernardino,3632540,-74.197.752,4.621.231,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa San Bernardino
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Buenos Aires,3632541,-74.078.549,4.581.521,15,Colombia / Cundinamarca / Bogota / Zona Sur / Buenos Aires
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ciudadela EL Recreo,3632542,-74.203.302,4.633.970,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ciudadela EL Recreo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Cordoba,3632543,-74.092.654,4.564.976,15,Colombia / Cundinamarca / Bogota / Zona Sur / Cordoba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Coruña,3632544,-74.153.219,4.578.936,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Coruña
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Dindalito Kennedy,3632545,-74.172.827,4.639.004,15,Colombia / Cundinamarca / Bogota / Zona Sur / Dindalito Kennedy
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Jazmín,3632546,-74.177.244,4.645.731,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Jazmín
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Virrey,3632547,-74.112.249,4.500.840,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Virrey
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Isla del Sol,3632548,-74.154.438,4.589.169,15,Colombia / Cundinamarca / Bogota / Zona Sur / Isla del Sol
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Azucena,3632549,-74.187.754,4.598.029,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Azucena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Chucua,3632550,-74.146.154,4.604.323,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Chucua
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Fiscala,3632551,-74.119.375,4.600.654,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Fiscala
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Guaca,3632552,-74.119.375,4.600.654,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Guaca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Libertador,3632553,-74.116.645,4.585.473,15,Colombia / Cundinamarca / Bogota / Zona Sur / Libertador
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Los Sauces,3632554,-74.115.864,4.597.552,15,Colombia / Cundinamarca / Bogota / Zona Sur / Los Sauces
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Marichuela,3632555,-74.117.688,4.511.643,15,Colombia / Cundinamarca / Bogota / Zona Sur / Marichuela
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Montebello,3632556,-74.090.765,4.567.485,15,Colombia / Cundinamarca / Bogota / Zona Sur / Montebello
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Moralba,3632557,-74.081.164,4.545.165,15,Colombia / Cundinamarca / Bogota / Zona Sur / Moralba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Murillo Toro,3632558,-74.115.589,4.585.918,15,Colombia / Cundinamarca / Bogota / Zona Sur / Murillo Toro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Nueva Delicias,3632559,-74.146.975,4.596.813,15,Colombia / Cundinamarca / Bogota / Zona Sur / Nueva Delicias
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Policarpa Salavarrieta,3632560,-74.090.554,4.584.320,15,Colombia / Cundinamarca / Bogota / Zona Sur / Policarpa Salavarrieta
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Ramajal,3632561,-74.083.172,4.558.492,15,Colombia / Cundinamarca / Bogota / Zona Sur / Ramajal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Benito,3632562,-74.135.902,4.562.267,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Benito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Pablo Sur,3632563,-74.186.869,4.602.074,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Pablo Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santa Ana Sur,3632564,-74.084.937,4.576.366,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santa Ana Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tenerife,3632565,-74.116.211,4.505.789,15,Colombia / Cundinamarca / Bogota / Zona Sur / Tenerife
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Usminia,3632566,-74.115.389,4.495.094,15,Colombia / Cundinamarca / Bogota / Zona Sur / Usminia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Velódromo,3632567,-74.086.676,4.572.697,15,Colombia / Cundinamarca / Bogota / Zona Sur / Velódromo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa del Rosario,3632568,-74.119.639,4.596.060,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa del Rosario
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa Javier,3632569,-74.082.905,4.578.974,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa Javier
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,París Gaitán,3632570,-74.095.208,4.706.013,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / París Gaitán
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Once de Noviembre,3632571,-74.070.877,4.666.897,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Once de Noviembre
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Ines,3632572,-74.110.506,4.605.942,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Ines
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Lagos de Suba,3632573,-74.098.534,4.730.632,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Lagos de Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Valles de Cafam,3632574,-74.117.792,4.508.560,15,Colombia / Cundinamarca / Bogota / Zona Sur / Valles de Cafam
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Marandu,3632575,-74.132.853,4.706.912,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Marandu
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,El Encanto,3632576,-74.105.541,4.679.623,15,Colombia / Cundinamarca / Bogota / Zona Occidente / El Encanto
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Acevedo Tejada,3632577,-74.081.473,4.631.030,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Acevedo Tejada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Pio XII,3632578,-74.151.660,4.635.479,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Pio XII
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Aurora,3632579,-74.120.720,4.523.365,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Aurora
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Casalinda,3632580,-74.143.688,4.569.589,15,Colombia / Cundinamarca / Bogota / Zona Sur / Casalinda
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Camino de Arrayanes,3632581,-74.070.779,4.800.281,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Camino de Arrayanes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Palestina,3632582,-74.191.618,4.612.103,15,Colombia / Cundinamarca / Bogota / Zona Sur / Palestina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa La Paz,3632583,-74.188.322,4.616.331,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa La Paz
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Joaquin,3632584,-74.098.220,4.678.852,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Joaquin
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Villa Teresita,3632585,-74.135.798,4.715.465,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Villa Teresita
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Pinos de Lombardia,3632586,-74.096.928,4.750.394,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Pinos de Lombardia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,La Sonora,3632587,-74.027.280,4.726.107,15,Colombia / Cundinamarca / Bogota / Zona Norte / La Sonora
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bochica Sur,3632588,-74.109.033,4.556.022,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bochica Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Arrayanes,3632589,-74.099.278,4.759.479,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Arrayanes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Brasil,3632590,-74.180.251,4.631.696,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Brasil
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,La Campiña Sur,3632591,-74.159.137,4.608.215,15,Colombia / Cundinamarca / Bogota / Zona Sur / La Campiña Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Colon,3632592,-74.115.382,4.619.758,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Colon
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Camelia,3632593,-74.118.376,4.614.138,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Camelia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Gran Granada,3632594,-74.128.886,4.722.358,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Gran Granada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Lindaraja,3632595,-74.081.528,4.713.888,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Lindaraja
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Los Pinos,3632596,-74.105.472,4.701.918,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Los Pinos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Villas del Madrigal,3632597,-74.112.845,4.707.822,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Villas del Madrigal
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Monteblanco,3632598,-74.119.803,4.503.634,15,Colombia / Cundinamarca / Bogota / Zona Sur / Monteblanco
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Tisquesusa,3632599,-74.092.932,4.700.093,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Tisquesusa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,El Tesoro,3632600,-74.146.115,4.534.718,15,Colombia / Cundinamarca / Bogota / Zona Sur / El Tesoro
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Vegas de Santa Ana,3632601,-74.181.147,4.617.276,15,Colombia / Cundinamarca / Bogota / Zona Sur / Vegas de Santa Ana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Chicala,3632602,-74.181.500,4.624.896,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Chicala
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa La Amistad,3632603,-74.181.620,4.603.460,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa La Amistad
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Escocia,3632604,-74.185.063,4.621.463,15,Colombia / Cundinamarca / Bogota / Zona Sur / Escocia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Villa Cristina,3632605,-74.102.473,4.720.208,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Villa Cristina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa Andrea,3632606,-74.177.053,4.622.764,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa Andrea
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Villa Andrea,3632607,-74.177.053,4.622.764,15,Colombia / Cundinamarca / Bogota / Zona Sur / Villa Andrea
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Mónica,3632608,-74.038.864,4.747.297,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Mónica
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Portales del Monte,3632609,-74.065.988,4.749.517,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Portales del Monte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Europa,3632610,-74.097.227,4.681.920,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Europa
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Jose Joaquín Vargas,3632611,-74.085.327,4.671.916,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Jose Joaquín Vargas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Palo Blanco,3632612,-74.093.284,4.683.654,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Palo Blanco
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Camino de Arrayanes,3632613,-74.070.377,4.799.897,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Camino de Arrayanes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Veracruz,3632614,-74.073.578,4.604.191,15,Colombia / Cundinamarca / Bogota / Zona Centro / Veracruz
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Nueva Roma,3632615,-74.170.445,4.607.235,15,Colombia / Cundinamarca / Bogota / Zona Sur / Nueva Roma
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Calleja Baja,3632616,-74.053.552,4.701.489,15,Colombia / Cundinamarca / Bogota / Zona Norte / Calleja Baja
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa el Anelo,3632617,4.635.265,74.193.190,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa el Anelo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bosque de María,3632618,4.755.665,74.022.772,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bosque de María
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Icata,3632619,4.733.626,74.035.619,15,Colombia / Cundinamarca / Bogota / Zona Norte / Icata
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Icata,3632620,4.733.626,74.035.619,15,Colombia / Cundinamarca / Bogota / Zona Norte / Icata
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Altos de Bella Suiza,3632621,-74.052.932,4.657.261,15,Colombia / Cundinamarca / Bogota / Zona Norte / Altos de Bella Suiza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Tejares del Norte,3632622,-74.046.722,4.763.468,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Tejares del Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Linterama,3632623,-74.136.969,4.712.067,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Linterama
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Lucero bajo,3632624,-74.140.264,4.553.963,15,Colombia / Cundinamarca / Bogota / Zona Sur / Lucero bajo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Perdomo Alto,3632625,-74.172.186,4.584.263,15,Colombia / Cundinamarca / Bogota / Zona Sur / Perdomo Alto
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Gran Granada,3632626,-74.129.165,4.722.251,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Gran Granada
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Marcos,3632627,-74.106.983,4.686.757,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Marcos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,El Triunfo,3632628,-74.077.568,4.579.781,15,Colombia / Cundinamarca / Bogota / Zona Centro / El Triunfo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Las Américas,3632629,-74.135.304,4.627.470,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Las Américas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Bosa Atalayas,3632630,-74.197.378,4.636.652,15,Colombia / Cundinamarca / Bogota / Zona Sur / Bosa Atalayas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Sultana,3632631,-74.059.690,4.717.777,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Sultana
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Olarte,3632632,-74.164.504,4.599.731,15,Colombia / Cundinamarca / Bogota / Zona Sur / Olarte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Chuniza,3632633,-74.108.341,4.505.091,15,Colombia / Cundinamarca / Bogota / Zona Sur / Chuniza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bosque de Maria,3632634,-74.023.448,4.754.072,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bosque de Maria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Benjamín Herrera,3632635,-74.076.325,4.654.130,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Benjamín Herrera
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Nuevo Techo,3632636,4.639.643,74.153.375,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Nuevo Techo
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,San Blas,3632637,-74.084.888,4.568.796,15,Colombia / Cundinamarca / Bogota / Zona Sur / San Blas
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Lujan,3632638,-74.102.979,4.681.961,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Lujan
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,La Almería,3632639,-74.103.792,4.697.337,15,Colombia / Cundinamarca / Bogota / Zona Occidente / La Almería
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Torca,3632640,-74.040.138,4.779.190,15,Colombia / Cundinamarca / Bogota / Zona Norte / Torca
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Sierra Morena,3632641,-74.167.675,4.579.587,15,Colombia / Cundinamarca / Bogota / Zona Sur / Sierra Morena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Quintas del Sur,3632642,-74.139.608,4.546.903,15,Colombia / Cundinamarca / Bogota / Zona Sur / Quintas del Sur
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Fontanar del río,3632643,-74.110.368,4.753.577,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Fontanar del río
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,BONAVENTO,3632644,-7.403.459.027.234.860,4.702.515.600.128.100,15,Colombia / Cundinamarca / Bogota / Zona Sur / BONAVENTO
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,La Patria,3632645,-74.064.381,4.676.818,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / La Patria
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Santa Inés,3632646,-74.087.207,4.558.298,15,Colombia / Cundinamarca / Bogota / Zona Sur / Santa Inés
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Los Mártires,3632647,-74.089.406,4.604.997,15,Colombia / Cundinamarca / Bogota / Zona Centro / Los Mártires
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Moral,3632648,-740.309.672,47.314.353,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Moral
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Centro Comercial Cedritos,3632649,-740.559.032,47.420.645,15,Colombia / Cundinamarca / Bogota / Zona Norte / Centro Comercial Cedritos
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Centro Comercial Parque La Colina,3632650,-74.066.493,4.737.737,15,Colombia / Cundinamarca / Bogota / Zona Norte / Centro Comercial Parque La Colina
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Centro Comercial Paseo San Rafael,3632651,-74.062.293,4.722.841,15,Colombia / Cundinamarca / Bogota / Zona Norte / Centro Comercial Paseo San Rafael
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Centro Comercial Palatino,3632652,-74.029.084,4.715.706,15,Colombia / Cundinamarca / Bogota / Zona Norte / Centro Comercial Palatino
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Centro Comercial Santafé,3632653,-740.541.063,47.621.834,15,Colombia / Cundinamarca / Bogota / Zona Norte / Centro Comercial Santafé
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Unicentro Bogotá,3632654,-74.041.474,4.702.666,15,Colombia / Cundinamarca / Bogota / Zona Norte / Unicentro Bogotá
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Santa Ana Centro Comercial Boutique,3632655,-74.036.990,4.690.607,15,Colombia / Cundinamarca / Bogota / Zona Norte / Santa Ana Centro Comercial Boutique
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Centro Comercial Hacienda Santa Bárbara,3632656,-74.033.241,4.692.609,15,Colombia / Cundinamarca / Bogota / Zona Norte / Centro Comercial Hacienda Santa Bárbara
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Centro comercial Titán Plaza,3632657,-7.408.618,4.694.705,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Centro comercial Titán Plaza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Centro Comercial Niza,3632658,-74.073.237,4.711.426,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Centro Comercial Niza
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Centro Comercial Centro Suba,3632659,-74.085.294,4.737.616,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Centro Comercial Centro Suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Centro Comercial Mazuren,3632660,-74.049.980,4.735.993,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Centro Comercial Mazuren
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Centro Comercial Portal 80,3632661,-74.111.842,4.711.019,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Centro Comercial Portal 80
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Plaza Imperial Centro Comercial,3632662,-74.095.371,4.749.213,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Plaza Imperial Centro Comercial
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,San Luis - Patios,3632663,-74.019.660,4.671.323,15,Colombia / Cundinamarca / Bogota / Zona Norte / San Luis - Patios
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Autopista Norte,3632664,74.035.414,4.814.904,15,Colombia / Cundinamarca / Bogota / Zona Norte / Autopista Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Autopista Norte,3632665,-74.037.312,4.801.718,15,Colombia / Cundinamarca / Bogota / Zona Norte / Autopista Norte
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Centro comercial Gran Estacion,3632666,-741.038.169,46.476.286,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Centro comercial Gran Estacion
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Centro comercial Plaza Central,3632667,-741.177.345,46.319.529,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Centro comercial Plaza Central
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Centro Comercial Outlet Factory,3632668,-741.195.751,46.302.201,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Centro Comercial Outlet Factory
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Corinto suba,3632669,4.727.146,74.100.977,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Corinto suba
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Noroccidente,3630102,Suba Las Mercedes,3632670,-74.083.544,4.765.094,15,Colombia / Cundinamarca / Bogota / Zona Noroccidente / Suba Las Mercedes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Complejo Industrial San Cayetano,8202271,-74.114.420,4.676.952,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Complejo Industrial San Cayetano
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Parque Empresarial La Estancia,8202272,-74.114.420,4.676.952,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Parque Empresarial La Estancia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Parque Industrial Terrabienes,8202273,-74.150.554,4.687.096,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Parque Industrial Terrabienes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Andresito,8202274,-741.018.652,46.151.092,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Andresito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Centro Comercial Andino,8202275,-740.541.288,4.666.049,15,Colombia / Cundinamarca / Bogota / Zona Centro / Centro Comercial Andino
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Complejo Industrial San Cayetano,8500138,-74.114.420,4.676.952,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Complejo Industrial San Cayetano
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,C.C. Paseo Villa Del Rio,8500139,-74.153.393,4.598.971,15,Colombia / Cundinamarca / Bogota / Zona Sur / C.C. Paseo Villa Del Rio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Parque Empresarial La Estancia,8500140,-74.114.420,4.676.952,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Parque Empresarial La Estancia
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,Parque Industrial Terrabienes,8500141,-74.150.554,4.687.096,15,Colombia / Cundinamarca / Bogota / Zona Occidente / Parque Industrial Terrabienes
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Andresito,8500162,-741.018.652,46.151.092,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Andresito
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,Centro Comercial Andino,8500163,-740.541.288,4.666.049,15,Colombia / Cundinamarca / Bogota / Zona Centro / Centro Comercial Andino
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Occidente,3630104,San Ignacio,8500164,4.674.913,-74.113.064,15,Colombia / Cundinamarca / Bogota / Zona Occidente / San Ignacio
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tierra Buena,8500165,"4°38'58""N","74°10'14""W",15,Colombia / Cundinamarca / Bogota / Zona Sur / Tierra Buena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Tierra Buena,8500166,74.175.405,4.651.334,15,Colombia / Cundinamarca / Bogota / Zona Sur / Tierra Buena
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,El Moral,8500167,-740.309.672,47.314.353,15,Colombia / Cundinamarca / Bogota / Zona Norte / El Moral
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Chapinero,3630103,Nuevo Campin,8500168,-74.081.996,4.648.530,15,Colombia / Cundinamarca / Bogota / Zona Chapinero / Nuevo Campin
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Sur,3630106,Centro Comercial Centro Mayor,8500197,-7.412.402,459.239,15,Colombia / Cundinamarca / Bogota / Zona Sur / Centro Comercial Centro Mayor
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Centro,3630105,San Fasón,8500201,-7.408.571.864.378.950,4.620.098.160.687.240,15,Colombia / Cundinamarca / Bogota / Zona Centro / San Fasón
+5,Neighbourhood,Colombia,1,Cundinamarca,67,Bogota,3630001,Zona Norte,3630101,Bosques del Marques,8500211,4.715.577,-74.027.694,15,Colombia / Cundinamarca / Bogota / Zona Norte / Bosques del Marques

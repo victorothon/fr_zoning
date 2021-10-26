@@ -1,0 +1,3 @@
+polymorphic_ctype,id,name,slug,fr_place_id,place_code,location_point,is_active,to_filter,created,updated,city
+251,,Bosques del Marques,colombia-cundinamarca-bogota-8500211-bosques-del-marques,8500211,,SRID=4326;POINT(-74.027694 4.715577),1,1,2021-10-21 11:14:30,2021-10-21 11:14:30,3630001
+251,,Altos de Santa Elena,colombia-valle-del-cauca-cali-8500212-altos-de-santa-elena,8500212,,SRID=4326;POINT(-76.556762 3.372714),1,1,2021-10-21 11:17:30,2021-10-21 11:17:30,8200006

@@ -6,10 +6,10 @@ ID = ''
 PLACE_CODE = ''
 IS_ACTIVE = 1
 TO_FILTER = 1
-CITY_CODE = 7500004
+CITY_CODE = 7500007
 COUNTRY = 'colombia'
 DEPARTMENT = 'santander'
-CITY = 'giron'
+CITY = 'bucaramanga'
 GROUP = 'zonas'
 ZONE = 'Zona'
 
