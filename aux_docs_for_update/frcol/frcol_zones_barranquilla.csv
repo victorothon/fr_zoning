@@ -1,0 +1,6 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+4,Zone,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,'','',-74.813154,11.01076,15,Colombia / Atlántico / Barranquilla / Riomar
+4,Zone,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,'','',-74.825499,10.993471,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico
+4,Zone,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,'','',-74.814517,10.936412,15,Colombia / Atlántico / Barranquilla / Metropolitana
+4,Zone,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,'','',-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente
+4,Zone,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,'','',-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente

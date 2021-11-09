@@ -286,7 +286,7 @@ INNER JOIN (
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 18.- FC_UPDATE BARRIO Parte de Paraíso ------
+------ 18.- FC_UPDATE BARRIO El Limoncito ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -298,11 +298,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%paraiso%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%limoncito%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 19.- FC_UPDATE BARRIO El Limoncito ------
+------ 19.- FC_UPDATE BARRIO La Castellana ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -314,11 +314,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%limoncito%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%castellana%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 20.- FC_UPDATE BARRIO Parte de Altos del Prado ------
+------ 20.- FC_UPDATE BARRIO Villa Carolina ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -330,11 +330,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%altos%del%prado%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%carolina%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 21.- FC_UPDATE BARRIO La Castellana ------
+------ 21.- FC_UPDATE BARRIO La Campiña ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -346,43 +346,43 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%castellana%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 22.- FC_UPDATE BARRIO Villa Carolina ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700101 as zone, 5701023 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%carolina%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 23.- FC_UPDATE BARRIO La Campiña ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700101 as zone, 5701024 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%campina%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 24.- FC_UPDATE BARRIO El Tabor ------
+------ 22.- FC_UPDATE BARRIO El Tabor ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700102 as zone, 5701023 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%tabor%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 23.- FC_UPDATE BARRIO Miramar ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700102 as zone, 5701024 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%miramar%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 24.- FC_UPDATE BARRIO Granadillo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -394,11 +394,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%tabor%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%granadillo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 25.- FC_UPDATE BARRIO Miramar ------
+------ 25.- FC_UPDATE BARRIO Los Alpes ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -410,11 +410,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%miramar%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%alpes%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 26.- FC_UPDATE BARRIO Granadillo ------
+------ 26.- FC_UPDATE BARRIO Nuevo Horizonte ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -426,11 +426,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%granadillo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nuevo%horizonte%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 27.- FC_UPDATE BARRIO Los Alpes ------
+------ 27.- FC_UPDATE BARRIO El Porvenir ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -442,11 +442,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%alpes%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%porvenir%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 28.- FC_UPDATE BARRIO Nuevo Horizonte ------
+------ 28.- FC_UPDATE BARRIO Altos del Prado ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -458,11 +458,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nuevo%horizonte%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%altos%del%prado%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 29.- FC_UPDATE BARRIO El Porvenir ------
+------ 29.- FC_UPDATE BARRIO El Golf ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -474,11 +474,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%porvenir%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%golf%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 30.- FC_UPDATE BARRIO Altos del Prado ------
+------ 30.- FC_UPDATE BARRIO El Country ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -490,11 +490,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%altos%del%prado%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%country%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 31.- FC_UPDATE BARRIO El Golf ------
+------ 31.- FC_UPDATE BARRIO Paraíso ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -506,11 +506,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%golf%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%paraiso%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 32.- FC_UPDATE BARRIO El Country ------
+------ 32.- FC_UPDATE BARRIO La Concepción ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -522,11 +522,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%country%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%concepcion%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 33.- FC_UPDATE BARRIO Paraíso ------
+------ 33.- FC_UPDATE BARRIO San Francisco ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -538,11 +538,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%paraiso%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%francisco%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 34.- FC_UPDATE BARRIO La Concepción ------
+------ 34.- FC_UPDATE BARRIO Santa Ana ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -554,11 +554,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%concepcion%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%ana%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 35.- FC_UPDATE BARRIO San Francisco ------
+------ 35.- FC_UPDATE BARRIO América ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -570,11 +570,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%francisco%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%america%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 36.- FC_UPDATE BARRIO Santa Ana ------
+------ 36.- FC_UPDATE BARRIO Colombia ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -586,11 +586,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%ana%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%colombia%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 37.- FC_UPDATE BARRIO América ------
+------ 37.- FC_UPDATE BARRIO El Prado ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -602,11 +602,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%america%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%prado%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 38.- FC_UPDATE BARRIO Colombia ------
+------ 38.- FC_UPDATE BARRIO Bellavista ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -618,11 +618,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%colombia%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%bellavista%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 39.- FC_UPDATE BARRIO El Prado ------
+------ 39.- FC_UPDATE BARRIO Modelo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -634,11 +634,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%prado%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%modelo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 40.- FC_UPDATE BARRIO Bellavista ------
+------ 40.- FC_UPDATE BARRIO Montecristo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -650,11 +650,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%bellavista%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%montecristo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 41.- FC_UPDATE BARRIO Modelo ------
+------ 41.- FC_UPDATE BARRIO Abajo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -666,11 +666,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%modelo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%abajo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 42.- FC_UPDATE BARRIO Montecristo ------
+------ 42.- FC_UPDATE BARRIO La Cumbre ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -682,11 +682,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%montecristo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%cumbre%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 43.- FC_UPDATE BARRIO Abajo ------
+------ 43.- FC_UPDATE BARRIO Ciudad Jardín ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -698,11 +698,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%abajo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%jardin%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 44.- FC_UPDATE BARRIO La Cumbre ------
+------ 44.- FC_UPDATE BARRIO Campo Alegre ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -714,11 +714,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%cumbre%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%campo%alegre%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 45.- FC_UPDATE BARRIO Nuevo Horizonte ------
+------ 45.- FC_UPDATE BARRIO Las Colinas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -730,11 +730,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nuevo%horizonte%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%colinas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 46.- FC_UPDATE BARRIO Ciudad Jardín ------
+------ 46.- FC_UPDATE BARRIO Los Jobos ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -746,11 +746,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%jardin%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%jobos%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 47.- FC_UPDATE BARRIO Campo Alegre ------
+------ 47.- FC_UPDATE BARRIO Los Nogales ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -762,11 +762,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%campo%alegre%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%nogales%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 48.- FC_UPDATE BARRIO Las Colinas ------
+------ 48.- FC_UPDATE BARRIO Las Mercedes ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -778,11 +778,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%colinas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%mercedes%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 49.- FC_UPDATE BARRIO Los Jobos ------
+------ 49.- FC_UPDATE BARRIO Betania ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -794,11 +794,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%jobos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%betania%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 50.- FC_UPDATE BARRIO Los Nogales ------
+------ 50.- FC_UPDATE BARRIO Las Delicias ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -810,11 +810,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%nogales%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%delicias%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 51.- FC_UPDATE BARRIO Las Mercedes ------
+------ 51.- FC_UPDATE BARRIO El Recreo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -826,11 +826,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%mercedes%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%recreo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 52.- FC_UPDATE BARRIO Betania ------
+------ 52.- FC_UPDATE BARRIO Boston ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -842,11 +842,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%betania%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%boston%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 53.- FC_UPDATE BARRIO Las Delicias ------
+------ 53.- FC_UPDATE BARRIO El Rosario ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -858,11 +858,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%delicias%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%rosario%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 54.- FC_UPDATE BARRIO El Recreo ------
+------ 54.- FC_UPDATE BARRIO Centro ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -874,11 +874,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%recreo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%centro%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 55.- FC_UPDATE BARRIO Boston ------
+------ 55.- FC_UPDATE BARRIO Barlovento ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -890,11 +890,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%boston%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%barlovento%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 56.- FC_UPDATE BARRIO El Rosario ------
+------ 56.- FC_UPDATE BARRIO Villanueva ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -906,11 +906,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%rosario%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villanueva%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 57.- FC_UPDATE BARRIO Centro ------
+------ 57.- FC_UPDATE BARRIO El Boliche ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -922,11 +922,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%centro%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%boliche%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 58.- FC_UPDATE BARRIO Barlovento ------
+------ 58.- FC_UPDATE BARRIO La Sierra ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -938,59 +938,59 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%barlovento%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 59.- FC_UPDATE BARRIO Villanueva ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700102 as zone, 5701060 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villanueva%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 60.- FC_UPDATE BARRIO El Boliche ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700102 as zone, 5701061 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%boliche%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 61.- FC_UPDATE BARRIO La Sierra ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700102 as zone, 5701062 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%sierra%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 62.- FC_UPDATE BARRIO La Victoria ------
+------ 59.- FC_UPDATE BARRIO La Victoria ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700103 as zone, 5701060 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%victoria%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 60.- FC_UPDATE BARRIO Los Continentes ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700103 as zone, 5701061 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%continentes%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 61.- FC_UPDATE BARRIO Kennedy ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700103 as zone, 5701062 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%kennedy%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 62.- FC_UPDATE BARRIO La Sierrita ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1002,11 +1002,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%victoria%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%sierrita%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 63.- FC_UPDATE BARRIO Los Continentes ------
+------ 63.- FC_UPDATE BARRIO El Santuario ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1018,11 +1018,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%continentes%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%santuario%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 64.- FC_UPDATE BARRIO Kennedy ------
+------ 64.- FC_UPDATE BARRIO Las Américas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1034,11 +1034,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%kennedy%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%americas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 65.- FC_UPDATE BARRIO La Sierrita ------
+------ 65.- FC_UPDATE BARRIO Carrizal ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1050,11 +1050,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%sierrita%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%carrizal%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 66.- FC_UPDATE BARRIO El Santuario ------
+------ 66.- FC_UPDATE BARRIO Buenos Aires ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1066,11 +1066,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%santuario%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%buenos%aires%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 67.- FC_UPDATE BARRIO Las Américas ------
+------ 67.- FC_UPDATE BARRIO Santo Domingo de Guzmán ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1082,11 +1082,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%americas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santo%domingo%de%guzman%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 68.- FC_UPDATE BARRIO Carrizal ------
+------ 68.- FC_UPDATE BARRIO Villa San Pedro ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1098,11 +1098,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%carrizal%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%san%pedro%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 69.- FC_UPDATE BARRIO Buenos Aires ------
+------ 69.- FC_UPDATE BARRIO San Luis ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1114,11 +1114,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%buenos%aires%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%luis%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 70.- FC_UPDATE BARRIO Santo Domingo de Guzmán ------
+------ 70.- FC_UPDATE BARRIO Veinte de Julio ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1130,11 +1130,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santo%domingo%de%guzman%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%veinte%de%julio%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 71.- FC_UPDATE BARRIO Villa San Pedro ------
+------ 71.- FC_UPDATE BARRIO Santa María ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1146,11 +1146,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%san%pedro%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%maria%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 72.- FC_UPDATE BARRIO San Luis ------
+------ 72.- FC_UPDATE BARRIO Villa Sevilla ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1162,11 +1162,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%luis%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%sevilla%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 73.- FC_UPDATE BARRIO Veinte de Julio ------
+------ 73.- FC_UPDATE BARRIO Las Granjas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1178,11 +1178,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%veinte%de%julio%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%granjas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 74.- FC_UPDATE BARRIO Santa María ------
+------ 74.- FC_UPDATE BARRIO Siete de Abril ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1194,11 +1194,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%maria%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%siete%de%abril%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 75.- FC_UPDATE BARRIO Villa Sevilla ------
+------ 75.- FC_UPDATE BARRIO Los Girasoles ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1210,11 +1210,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%sevilla%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%girasoles%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 76.- FC_UPDATE BARRIO Las Granjas ------
+------ 76.- FC_UPDATE BARRIO Ciudadela Veinte de Julio ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1226,11 +1226,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%granjas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudadela%veinte%de%julio%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 77.- FC_UPDATE BARRIO Siete de Abril ------
+------ 77.- FC_UPDATE BARRIO Santa Helena ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1242,11 +1242,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%siete%de%abril%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%helena%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 78.- FC_UPDATE BARRIO Los Girasoles ------
+------ 78.- FC_UPDATE BARRIO San Roque ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1258,11 +1258,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%girasoles%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%roque%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 79.- FC_UPDATE BARRIO Ciudadela Veinte de Julio ------
+------ 79.- FC_UPDATE BARRIO Realengo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1274,11 +1274,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudadela%veinte%de%julio%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%realengo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 80.- FC_UPDATE BARRIO Parte de La Victoria ------
+------ 80.- FC_UPDATE BARRIO La Pradera ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1290,75 +1290,75 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%la%victoria%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 81.- FC_UPDATE BARRIO Santa Helena ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700103 as zone, 5701082 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%helena%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 82.- FC_UPDATE BARRIO San Roque ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700103 as zone, 5701083 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%roque%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 83.- FC_UPDATE BARRIO Realengo ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700103 as zone, 5701084 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%realengo%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 84.- FC_UPDATE BARRIO La Pradera ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700103 as zone, 5701085 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%pradera%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 85.- FC_UPDATE BARRIO Los Olivos ------
+------ 81.- FC_UPDATE BARRIO Los Olivos ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700104 as zone, 5701082 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%olivos%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 82.- FC_UPDATE BARRIO El Pueblo ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700104 as zone, 5701083 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%pueblo%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 83.- FC_UPDATE BARRIO Las Estrellas ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700104 as zone, 5701084 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%estrellas%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 84.- FC_UPDATE BARRIO Pastoral Social ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700104 as zone, 5701085 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%pastoral%social%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 85.- FC_UPDATE BARRIO Villa del Rosario ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1370,11 +1370,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%olivos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%del%rosario%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 86.- FC_UPDATE BARRIO El Pueblo ------
+------ 86.- FC_UPDATE BARRIO Las Terrazas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1386,11 +1386,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%pueblo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%terrazas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 87.- FC_UPDATE BARRIO Las Estrellas ------
+------ 87.- FC_UPDATE BARRIO Mercedes Sur ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1402,11 +1402,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%estrellas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mercedes%sur%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 88.- FC_UPDATE BARRIO Pastoral Social ------
+------ 88.- FC_UPDATE BARRIO Por Fin ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1418,11 +1418,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%pastoral%social%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%por%fin%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 89.- FC_UPDATE BARRIO Villa del Rosario ------
+------ 89.- FC_UPDATE BARRIO La Paz ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1434,11 +1434,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%del%rosario%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%paz%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 90.- FC_UPDATE BARRIO Las Terrazas ------
+------ 90.- FC_UPDATE BARRIO Mequejo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1450,11 +1450,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%terrazas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mequejo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 91.- FC_UPDATE BARRIO Mercedes Sur ------
+------ 91.- FC_UPDATE BARRIO La Manga ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1466,11 +1466,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mercedes%sur%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%manga%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 92.- FC_UPDATE BARRIO Por Fin ------
+------ 92.- FC_UPDATE BARRIO 7 de agosto ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1482,11 +1482,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%por%fin%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%7%de%agosto%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 93.- FC_UPDATE BARRIO La Paz ------
+------ 93.- FC_UPDATE BARRIO Evaristo Sourdis ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1498,11 +1498,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%paz%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%evaristo%sourdis%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 94.- FC_UPDATE BARRIO Mequejo ------
+------ 94.- FC_UPDATE BARRIO Lipaya ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1514,11 +1514,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%mequejo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lipaya%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 95.- FC_UPDATE BARRIO La Manga ------
+------ 95.- FC_UPDATE BARRIO Olaya ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1530,11 +1530,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%manga%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%olaya%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 96.- FC_UPDATE BARRIO 7 de agosto ------
+------ 96.- FC_UPDATE BARRIO El Silencio ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1546,11 +1546,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%7%de%agosto%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%silencio%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 97.- FC_UPDATE BARRIO Evaristo Sourdis ------
+------ 97.- FC_UPDATE BARRIO La Libertad ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1562,11 +1562,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%evaristo%sourdis%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%libertad%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 98.- FC_UPDATE BARRIO Lipaya ------
+------ 98.- FC_UPDATE BARRIO Nueva Granada ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1578,11 +1578,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lipaya%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nueva%granada%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 99.- FC_UPDATE BARRIO Olaya ------
+------ 99.- FC_UPDATE BARRIO Santo Domingo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1594,11 +1594,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%olaya%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santo%domingo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 100.- FC_UPDATE BARRIO El Silencio ------
+------ 100.- FC_UPDATE BARRIO Lucero ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1610,11 +1610,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%silencio%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lucero%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 101.- FC_UPDATE BARRIO La Libertad ------
+------ 101.- FC_UPDATE BARRIO Los Pinos ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1626,11 +1626,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%libertad%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%pinos%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 102.- FC_UPDATE BARRIO Nueva Granada ------
+------ 102.- FC_UPDATE BARRIO Loma Fresca ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1642,11 +1642,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nueva%granada%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%loma%fresca%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 103.- FC_UPDATE BARRIO Santo Domingo ------
+------ 103.- FC_UPDATE BARRIO San Isidro ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1658,11 +1658,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santo%domingo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%isidro%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 104.- FC_UPDATE BARRIO Lucero ------
+------ 104.- FC_UPDATE BARRIO Alfonso López ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1674,11 +1674,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%lucero%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%alfonso%lopez%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 105.- FC_UPDATE BARRIO Los Pinos ------
+------ 105.- FC_UPDATE BARRIO Los Andes ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1690,11 +1690,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%pinos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%andes%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 106.- FC_UPDATE BARRIO Loma Fresca ------
+------ 106.- FC_UPDATE BARRIO San Felipe ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1706,11 +1706,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%loma%fresca%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%felipe%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 107.- FC_UPDATE BARRIO San Isidro ------
+------ 107.- FC_UPDATE BARRIO Carlos Meisel ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1722,11 +1722,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%isidro%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%carlos%meisel%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 108.- FC_UPDATE BARRIO Alfonso López ------
+------ 108.- FC_UPDATE BARRIO Nueva Colombia ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1738,11 +1738,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%alfonso%lopez%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nueva%colombia%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 109.- FC_UPDATE BARRIO Los Andes ------
+------ 109.- FC_UPDATE BARRIO Las Malvinas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1754,11 +1754,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%andes%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%malvinas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 110.- FC_UPDATE BARRIO San Felipe ------
+------ 110.- FC_UPDATE BARRIO Los Rosales ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1770,11 +1770,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%felipe%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%rosales%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 111.- FC_UPDATE BARRIO Carlos Meisel ------
+------ 111.- FC_UPDATE BARRIO Pumarejo ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1786,11 +1786,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%carlos%meisel%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%pumarejo%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 112.- FC_UPDATE BARRIO Nueva Colombia ------
+------ 112.- FC_UPDATE BARRIO Villate ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1802,11 +1802,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%nueva%colombia%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villate%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 113.- FC_UPDATE BARRIO Las Malvinas ------
+------ 113.- FC_UPDATE BARRIO El Carmen ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1818,11 +1818,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%malvinas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%carmen%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 114.- FC_UPDATE BARRIO Los Rosales ------
+------ 114.- FC_UPDATE BARRIO Buena Esperanza ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1834,11 +1834,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%rosales%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%buena%esperanza%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 115.- FC_UPDATE BARRIO Pumarejo ------
+------ 115.- FC_UPDATE BARRIO La Ceiba ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1850,11 +1850,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%pumarejo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%ceiba%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 116.- FC_UPDATE BARRIO Villate ------
+------ 116.- FC_UPDATE BARRIO La Esmeralda ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1866,11 +1866,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villate%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%esmeralda%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 117.- FC_UPDATE BARRIO El Carmen ------
+------ 117.- FC_UPDATE BARRIO El Bosque ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1882,11 +1882,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%carmen%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%bosque%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 118.- FC_UPDATE BARRIO Buena Esperanza ------
+------ 118.- FC_UPDATE BARRIO San Pedro Alejandrino ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1898,11 +1898,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%buena%esperanza%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%pedro%alejandrino%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 119.- FC_UPDATE BARRIO La Sierra ------
+------ 119.- FC_UPDATE BARRIO La Gloria ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1914,11 +1914,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%sierra%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%gloria%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 120.- FC_UPDATE BARRIO La Ceiba ------
+------ 120.- FC_UPDATE BARRIO Villa Flor ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1930,11 +1930,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%ceiba%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%flor%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 121.- FC_UPDATE BARRIO La Esmeralda ------
+------ 121.- FC_UPDATE BARRIO El Romance ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1946,11 +1946,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%esmeralda%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%romance%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 122.- FC_UPDATE BARRIO El Bosque ------
+------ 122.- FC_UPDATE BARRIO California ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1962,11 +1962,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%bosque%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%california%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 123.- FC_UPDATE BARRIO Chiquinquirá ------
+------ 123.- FC_UPDATE BARRIO San Pedro ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1978,11 +1978,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%chiquinquira%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%pedro%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 124.- FC_UPDATE BARRIO Parte de El Recreo ------
+------ 124.- FC_UPDATE BARRIO Cordialidad ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -1994,11 +1994,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%el%recreo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%cordialidad%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 125.- FC_UPDATE BARRIO San Pedro Alejandrino ------
+------ 125.- FC_UPDATE BARRIO Las Torres ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2010,11 +2010,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%pedro%alejandrino%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%torres%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 126.- FC_UPDATE BARRIO La Gloria ------
+------ 126.- FC_UPDATE BARRIO Ciudad Modesto ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2026,11 +2026,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%gloria%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%modesto%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 127.- FC_UPDATE BARRIO Villa Flor ------
+------ 127.- FC_UPDATE BARRIO Paloquemao ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2042,11 +2042,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%flor%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%paloquemao%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 128.- FC_UPDATE BARRIO El Romance ------
+------ 128.- FC_UPDATE BARRIO Cevillar ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2058,11 +2058,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%romance%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%cevillar%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 129.- FC_UPDATE BARRIO California ------
+------ 129.- FC_UPDATE BARRIO Atlántico ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2074,11 +2074,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%california%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%atlantico%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 130.- FC_UPDATE BARRIO San Pedro ------
+------ 130.- FC_UPDATE BARRIO Parte de Villa Blanca ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2090,11 +2090,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%pedro%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%villa%blanca%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 131.- FC_UPDATE BARRIO Cordialidad ------
+------ 131.- FC_UPDATE BARRIO El Valle ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2106,11 +2106,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%cordialidad%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%valle%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 132.- FC_UPDATE BARRIO Las Torres ------
+------ 132.- FC_UPDATE BARRIO Chiquinquirá ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2122,123 +2122,123 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%torres%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 133.- FC_UPDATE BARRIO Ciudad Modesto ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701134 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%modesto%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 134.- FC_UPDATE BARRIO Paloquemao ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701135 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%paloquemao%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 135.- FC_UPDATE BARRIO Cevillar ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701136 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%cevillar%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 136.- FC_UPDATE BARRIO Atlántico ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701137 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%atlantico%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 137.- FC_UPDATE BARRIO Parte de Villa Blanca ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701138 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%villa%blanca%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 138.- FC_UPDATE BARRIO El Valle ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701139 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%valle%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 139.- FC_UPDATE BARRIO Chiquinquirá ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700104 as zone, 5701140 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%chiquinquira%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 140.- FC_UPDATE BARRIO San Roque ------
+------ 133.- FC_UPDATE BARRIO Rebolo ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701134 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%rebolo%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 134.- FC_UPDATE BARRIO Montes ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701135 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%montes%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 135.- FC_UPDATE BARRIO San José ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701136 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%jose%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 136.- FC_UPDATE BARRIO Boyacá ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701137 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%boyaca%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 137.- FC_UPDATE BARRIO Los Trupillos ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701138 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%trupillos%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 138.- FC_UPDATE BARRIO La Luz ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701139 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%luz%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 139.- FC_UPDATE BARRIO La Chinita ------
+
+UPDATE Destino
+SET FK_Location3Id = TEMP.zone,
+    FK_Location4Id = TEMP.Neighborhood
+FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
+INNER JOIN (
+    SELECT PK_AdvertId, 5700105 as zone, 5701140 Neighborhood
+    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
+    WHERE FK_Location1Id = 57
+        AND FK_Location2Id = 5700003
+        --AND FK_Location4Id = 0
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%chinita%'
+    ) AS TEMP
+ON Destino.PK_AdvertId = TEMP.PK_AdvertId
+
+------ 140.- FC_UPDATE BARRIO Las Nieves ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2250,11 +2250,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%roque%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%nieves%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 141.- FC_UPDATE BARRIO Rebolo ------
+------ 141.- FC_UPDATE BARRIO La Unión ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2266,11 +2266,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%rebolo%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%union%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 142.- FC_UPDATE BARRIO Atlántico ------
+------ 142.- FC_UPDATE BARRIO El Campito ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2282,11 +2282,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%atlantico%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%campito%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 143.- FC_UPDATE BARRIO Montes ------
+------ 143.- FC_UPDATE BARRIO Las Palmas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2298,11 +2298,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%montes%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%palmas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 144.- FC_UPDATE BARRIO San José ------
+------ 144.- FC_UPDATE BARRIO La Magdalena ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2314,11 +2314,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%jose%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%magdalena%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 145.- FC_UPDATE BARRIO Boyacá ------
+------ 145.- FC_UPDATE BARRIO El Limón ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2330,11 +2330,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%boyaca%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%limon%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 146.- FC_UPDATE BARRIO Los Trupillos ------
+------ 146.- FC_UPDATE BARRIO El Tayrona ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2346,11 +2346,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%trupillos%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%tayrona%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 147.- FC_UPDATE BARRIO La Luz ------
+------ 147.- FC_UPDATE BARRIO Universal ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2362,11 +2362,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%luz%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%universal%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 148.- FC_UPDATE BARRIO La Chinita ------
+------ 148.- FC_UPDATE BARRIO Las Dunas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2378,11 +2378,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%chinita%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%dunas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 149.- FC_UPDATE BARRIO Las Nieves ------
+------ 149.- FC_UPDATE BARRIO San Nicolás ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2394,11 +2394,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%nieves%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%nicolas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 150.- FC_UPDATE BARRIO Santa Helena ------
+------ 150.- FC_UPDATE BARRIO José Antonio Galán ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2410,11 +2410,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%helena%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%jose%antonio%galan%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 151.- FC_UPDATE BARRIO La Unión ------
+------ 151.- FC_UPDATE BARRIO El Milagro ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2426,11 +2426,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%union%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%milagro%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 152.- FC_UPDATE BARRIO Parte de La Victoria ------
+------ 152.- FC_UPDATE BARRIO Los Laureles ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2442,11 +2442,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%la%victoria%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%laureles%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 153.- FC_UPDATE BARRIO El Campito ------
+------ 153.- FC_UPDATE BARRIO Bella Arena ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2458,11 +2458,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%campito%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%bella%arena%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 154.- FC_UPDATE BARRIO Las Palmas ------
+------ 154.- FC_UPDATE BARRIO Villa del Carmen ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2474,11 +2474,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%palmas%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%del%carmen%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 155.- FC_UPDATE BARRIO La Magdalena ------
+------ 155.- FC_UPDATE BARRIO La Alboraya ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2490,11 +2490,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%magdalena%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%alboraya%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 156.- FC_UPDATE BARRIO El Limón ------
+------ 156.- FC_UPDATE BARRIO Ciudad Cisneros ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2506,11 +2506,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%limon%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%cisneros%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 157.- FC_UPDATE BARRIO El Tayrona ------
+------ 157.- FC_UPDATE BARRIO El Parque ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2522,11 +2522,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%tayrona%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%parque%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 158.- FC_UPDATE BARRIO Universal ------
+------ 158.- FC_UPDATE BARRIO Las Gaviotas ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2538,11 +2538,11 @@ INNER JOIN (
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003
         --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%universal%'
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%gaviotas%'
     ) AS TEMP
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId
 
------- 159.- FC_UPDATE BARRIO Las Dunas ------
+------ 159.- FC_UPDATE BARRIO Simón Bolívar ------
 
 UPDATE Destino
 SET FK_Location3Id = TEMP.zone,
@@ -2550,214 +2550,6 @@ SET FK_Location3Id = TEMP.zone,
 FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
 INNER JOIN (
     SELECT PK_AdvertId, 5700105 as zone, 5701160 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%dunas%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 160.- FC_UPDATE BARRIO San Nicolás ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701161 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%san%nicolas%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 161.- FC_UPDATE BARRIO José Antonio Galán (Cacho Solo) ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701162 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%jose%antonio%galan%(cacho%solo)%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 162.- FC_UPDATE BARRIO Villa Blanca ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701163 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%blanca%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 163.- FC_UPDATE BARRIO El Milagro ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701164 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%milagro%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 164.- FC_UPDATE BARRIO Los Laureles ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701165 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%los%laureles%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 165.- FC_UPDATE BARRIO Bella Arena ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701166 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%bella%arena%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 166.- FC_UPDATE BARRIO Villa del Carmen ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701167 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%villa%del%carmen%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 167.- FC_UPDATE BARRIO La Alboraya ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701168 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%la%alboraya%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 168.- FC_UPDATE BARRIO Ciudad Cisneros ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701169 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%ciudad%cisneros%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 169.- FC_UPDATE BARRIO El Parque ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701170 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%el%parque%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 170.- FC_UPDATE BARRIO Las Gaviotas ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701171 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%las%gaviotas%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 171.- FC_UPDATE BARRIO Parte de Buenos Aires ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701172 Neighborhood
-    FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-    WHERE FK_Location1Id = 57
-        AND FK_Location2Id = 5700003
-        --AND FK_Location4Id = 0
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%parte%de%buenos%aires%'
-    ) AS TEMP
-ON Destino.PK_AdvertId = TEMP.PK_AdvertId
-
------- 172.- FC_UPDATE BARRIO Simón Bolívar ------
-
-UPDATE Destino
-SET FK_Location3Id = TEMP.zone,
-    FK_Location4Id = TEMP.Neighborhood
-FROM FC_COL_WRT..AdvertsRealstate  Destino (NOLOCK)
-INNER JOIN (
-    SELECT PK_AdvertId, 5700105 as zone, 5701173 Neighborhood
     FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
     WHERE FK_Location1Id = 57
         AND FK_Location2Id = 5700003

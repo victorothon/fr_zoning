@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d83a58a-62c6-4a88-a176-6ccc948cc866" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ClassicLocations_Zones.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassicLocations_Zones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OV_insert_neighborhoods_query_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/OV_insert_neighborhoods_query_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OV_zoning_query_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/OV_zoning_query_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aux_docs_for_update/LocationsForSuggest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aux_docs_for_update/LocationsForSuggest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aux_docs_for_update/classicLocations_neighborhoods.csv" beforeDir="false" afterPath="$PROJECT_DIR$/aux_docs_for_update/classicLocations_neighborhoods.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aux_docs_for_update/classicLocations_zones.csv" beforeDir="false" afterPath="$PROJECT_DIR$/aux_docs_for_update/classicLocations_zones.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aux_docs_for_update/frcol/frcol_locations_vic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/aux_docs_for_update/frcol/frcol_locations_vic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/FC_insert_neighborhoods.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/FC_insert_neighborhoods.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/FC_insert_zones.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/FC_insert_zones.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/FC_update_ads.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/FC_update_ads.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/OV_insert_neighborhoods.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/OV_insert_neighborhoods.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/OV_update_ads.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/OV_update_ads.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/ejecutados/barranquilla/FC_AND_OV_Zoning_Barranquilla.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/ejecutados/barranquilla/FC_AND_OV_Zoning_Barranquilla.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_files/FC_neighborhoods_with_nodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/read_files/FC_neighborhoods_with_nodes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_files/FC_zones_with_nodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/read_files/FC_zones_with_nodes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_files/OV_neighborhoods_with_nodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/read_files/OV_neighborhoods_with_nodes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_files/OV_zones_with_nodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/read_files/OV_zones_with_nodes.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20CI3gfQMlAVvKWKtfxJZESIr3Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="azure" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.OV_insert_neighborhoods_query_gen">
+    <configuration name="OV_insert_neighborhoods_query_gen" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="fr_zoning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OV_insert_neighborhoods_query_gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neighborhood_name_fix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fr_zoning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neighborhood_name_fix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.neighborhood_name_fix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d83a58a-62c6-4a88-a176-6ccc948cc866" name="Changes" comment="" />
+      <created>1635541944890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635541944890</updated>
+      <workItem from="1635541947591" duration="3156000" />
+      <workItem from="1635959268741" duration="12260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fr_zoning$neighborhood_name_fix.coverage" NAME="neighborhood_name_fix Coverage Results" MODIFIED="1636401512411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fr_zoning$OV_insert_neighborhoods_query_gen.coverage" NAME="OV_insert_neighborhoods_query_gen Coverage Results" MODIFIED="1636401665983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

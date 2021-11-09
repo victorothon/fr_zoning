@@ -20,14 +20,13 @@
 
 import csv
 
+
 def simplify(text):
-	import unicodedata
-	#try:
-	#	text = unicode(text, 'utf-8')
-	#except NameError:
-	#	pass
-	text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
-	return str(text).lower().replace(' ','%') 
+    import unicodedata
+    text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode(
+        "utf-8")
+    return str(text).lower().replace(' ', '%')
+
 
 with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
     read_file = csv.reader(in_file)
@@ -38,7 +37,7 @@ with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
         for row in read_file:
             if int(row[10]) == 2:
                 print(row[10])
-                output.write (
+                output.write(
 '------ {}.- OV_UPDATE BARRIO {} ------\n\n\
 UPDATE Destino\n\
 SET Fk_LocalizationLevel4Id = TEMP.zone, Fk_LocalizationLevel5Id = TEMP.Neighborhood\n\
@@ -51,7 +50,7 @@ INNER JOIN (\n\
         AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like \'%{}%\'\n\
         AND Fk_StatusId = 2\n\
     ) AS Temp\n\
-ON Destino.PK_ID = Temp.PK_ID\n\n'\
-                .format(i, row[5], row[4], row[0], row[2], row[3], simplify(row[5])))
+ON Destino.PK_ID = Temp.PK_ID\n\n'
+                        .format(i, row[5], row[4], row[0], row[2], row[3],
+                                simplify(row[5])))
                 i += 1
-

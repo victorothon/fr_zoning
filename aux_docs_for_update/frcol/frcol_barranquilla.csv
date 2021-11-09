@@ -1,0 +1,161 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Villa Santos,5701001,-74.83521,11.01169,15,Colombia / Atlántico / Barranquilla / Riomar / Villa Santos
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,El Poblado,5701002,-74.82721,11.00622,15,Colombia / Atlántico / Barranquilla / Riomar / El Poblado
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Altamira,5701003,-74.82324,11.00533,15,Colombia / Atlántico / Barranquilla / Riomar / Altamira
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,San Vicente,5701004,-74.81967,11.00679,15,Colombia / Atlántico / Barranquilla / Riomar / San Vicente
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Altos del Limón,5701005,-74.82378,11.01519,15,Colombia / Atlántico / Barranquilla / Riomar / Altos del Limón
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Altos de Riomar,5701006,-74.81995,11.01475,15,Colombia / Atlántico / Barranquilla / Riomar / Altos de Riomar
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Santa Mónica,5701007,-74.82215,11.01012,15,Colombia / Atlántico / Barranquilla / Riomar / Santa Mónica
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Riomar,5701008,-74.81594,11.01115,15,Colombia / Atlántico / Barranquilla / Riomar / Riomar
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Andalucía,5701009,-74.81494,11.01560,15,Colombia / Atlántico / Barranquilla / Riomar / Andalucía
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Villa Campestre,5701010,-74.813154,11.01076,15,Colombia / Atlántico / Barranquilla / Riomar / Villa Campestre
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Las Flores,5701011,-74.83451,11.04818,15,Colombia / Atlántico / Barranquilla / Riomar / Las Flores
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,La Floresta,5701012,-74.80866,11.02312,15,Colombia / Atlántico / Barranquilla / Riomar / La Floresta
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,San Salvador,5701013,-74.80431,11.02329,15,Colombia / Atlántico / Barranquilla / Riomar / San Salvador
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Siape,5701014,-74.80166,11.02637,15,Colombia / Atlántico / Barranquilla / Riomar / Siape
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Las Tres Avemarías,5701015,-74.80791,11.02119,15,Colombia / Atlántico / Barranquilla / Riomar / Las Tres Avemarías
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Villa del Este,5701016,-74.81139,11.01379,15,Colombia / Atlántico / Barranquilla / Riomar / Villa del Este
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,El Castillo,5701017,-74.80307,11.02156,15,Colombia / Atlántico / Barranquilla / Riomar / El Castillo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Solaire,5701018,-74.81024,11.01481,15,Colombia / Atlántico / Barranquilla / Riomar / Solaire
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,El Limoncito,5701019,-74.81108,11.01951,15,Colombia / Atlántico / Barranquilla / Riomar / El Limoncito
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,La Castellana,5701020,-74.813154,11.01076,15,Colombia / Atlántico / Barranquilla / Riomar / La Castellana
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,Villa Carolina,5701021,-74.81308,11.02409,15,Colombia / Atlántico / Barranquilla / Riomar / Villa Carolina
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Riomar,5700101,La Campiña,5701022,-74.82422,11.00234,15,Colombia / Atlántico / Barranquilla / Riomar / La Campiña
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Tabor,5701023,-74.83293,10.99798,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Tabor
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Miramar,5701024,-74.83689,11.00219,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Miramar
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Granadillo,5701025,-74.81902,11.00041,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Granadillo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Los Alpes,5701026,-74.82521,10.99766,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Los Alpes
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Nuevo Horizonte,5701027,-74.82234,10.99534,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Nuevo Horizonte
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Porvenir,5701028,-74.81185,10.99834,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Porvenir
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Altos del Prado,5701029,-74.80888,11.00418,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Altos del Prado
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Golf,5701030,-74.80856,11.00912,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Golf
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Country,5701031,-74.825499,10.993471,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Country
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Paraíso,5701032,-74.80505,11.01350,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Paraíso
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,La Concepción,5701033,-74.79889,11.00933,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / La Concepción
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,San Francisco,5701034,-74.79262,11.00469,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / San Francisco
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Santa Ana,5701035,-74.825499,10.993471,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Santa Ana
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,América,5701036,-74.80723,10.99714,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / América
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Colombia,5701037,-74.80430,10.99426,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Colombia
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Prado,5701038,-74.79701,10.99642,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Prado
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Bellavista,5701039,-74.79432,11.00086,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Bellavista
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Modelo,5701040,-74.78416,11.00680,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Modelo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Montecristo,5701041,-74.78722,10.99566,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Montecristo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Abajo,5701042,-74.78215,10.98958,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Abajo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,La Cumbre,5701043,-74.82825,10.99796,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / La Cumbre
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Ciudad Jardín,5701044,-74.81951,10.99118,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Ciudad Jardín
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Campo Alegre,5701045,-74.82980,10.98785,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Campo Alegre
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Las Colinas,5701046,-74.81930,10.98337,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Las Colinas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Los Jobos,5701047,-74.81699,10.98911,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Los Jobos
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Los Nogales,5701048,-74.82882,10.99337,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Los Nogales
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Las Mercedes,5701049,-74.81560,10.98864,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Las Mercedes
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Betania,5701050,-74.81282,10.98953,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Betania
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Las Delicias,5701051,-74.80796,10.98752,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Las Delicias
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Recreo,5701052,-74.79808,10.98263,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Recreo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Boston,5701053,-74.79548,10.98964,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Boston
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Rosario,5701054,-74.825499,10.993471,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Rosario
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Centro,5701055,-74.77724,10.98081,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Centro
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Barlovento,5701056,-74.77699,10.98817,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Barlovento
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,Villanueva,5701057,-74.825499,10.993471,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / Villanueva
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,El Boliche,5701058,-74.77081,10.97570,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / El Boliche
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Norte Centro Histórico,5700102,La Sierra,5701059,-74.80378,10.95585,15,Colombia / Atlántico / Barranquilla / Norte Centro Histórico / La Sierra
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,La Victoria,5701060,-74.79789,10.95261,15,Colombia / Atlántico / Barranquilla / Metropolitana / La Victoria
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Los Continentes,5701061,-74.80387,10.95046,15,Colombia / Atlántico / Barranquilla / Metropolitana / Los Continentes
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Kennedy,5701062,-74.80650,10.94966,15,Colombia / Atlántico / Barranquilla / Metropolitana / Kennedy
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,La Sierrita,5701063,-74.81526,10.94601,15,Colombia / Atlántico / Barranquilla / Metropolitana / La Sierrita
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,El Santuario,5701064,-74.80442,10.94376,15,Colombia / Atlántico / Barranquilla / Metropolitana / El Santuario
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Las Américas,5701065,-74.81412,10.94360,15,Colombia / Atlántico / Barranquilla / Metropolitana / Las Américas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Carrizal,5701066,-74.80917,10.93638,15,Colombia / Atlántico / Barranquilla / Metropolitana / Carrizal
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Buenos Aires,5701067,-74.79997,10.93959,15,Colombia / Atlántico / Barranquilla / Metropolitana / Buenos Aires
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Santo Domingo de Guzmán,5701068,-74.81918,10.94030,15,Colombia / Atlántico / Barranquilla / Metropolitana / Santo Domingo de Guzmán
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Villa San Pedro,5701069,-74.814517,10.936412,15,Colombia / Atlántico / Barranquilla / Metropolitana / Villa San Pedro
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,San Luis,5701070,-74.82632,10.94033,15,Colombia / Atlántico / Barranquilla / Metropolitana / San Luis
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Veinte de Julio,5701071,-74.83053,10.93237,15,Colombia / Atlántico / Barranquilla / Metropolitana / Veinte de Julio
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Santa María,5701072,-74.82442,10.93234,15,Colombia / Atlántico / Barranquilla / Metropolitana / Santa María
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Villa Sevilla,5701073,-74.80528,10.92225,15,Colombia / Atlántico / Barranquilla / Metropolitana / Villa Sevilla
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Las Granjas,5701074,-74.82567,10.92394,15,Colombia / Atlántico / Barranquilla / Metropolitana / Las Granjas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Siete de Abril,5701075,-74.81858,10.92906,15,Colombia / Atlántico / Barranquilla / Metropolitana / Siete de Abril
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Los Girasoles,5701076,-74.80562,10.92506,15,Colombia / Atlántico / Barranquilla / Metropolitana / Los Girasoles
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Ciudadela Veinte de Julio,5701077,-74.80166,10.92887,15,Colombia / Atlántico / Barranquilla / Metropolitana / Ciudadela Veinte de Julio
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Santa Helena,5701078,-74.78150,10.94579,15,Colombia / Atlántico / Barranquilla / Metropolitana / Santa Helena
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,San Roque,5701079,-74.78014,10.97027,15,Colombia / Atlántico / Barranquilla / Metropolitana / San Roque
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,Realengo,5701080,-74.814517,10.936412,15,Colombia / Atlántico / Barranquilla / Metropolitana / Realengo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Metropolitana,5700103,La Pradera,5701081,-74.84171,10.97753,15,Colombia / Atlántico / Barranquilla / Metropolitana / La Pradera
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Los Olivos,5701082,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Los Olivos
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,El Pueblo,5701083,-74.84097,10.96155,15,Colombia / Atlántico / Barranquilla / Sur Occidente / El Pueblo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Las Estrellas,5701084,-74.83283,10.98256,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Las Estrellas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Pastoral Social,5701085,-74.83032,10.98057,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Pastoral Social
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Villa del Rosario,5701086,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Villa del Rosario
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Las Terrazas,5701087,-74.82046,10.98319,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Las Terrazas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Mercedes Sur,5701088,-74.81612,10.98470,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Mercedes Sur
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Por Fin,5701089,-74.82759,10.97378,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Por Fin
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,La Paz,5701090,-74.83354,10.96339,15,Colombia / Atlántico / Barranquilla / Sur Occidente / La Paz
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Mequejo,5701091,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Mequejo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,La Manga,5701092,-74.82457,10.97140,15,Colombia / Atlántico / Barranquilla / Sur Occidente / La Manga
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,7 de agosto,5701093,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / 7 de agosto
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Evaristo Sourdis,5701094,-74.82381,10.95947,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Evaristo Sourdis
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Lipaya,5701095,-74.81767,10.96267,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Lipaya
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Olaya,5701096,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Olaya
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,El Silencio,5701097,-74.81683,10.97919,15,Colombia / Atlántico / Barranquilla / Sur Occidente / El Silencio
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,La Libertad,5701098,-74.81607,10.97649,15,Colombia / Atlántico / Barranquilla / Sur Occidente / La Libertad
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Nueva Granada,5701099,-74.80457,10.97861,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Nueva Granada
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Santo Domingo,5701100,-74.80131,10.97767,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Santo Domingo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Lucero,5701101,-74.79665,10.97687,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Lucero
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Los Pinos,5701102,-74.79862,10.97517,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Los Pinos
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Loma Fresca,5701103,-74.79416,10.97272,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Loma Fresca
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,San Isidro,5701104,-74.79395,10.97039,15,Colombia / Atlántico / Barranquilla / Sur Occidente / San Isidro
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Alfonso López,5701105,-74.79122,10.96663,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Alfonso López
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Los Andes,5701106,-74.80388,10.97204,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Los Andes
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,San Felipe,5701107,-74.80967,10.97304,15,Colombia / Atlántico / Barranquilla / Sur Occidente / San Felipe
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Carlos Meisel,5701108,-74.81688,10.97408,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Carlos Meisel
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Nueva Colombia,5701109,-74.81786,10.97124,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Nueva Colombia
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Las Malvinas,5701110,-74.82863,10.95263,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Las Malvinas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Los Rosales,5701111,-74.83101,10.95847,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Los Rosales
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Pumarejo,5701112,-74.80328,10.96718,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Pumarejo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Villate,5701113,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Villate
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,El Carmen,5701114,-74.79948,10.96375,15,Colombia / Atlántico / Barranquilla / Sur Occidente / El Carmen
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Buena Esperanza,5701115,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Buena Esperanza
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,La Ceiba,5701116,-74.80603,10.95869,15,Colombia / Atlántico / Barranquilla / Sur Occidente / La Ceiba
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,La Esmeralda,5701117,-74.81931,10.96692,15,Colombia / Atlántico / Barranquilla / Sur Occidente / La Esmeralda
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,El Bosque,5701118,-74.81785,10.95483,15,Colombia / Atlántico / Barranquilla / Sur Occidente / El Bosque
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,San Pedro Alejandrino,5701119,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / San Pedro Alejandrino
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,La Gloria,5701120,-74.83055,10.94981,15,Colombia / Atlántico / Barranquilla / Sur Occidente / La Gloria
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Villa Flor,5701121,-74.82853,10.94888,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Villa Flor
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,El Romance,5701122,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / El Romance
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,California,5701123,-74.82666,10.94580,15,Colombia / Atlántico / Barranquilla / Sur Occidente / California
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,San Pedro,5701124,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / San Pedro
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Cordialidad,5701125,-74.83068,10.94601,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Cordialidad
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Las Torres,5701126,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Las Torres
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Ciudad Modesto,5701127,-74.82888,10.96482,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Ciudad Modesto
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Paloquemao,5701128,-74.818463,10.96512,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Paloquemao
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Cevillar,5701129,-74.80116,10.95986,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Cevillar
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Atlántico,5701130,-74.78815,10.96906,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Atlántico
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Villa Blanca,5701131,-74.79708,10.93301,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Villa Blanca
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,El Valle,5701132,-74.80883,10.96679,15,Colombia / Atlántico / Barranquilla / Sur Occidente / El Valle
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Occidente,5700104,Chiquinquirá,5701133,-74.78780,10.97501,15,Colombia / Atlántico / Barranquilla / Sur Occidente / Chiquinquirá
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Rebolo,5701134,-74.77395,10.96617,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Rebolo
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Montes,5701135,-74.78446,10.96380,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Montes
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,San José,5701136,-74.79407,10.95864,15,Colombia / Atlántico / Barranquilla / Sur Oriente / San José
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Boyacá,5701137,-74.78779,10.95779,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Boyacá
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Los Trupillos,5701138,-74.78355,10.95771,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Los Trupillos
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,La Luz,5701139,-74.76919,10.95872,15,Colombia / Atlántico / Barranquilla / Sur Oriente / La Luz
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,La Chinita,5701140,-74.77023,10.95243,15,Colombia / Atlántico / Barranquilla / Sur Oriente / La Chinita
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Las Nieves,5701141,-74.78011,10.95388,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Las Nieves
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,La Unión,5701142,-74.78937,10.95259,15,Colombia / Atlántico / Barranquilla / Sur Oriente / La Unión
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,El Campito,5701143,-74.79378,10.94858,15,Colombia / Atlántico / Barranquilla / Sur Oriente / El Campito
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Las Palmas,5701144,-74.79030,10.94524,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Las Palmas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,La Magdalena,5701145,-74.79509,10.94283,15,Colombia / Atlántico / Barranquilla / Sur Oriente / La Magdalena
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,El Limón,5701146,-74.78708,10.94187,15,Colombia / Atlántico / Barranquilla / Sur Oriente / El Limón
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,El Tayrona,5701147,-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente / El Tayrona
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Universal,5701148,-74.78583,10.93808,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Universal
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Las Dunas,5701149,-74.79170,10.93821,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Las Dunas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,San Nicolás,5701150,-74.79467,10.93660,15,Colombia / Atlántico / Barranquilla / Sur Oriente / San Nicolás
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,José Antonio Galán,5701151,-74.79014,10.93708,15,Colombia / Atlántico / Barranquilla / Sur Oriente / José Antonio Galán
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,El Milagro,5701152,-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente / El Milagro
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Los Laureles,5701153,-74.79202,10.93310,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Los Laureles
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Bella Arena,5701154,-74.79599,10.93198,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Bella Arena
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Villa del Carmen,5701155,-74.79360,10.93114,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Villa del Carmen
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,La Alboraya,5701156,-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente / La Alboraya
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Ciudad Cisneros,5701157,-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Ciudad Cisneros
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,El Parque,5701158,-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente / El Parque
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Las Gaviotas,5701159,-74.790382,10.946724,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Las Gaviotas
+5,Neighbourhood,Colombia,1,Atlántico,57,Barranquilla,5700003,Sur Oriente,5700105,Simón Bolívar,5701160,-74.77745,10.94251,15,Colombia / Atlántico / Barranquilla / Sur Oriente / Simón Bolívar

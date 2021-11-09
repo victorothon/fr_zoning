@@ -1,0 +1,195 @@
+OK - OK
+['altos', 'riomar']
+['riomar']
+riomar
+2
+
+OK - OK
+['flores']
+['floresta']
+flores
+2
+
+OK - OK
+['nuevo', 'horizonte'] -Eliminado
+['nuevo', 'horizonte']
+nuevohorizonte
+2
+
+OK - OK
+['parte', 'altos', 'prado'] - Eliminado
+['altos', 'prado']
+altosprado
+2
+
+OK - OK
+['parte', 'paraiso'] - Eliminado
+['paraiso']
+paraiso
+2
+
+OK - OK
+['america']
+['americas']
+america
+2
+
+OK - OK
+['colombia']
+['nueva', 'colombia']
+colombia
+2
+
+OK - OK
+['parte', 'altos', 'prado'] - Eliminado
+['altos', 'prado']
+['prado']
+prado
+3
+
+OK - OK
+['nuevo', 'horizonte'] - Eliminado
+['nuevo', 'horizonte']
+nuevohorizonte
+2
+
+OK - OK
+['mercedes']
+['mercedes', 'sur']
+mercedes
+2
+
+OK - OK
+['recreo']
+['parte', 'el', 'recreo'] - Eliminado
+recreo
+2
+
+OK - OK
+['rosario']
+['villa', 'rosario']
+rosario
+2
+
+OK - OK
+['sierra'] - Eliminado
+['sierra']
+sierra
+2
+
+OK - OK
+['victoria']
+['parte', 'la', 'victoria'] - Eliminado
+['parte', 'la', 'victoria'] - Eliminado
+victoria
+3
+
+OK - OK
+['buenos', 'aires']
+['parte', 'buenos', 'aires'] - Eliminado
+buenosaires
+2
+
+OK - OK
+['veinte', 'julio']
+['ciudadela', 'veinte', 'julio']
+veintejulio
+2
+
+OK - OK
+['parte', 'la', 'victoria'] - Eliminado
+['parte', 'la', 'victoria'] - Eliminado
+partelavictoria
+2
+
+OK - OK
+['santa', 'helena'] - Eliminado
+['santa', 'helena']
+santahelena
+2
+
+OK - OK
+['san', 'roque'] - Eliminado
+['san', 'roque']
+sanroque
+2
+
+OK - OK
+['santo', 'domingo', 'guzman']
+['santo', 'domingo']
+santodomingo
+2
+
+OK - OK
+['carmen']
+['villa', 'carmen']
+carmen
+2
+
+OK - OK
+['sierra'] - Eliminado
+['sierra']
+sierra
+2
+
+OK - OK
+['chiquinquira'] - Eliminado
+['chiquinquira']
+chiquinquira
+2
+
+OK - OK
+['villa', 'san', 'pedro']
+['san', 'pedro', 'alejandrino']
+['san', 'pedro']
+sanpedro
+3
+
+OK - OK
+['atlantico'] - Eliminado
+['atlantico']
+atlantico
+2
+
+OK - OK
+['chiquinquira'] - Eliminado
+['chiquinquira']
+chiquinquira
+2
+
+OK - OK
+['san', 'roque'] - Eliminado
+['san', 'roque']
+sanroque
+2
+
+OK - OK
+['atlantico'] - Eliminado
+['atlantico']
+atlantico
+2
+
+OK - OK
+['santa', 'helena'] - Eliminado
+['santa', 'helena']
+santahelena
+2
+
+OK - OK
+['parte', 'la', 'victoria'] - Eliminado
+['parte', 'la', 'victoria'] - Eliminado
+partelavictoria
+2
+
+OK - OK
+['altos', 'limon']
+['limoncito']
+['limon']
+limon
+3
+
+OK
+['parte', 'villa', 'blanca'] - Eliminado
+['villa', 'blanca']
+villablanca
+2
