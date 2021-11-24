@@ -2,8 +2,9 @@ INSERT INTO
 	FC_COL_WRT..DLocations (PK_LocationId, Location, Preposition, LocationWASId, ParentLevel, Weight, Map, [Order], Status, Latitude, Longitude,polygonVertex, majorLocation
 	)
 VALUES
-	(5700101,'Zona Riomar','',5700101,5700003,0,0,0,2,11.01076,-74.813154,'',NULL),
-	(5700102,'Zona Norte Centro Histórico','',5700102,5700003,0,0,0,2,10.993471,-74.825499,'',NULL),
-	(5700103,'Zona Metropolitana','',5700103,5700003,0,0,0,2,10.936412,-74.814517,'',NULL),
-	(5700104,'Zona Sur Occidente','',5700104,5700003,0,0,0,2,10.96512,-74.818463,'',NULL),
-	(5700105,'Zona Sur Oriente','',5700105,5700003,0,0,0,2,10.946724,-74.790382,'',NULL),
+	(5800101,'Zona Histórica y del Caribe Norte','',5800101,5800003,0,0,0,2,10.251463,-75.575312,'',NULL),
+	(5800102,'Zona De la Virgen y Turística','',5800102,5800003,0,0,0,2,10.451918,-75.493625,'',NULL),
+	(5800103,'Zona Industria de la Bahía','',5800103,5800003,0,0,0,2,10.34425,-75.492484,'',NULL),
+	(,'Zona ','',,,0,0,0,2,,,'',NULL),
+	(,'Zona ','',,,0,0,0,2,,,'',NULL)
+	

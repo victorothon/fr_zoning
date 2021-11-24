@@ -5,7 +5,7 @@
 ###
 
 import json
-import csv
+import re
 from os import read
 
 COD_PAIS = '1'
@@ -15,6 +15,14 @@ CIUDAD = 'CARTAGENA'
 ZOOM = '16'
 SORTING = '10'
 STATUS = '2'
+
+
+def no_acronyms(str):
+    if re.search('[a-zA-Z]+\.', str) == None or 'SC.' in str:
+        return True
+    else:
+        return False
+
 
 def code_zone_cartagena(code):
     
@@ -62,7 +70,7 @@ with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
         else:
             polygon = location["geometry"]["coordinates"][0][0]
 
-        if ciudad == CIUDAD and str(barrio) != "A.S.D." and str(barrio) != "N.N.":
+        if ciudad == CIUDAD and str(barrio) != "A.S.D." and str(barrio) != "N.N." and no_acronyms(str(barrio)):
             point = centroid(polygon)
             info_string =   str(Nei_idx) + ";" + COD_PAIS + ";" + COD_DEP + ";" + COD_CIUDAD + ";" +\
                             str(code_zone_cartagena(cod_zona)) + ";" + str(barrio) + ";" + \

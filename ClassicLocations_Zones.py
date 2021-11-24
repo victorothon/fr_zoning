@@ -6,10 +6,10 @@ ID = ''
 PLACE_CODE = ''
 IS_ACTIVE = 1
 TO_FILTER = 1
-CITY_CODE = 5700003
+CITY_CODE = 5800003
 COUNTRY = 'colombia'
-DEPARTMENT = 'atlantico'
-CITY = 'barranquilla'
+DEPARTMENT = 'bolivar'
+CITY = 'cartagena'
 GROUP = 'zonas'
 ZONE = 'Zona'
 

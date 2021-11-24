@@ -15,10 +15,10 @@ def csv_to_lst(csv_obj):
     return out_lst
 
 
-def remove_article(lst):
-    art_lst = ['el', 'del', 'las', 'la', 'los', 'de']
+def remove_words(lst):
+    wrd_lst = ['el', 'del', 'las', 'la', 'los', 'de', 'sc', '-']
     for word in lst:
-        if word in art_lst:
+        if word in wrd_lst:
             lst.remove(word)
     return lst
 
@@ -62,7 +62,7 @@ with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
     clean_lst = []
     for name_str in neighbor_lst:
         words = name_str.split(' ')
-        clean_lst.append(remove_article(words))
+        clean_lst.append(remove_words(words))
 
     print(compare_lists(clean_lst, clean_lst))
 

@@ -15,6 +15,17 @@
 # --WHERE TEMP.PK_AdvertId = 791820
 
 import csv
+def remove_words(str):
+    str_lst = str.split(' ')
+    wrd_lst = ['el', 'del', 'las', 'la', 'los', 'de', 'y', 'sc', '-']
+    for word in wrd_lst:
+        if word in str_lst:
+            str_lst.remove(word)
+    out_str = '%'
+    for word in str_lst:
+        out_str = out_str + '{}%'.format(word)
+    return out_str
+
 
 def simplify(text):
 	import unicodedata
@@ -23,9 +34,7 @@ def simplify(text):
 	#except NameError:
 	#	pass
 	text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
-	return str(text)\
-                    .lower()\
-                    .replace(' ','%')
+	return remove_words(str(text).lower()).replace(' ','%')
 
 with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
     read_file = csv.reader(in_file)
@@ -48,7 +57,7 @@ INNER JOIN (\n\
     WHERE FK_Location1Id = {}\n\
         AND FK_Location2Id = {}\n\
         --AND FK_Location4Id = 0\n\
-        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like \'%{}%\'\n\
+        AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like \'{}\'\n\
     ) AS TEMP\n\
 ON Destino.PK_AdvertId = TEMP.PK_AdvertId\n\n'\
                 .format(i, row[5], row[4], row[0],row[2], row[3], simplify(row[5])))
