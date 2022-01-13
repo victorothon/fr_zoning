@@ -7,7 +7,7 @@ import csv
 import json
 from os import read
 
-CIUDAD = 'ITAGUI'
+CIUDAD = 'SANTA MARTA'
 
 
 with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
@@ -22,9 +22,8 @@ with open("read_files/colombia_neighbourhoods.geojson", "r") as geo_file:
         barrio = location["properties"]["NOMBRE"]
         if ciudad not in barrios_in_city_dict:
             barrios_in_city_dict[ciudad] = 1
-        else:
-            if 'A.S.D' not in barrio and 'N.N' not in barrio:
-                barrios_in_city_dict[ciudad] += 1
+        elif 'A.S.D' not in barrio and 'N.N' not in barrio:
+            barrios_in_city_dict[ciudad] += 1
         
     print(barrios_in_city_dict)
 

@@ -16,7 +16,7 @@ def csv_to_lst(csv_obj):
 
 
 def remove_words(lst):
-    wrd_lst = ['el', 'del', 'las', 'la', 'los', 'de', 'sc', '-']
+    wrd_lst = ['el', 'del', 'las', 'la', 'los', 'de', 'y', '-']
     for word in lst:
         if word in wrd_lst:
             lst.remove(word)

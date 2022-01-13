@@ -22,7 +22,7 @@ import csv
 
 def remove_words(str):
     str_lst = str.split(' ')
-    wrd_lst = ['el', 'del', 'las', 'la', 'los', 'de', 'y', 'sc', '-']
+    wrd_lst = ['el', 'del', 'las', 'la', 'los', 'de', 'y', '-']
     for word in wrd_lst:
         if word in str_lst:
             str_lst.remove(word)
@@ -31,10 +31,18 @@ def remove_words(str):
         out_str = out_str + '{}%'.format(word)
     return out_str
 
+
 def simplify(text):
-    import unicodedata
-    text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
-    return remove_words(str(text).lower()).replace(' ', '%')
+    # import unicodedata
+    # text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
+    text = text\
+        .lower()\
+        .replace('á', 'a')\
+        .replace('é', 'e')\
+        .replace('í', 'i')\
+        .replace('ó', 'o')\
+        .replace('ú', 'u')
+    return remove_words(text)
 
 
 with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:

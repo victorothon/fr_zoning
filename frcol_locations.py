@@ -1,10 +1,10 @@
 import csv
 
 
-STATE = 'santander'
-STATE_ID = 75
-CITY = 'bucaramanga'
-CITY_ID = 7500007
+STATE = 'bolivar'
+STATE_ID = 58
+CITY = 'cartagena'
+CITY_ID = 5800003
 
 
 def custom_replace(string):

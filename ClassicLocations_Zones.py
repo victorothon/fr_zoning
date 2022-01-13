@@ -6,12 +6,12 @@ ID = ''
 PLACE_CODE = ''
 IS_ACTIVE = 1
 TO_FILTER = 1
-CITY_CODE = 5800003
+CITY_CODE = 7200003
 COUNTRY = 'colombia'
-DEPARTMENT = 'bolivar'
-CITY = 'cartagena'
+DEPARTMENT = 'magdalena'
+CITY = 'santa marta'
 GROUP = 'zonas'
-ZONE = 'Zona'
+ZONE = 'ZONA'
 
 
 def custom_replace(string):

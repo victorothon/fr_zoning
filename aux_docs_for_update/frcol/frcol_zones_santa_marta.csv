@@ -1,0 +1,14 @@
+LEVEL_ID,type,country,country_id,state,state_id,city,city_id,zone,zone_id,neighbourhood,neighbourhood_id,x,y,z,path
+4,Zone,Colombia,1,Magdalena,72,Santa Marta,7200003,MARIA EUGENIA - PANDO,7200101,'','',-74.206123,11.219027,14,Colombia / Magdalena / Santa Marta / MARIA EUGENIA - PANDO
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,CENTRAL,7200102,'','',-74.210072,11.237422,14,Colombia / Magdalena / Santa Marta / CENTRAL
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,PESCAITO,7200103,'','',-74.19036,11.260819,14,Colombia / Magdalena / Santa Marta / PESCAITO
+4,Zone,Colombia,1,Magdalena,72,Santa Marta,7200003,POLIDEPORTIVO - EL JARDIN,7200104,'','',-74.196124,11.240831,14,Colombia / Magdalena / Santa Marta / POLIDEPORTIVO - EL JARDIN
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,SANTA FE - BASTIDAS,7200105,'','',-74.179687,11.238937,14,Colombia / Magdalena / Santa Marta / SANTA FE - BASTIDAS
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,PARQUE - 11 DE NOVIEMBRE,7200106,'','',-74.171405,11.231108,14,Colombia / Magdalena / Santa Marta / PARQUE - 11 DE NOVIEMBRE
+4,Zone,Colombia,1,Magdalena,72,Santa Marta,7200003,RODADERO - GAIRA,7200107,'','',-74.221315,11.191958,14,Colombia / Magdalena / Santa Marta / RODADERO - GAIRA
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,POZO COLORADO - PIEDRA INCA,7200108,'','',-74.220586,11.14366,14,Colombia / Magdalena / Santa Marta / POZO COLORADO - PIEDRA INCA
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,BURECHE LA CONCEPCIÓN,7200109,'','',-74.176508,11.216646,14,Colombia / Magdalena / Santa Marta / BURECHE LA CONCEPCIÓN
+4,Zone,Colombia,1,Magdalena,72,Santa Marta,7200003,CORREGIMIENTO BONDA,7200110,'','',-74.111081,11.235532,14,Colombia / Magdalena / Santa Marta / CORREGIMIENTO BONDA
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,CORREGIMIENTO GUACHACA,7200111,'','',-73.838429,11.245393,14,Colombia / Magdalena / Santa Marta / CORREGIMIENTO GUACHACA
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,CORREGIMIENTO MINCA,7200112,'','',-74.120121,11.151287,14,Colombia / Magdalena / Santa Marta / CORREGIMIENTO MINCA
+4,Zone,Colombia,1,Magdalena,57,Santa Marta,7200003,CORREGIMIENTO TAGANGA,7200113,'','',-74.189629,11.268575,14,Colombia / Magdalena / Santa Marta / CORREGIMIENTO TAGANGA

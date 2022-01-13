@@ -6,7 +6,7 @@ import json
 NOMINATIM_API_URL = 'https://nominatim.openstreetmap.org/search'
 
 payload = {}
-payload['q'] = 'floridablanca santander'
+payload['q'] = 'santa marta'
 #payload['addressdetails'] = 1
 payload['format'] = 'json'
 #payload['detail'] = 1

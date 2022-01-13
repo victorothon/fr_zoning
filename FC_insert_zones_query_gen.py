@@ -17,4 +17,4 @@ with open('read_files/FC_zones_with_nodes.csv','r') as in_file: # SELECT input f
 		output.write('VALUES\n')
 		
 		for row in read_file:
-			output.write('\t(' + row[0] + ',\'' + 'Zona ' + row[1] + '\',' + ','.join(row[2:]) + '),\n') 
+			output.write('\t(' + row[0] + ',\'' + 'ZONA' + row[1] + '\',' + ','.join(row[2:]) + '),\n') 
