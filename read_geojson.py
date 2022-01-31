@@ -9,15 +9,16 @@ import re
 from os import read
 import csv
 
-POLY_FILE = "read_files/geojson/zones/col_zone_santaMarta.geojson"
+POLY_FILE = "read_files/geojson/zones/col_zone_manizales
+.geojson"
 COD_PAIS = '1'
-COD_DEP = '72'
-COD_CIUDAD = '7200003'
-CIUDAD = 'SANTA MARTA'
+COD_DEP = '60'
+COD_CIUDAD = '6000006'
+CIUDAD = 'MANIZALES'
 ZOOM = '16'
 SORTING = '10'
 STATUS = '2'
-NEIGH_IDX = 7201001
+NEIGH_IDX = 6001001
 
 
 def poly_coords_communes_servi(file, city):

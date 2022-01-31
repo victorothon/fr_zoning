@@ -4,17 +4,20 @@ WHERE FK_Location1Id = 72
     AND FK_Location2Id = 7200003
         --AND FK_Location4Id = 0
     AND ( 
-            FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%miraflor%'
+            FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%taminaca%'
         )
 
 
 
 SELECT Neighborhood, COUNT(Neighborhood) AS Num_of_Ads
 FROM FC_COL_WRT..AdvertsRealstate (NOLOCK)
-WHERE FK_Location1Id = 58
-    AND FK_Location2Id = 5800003
-        AND FK_Location4Id NOT BETWEEN 5801001 AND 5801253
-    --AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%india%'
+WHERE FK_Location1Id = 72
+    AND FK_Location2Id = 7200003
+        --AND FK_Location4Id NOT BETWEEN 5801001 AND 5801253
+/*     AND ( 
+            FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) like '%santa%lucia%'
+            --AND FC_COL_WRT.dbo.[UDF_GenerateSlug](FC_COL_AUX.dbo.[ReplaceASCII](LOWER(LTRIM(RTRIM(Neighborhood))))) not like '%av%'
+        ) */
 GROUP BY Neighborhood
 ORDER BY Num_of_Ads DESC
 

@@ -1,7 +1,6 @@
 # coding=utf-8
 import csv
 
-
 def replace_accented_vowels(string):
     out_string = string.lower().replace('á', 'a').replace('é', 'e') \
         .replace('í', 'i').replace('ó', 'o').replace('ú', 'u')
@@ -36,6 +35,7 @@ def compare_lists(lst1, lst2):
     :rtype: int list
     """
     output = []
+    total_reps = 0
     # outer loop - reference lst from in_lst
     for ref_lst in lst1:
         count = 0
@@ -49,7 +49,9 @@ def compare_lists(lst1, lst2):
         if count > 1:
             print(lst_to_str(ref_lst))
             print(count)
+            total_reps += 1
         output.append(count)
+    return total_reps
 
 
 with open('read_files/OV_neighborhoods_with_nodes.csv', 'r') as in_file:
